@@ -110,5 +110,63 @@ class PublishTests(unittest.TestCase):
         self.assertEqual(publish.missing_products(self.root, {"produits": {"p": {"nom": "Oignon"}}}), ["Curcuma"])
 
 
+
+
+class CheckSteps(unittest.TestCase):
+    def good(self):
+        return {
+            "id": "w46-01", "type": "plat", "nom": "Plat", "etapesVersion": 1, "ustensiles": ["Poêle"],
+            "ingredients": [{"n": "Riz basmati", "q": 60, "u": "g"}, {"n": "Huile d'olive", "q": 5, "u": "g"}],
+            "etapes": [
+                {"n": f"Étape {k}", "t": "Faites ceci.", "r": "chef"} for k in range(1, 4)
+            ] + [
+                {"n": "Riz", "t": "Lancez le riz.", "r": "commis", "m": 12, "p": "L'eau est absorbée.",
+                 "i": ["Riz basmati", "Eau=2*Riz basmati", "Huile d'olive|0.5"], "g": ["riz"]},
+                {"n": "Finir", "t": "Ajoutez le reste de l'huile.", "r": "ensemble", "i": ["Huile d'olive|0.5"]},
+            ],
+        }
+
+    def check(self, recipe):
+        with tempfile.TemporaryDirectory() as root:
+            os.makedirs(os.path.join(root, "recettes"))
+            with open(os.path.join(root, "recettes", "w46-01.json"), "w", encoding="utf-8") as f:
+                json.dump(recipe, f)
+            return publish.check_steps(root)
+
+    def test_une_recette_conforme_passe(self):
+        self.assertEqual(self.check(self.good()), [])
+
+    def test_le_vocabulaire_de_cuisinier_est_signale(self):
+        r = self.good()
+        r["etapes"][0]["t"] = "Émincez l'oignon et réservez."
+        self.assertTrue(any("mot de cuisinier" in p for p in self.check(r)))
+
+    def test_un_ingredient_oublie_est_signale(self):
+        r = self.good()
+        r["ingredients"].append({"n": "Persil plat", "q": 3, "u": "g"})
+        self.assertTrue(any("Persil plat" in p for p in self.check(r)))
+
+    def test_des_parts_qui_ne_font_pas_un_sont_signalees(self):
+        r = self.good()
+        r["etapes"][-1]["i"] = ["Huile d'olive"]
+        self.assertTrue(any("les parts font" in p for p in self.check(r)))
+
+    def test_un_ingredient_inconnu_est_signale(self):
+        r = self.good()
+        r["etapes"][-1]["i"] = ["Huile d'olive|0.5", "Eau=2*Riz"]
+        self.assertTrue(any("Riz" in p and "pas un ingrédient" in p for p in self.check(r)))
+
+    def test_un_minuteur_sans_repere_est_signale(self):
+        r = self.good()
+        del r["etapes"][3]["p"]
+        self.assertTrue(any("sans repère" in p for p in self.check(r)))
+
+    def test_des_etapes_non_reecrites_sont_signalees(self):
+        r = self.good()
+        del r["etapesVersion"], r["ustensiles"]
+        problems = self.check(r)
+        self.assertTrue(any("etapesVersion" in p for p in problems) and any("ustensiles" in p for p in problems))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=0)

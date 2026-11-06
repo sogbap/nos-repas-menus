@@ -3,6 +3,7 @@
 
 Usage : python3 publish.py <dossier d'export> <menus.json>
         python3 publish.py --manquants <dossier d'export> <menus.json>   liste les ingrédients sans fiche produit connue
+        python3 publish.py --verifier <dossier d'export>                 relit les étapes réécrites selon GUIDE-ETAPES.md
 
 Le dossier d'export contient config/etat.json et, un fichier JSON par document, recettes/ et produits/ (les nouveautés suffisent : ce
 qui est déjà dans menus.json reste). Ce dépôt est public : seuls les recettes et les prix estimés en sortent, sans rien de ce qui
@@ -21,6 +22,13 @@ MIN_DISHES = 5
 HOUSEHOLD_FIELDS = ("achete", "choisiLe", "couverts", "fait", "jour")
 PERSONAL = re.compile(r"Baptiste|Rapha[eë]lle|Simonneau|Soul[eé]\b|Dammarie|@[a-z0-9-]+\.[a-z]", re.I)
 WEEK = re.compile(r"^(\d{4})-W(\d{2})$")
+# Le vocabulaire de cuisinier, à remplacer par ce qu'il faut faire réellement (voir GUIDE-ETAPES.md).
+JARGON = re.compile(
+    r"\b(éminc\w*|cisel\w*|réserv\w*|déglac\w*|déglaç\w*|su(?:er|ez)|nacr\w*|sais(?:ir|issez|i|ie|ies|is)\b|torréfi\w*|égren\w*|égrain\w*"
+    r"|julienne\w*|rectifi\w*|faites revenir|faire revenir|mijot\w*|blanchi\w*|concass\w*|effeuill\w*|effiloch\w*|abaiss\w*|napp\w*)\b", re.I)
+TECHNIQUES = {"mesures", "sel", "feu", "four", "coupes", "oignon", "ail", "gingembre", "citron", "herbes", "courge", "poireau", "chou", "champignons",
+              "pommes-de-terre", "frites", "riz", "pates", "semoule", "oeufs", "volaille", "dorer", "sucs", "reduire", "poisson", "moules", "epinards",
+              "bouillon", "boites"}
 
 
 def fail(message):
@@ -101,6 +109,8 @@ def build(root, previous):
     for r in kept.values():
         if not r.get("nom") or not r.get("ingredients") or not r.get("etapes"):
             fail("recette incomplète : " + str(r.get("id")) + ".")
+        if not isinstance(r["etapes"], list) or not all(isinstance(e, dict) and e.get("t") for e in r["etapes"]):
+            fail("étapes illisibles : " + str(r.get("id")) + ".")
     out = {
         "config": {"etat": {k: state.get(k) for k in ("semaine", "theme", "defi")}},
         "produits": products,
@@ -111,6 +121,63 @@ def build(root, previous):
     if found:
         fail("donnée personnelle dans le fichier : « " + text[max(0, found.start() - 40):found.end() + 40].replace("\n", " ") + " ».")
     return text, week, len(dishes), len(kept), len(products)
+
+
+def check_steps(root):
+    """Ce qui ne respecte pas GUIDE-ETAPES.md dans les recettes de l'export. Rien de bloquant : c'est une relecture."""
+    problems = []
+    for key, r in load(root, "recettes").items():
+        def say(message):
+            problems.append(f"{key} : {message}")
+        names = [i.get("n") for i in r.get("ingredients") or []]
+        steps = r.get("etapes") or []
+        if not r.get("etapesVersion"):
+            say("etapesVersion manque, les étapes ne seraient jamais prises pour plus récentes")
+        if r.get("type") == "plat" and not r.get("ustensiles"):
+            say("ustensiles manque")
+        if r.get("type") == "plat" and len(steps) < 5:
+            say(f"{len(steps)} étapes seulement")
+        parts = {}
+        for n, e in enumerate(steps, 1):
+            where = f"étape {n}"
+            if not isinstance(e, dict):
+                say(f"{where} illisible")
+                continue
+            if not e.get("n"):
+                say(f"{where} sans titre (n)")
+            if not e.get("t"):
+                say(f"{where} sans texte (t)")
+            if e.get("r") not in ("chef", "commis", "ensemble"):
+                say(f"{where} : rôle inconnu ({e.get('r')})")
+            if e.get("m") and not e.get("p"):
+                say(f"{where} : minuteur sans repère (p)")
+            for use in e.get("i") or []:
+                water = re.fullmatch(r"(.+?)=([\d.]+)\*(.+)", use)
+                if water:
+                    if water[3] not in names:
+                        say(f"{where} : « {water[3]} » n'est pas un ingrédient de la recette")
+                    continue
+                name, _, share = use.partition("|")
+                if name not in names:
+                    say(f"{where} : « {name} » n'est pas un ingrédient de la recette")
+                    continue
+                try:
+                    parts[name] = parts.get(name, 0) + (float(share) if share else 1)
+                except ValueError:
+                    say(f"{where} : part illisible dans « {use} »")
+            for g in e.get("g") or []:
+                if g not in TECHNIQUES:
+                    say(f"{where} : geste inconnu ({g})")
+            for text in (e.get("n"), e.get("t"), e.get("p"), e.get("a")):
+                found = JARGON.search(text or "")
+                if found:
+                    say(f"{where} : mot de cuisinier à remplacer (« {found[0]} »)")
+        for name in names:
+            if name not in parts:
+                say(f"« {name} » n'apparaît dans aucune étape")
+            elif abs(parts[name] - 1) > 0.05:
+                say(f"« {name} » : les parts font {round(parts[name], 2)}, pas 1")
+    return problems
 
 
 def missing_products(root, previous):
@@ -125,6 +192,10 @@ def missing_products(root, previous):
 
 
 if __name__ == "__main__":
+    if "--verifier" in sys.argv:
+        problems = check_steps([a for a in sys.argv[1:] if a != "--verifier"][0])
+        print("\n".join(problems) if problems else "Étapes conformes.")
+        sys.exit(1 if problems else 0)
     args = [a for a in sys.argv[1:] if a != "--manquants"]
     if len(args) != 2:
         sys.exit(__doc__)

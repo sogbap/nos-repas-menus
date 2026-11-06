@@ -6,3 +6,6 @@ des menus de la semaine ; l'app le télécharge à l'ouverture et en arrière-pl
 `publish.py` ajoute au fichier les nouveautés de la semaine ; `python3 test_publish.py` le vérifie. Le fichier ne contient que des
 recettes et des prix estimés : rien sur le foyer (couverts, notes, soirs prévus, réglages, poids, commandes, placard, bilans), et le
 script refuse de publier s'il trouve un nom, une recette incomplète ou une semaine plus ancienne que celle déjà en ligne.
+
+Les étapes des nouvelles recettes sont réécrites pour quelqu'un qui n'a jamais cuisiné : `GUIDE-ETAPES.md` dit comment, et
+`python3 publish.py --verifier export` relit le résultat.
