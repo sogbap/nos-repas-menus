@@ -156,6 +156,11 @@ class CheckSteps(unittest.TestCase):
         r["etapes"][-1]["i"] = ["Huile d'olive|0.5", "Eau=2*Riz"]
         self.assertTrue(any("Riz" in p and "pas un ingrédient" in p for p in self.check(r)))
 
+    def test_un_mauvais_dosage_d_eau_est_signale(self):
+        r = self.good()
+        r["etapes"][3]["i"] = ["Riz basmati", "Eau=1.5*Riz basmati", "Huile d'olive|0.5"]
+        self.assertTrue(any("compter 2" in p for p in self.check(r)))
+
     def test_un_minuteur_sans_repere_est_signale(self):
         r = self.good()
         del r["etapes"][3]["p"]

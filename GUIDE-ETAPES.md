@@ -19,6 +19,7 @@ Les recettes de l'app s'adressent à quelqu'un qui n'a jamais cuisiné. Il peut 
    - déglacer : verser le liquide et gratter le fond ;
    - faire revenir, faire suer : faire cuire en remuant, avec le résultat attendu ;
    - mijoter : laisser cuire à feu doux, de petites bulles doivent monter ;
+   - délayer : mélanger jusqu'à ce qu'il n'y ait plus de grumeaux ;
    - blanchir, nacrer, torréfier, égrener, napper, concasser, effilocher, julienne : même principe.
 5. **Un repère pour chaque cuisson** (`p`) : ce qu'on voit, sent ou entend quand c'est prêt. Une couleur, une texture, un test au couteau. Il complète la phrase « C'est prêt quand… », commence par une majuscule et finit par un point. Une étape avec minuteur a toujours un repère.
 6. **Une mise en garde quand ça peut rater** (`a`) : ce qui brûle vite, ce qui gicle, que faire si c'est trop sec, se laver les mains après la volaille ou la viande crue.
@@ -26,6 +27,21 @@ Les recettes de l'app s'adressent à quelqu'un qui n'a jamais cuisiné. Il peut 
 8. **La sécurité d'abord** : volaille et porc cuits à cœur (jus clair, plus de rose), viande hachée sans rose, moules jetées si elles restent fermées, poisson opaque au cœur.
 
 Secret, veille, batch et texte du lendemain midi suivent les mêmes règles de vocabulaire.
+
+## Les gestes qui reviennent
+
+Ces formulations ont fait leurs preuves : reprends-les, en les adaptant au plat.
+
+- **Riz** : « Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert. » Repère : « Toute l'eau est absorbée et les grains se séparent à la fourchette. »
+- **Pâtes** : d'abord « Remplissez une grande casserole d'eau (au moins 1 litre pour 100 g de pâtes), couvrez et mettez à feu vif. », puis « Quand l'eau bout à gros bouillons, salez-la, versez les pâtes et remuez une fois. Vérifiez le temps sur le paquet. Avant d'égoutter, gardez une petite tasse d'eau de cuisson. » Repère : « Les pâtes sont tendres mais encore un peu fermes sous la dent. »
+- **Semoule** : « Mettez la semoule dans un saladier avec une pincée de sel. Faites bouillir l'eau, versez-la dessus et couvrez avec une assiette. À la fin du minuteur, séparez les grains à la fourchette. »
+- **Bouillon** : « Faites chauffer l'eau, émiettez le cube dedans et remuez jusqu'à ce qu'il soit fondu. »
+- **Poisson surgelé** : « Le mieux est de le mettre la veille au frigo. Sinon, gardez les filets dans un sachet bien fermé et plongez-le 15 à 20 minutes dans un grand bol d'eau froide. Séchez-les ensuite avec du papier absorbant. »
+- **Viande à dorer** : « Posez les morceaux sans qu'ils se touchent et laissez-les 3 minutes sans y toucher avant de les retourner. » Repère : « L'intérieur n'est pas encore cuit, c'est normal. », si la cuisson continue ensuite.
+- **Laisser cuire** : « Quand ça bout, passez à feu doux et couvrez : de petites bulles doivent monter doucement. »
+- **Moules** : « Rincez les moules sous l'eau froide, frottez ce qui colle à la coquille et tirez le petit fil qui dépasse. Tapotez celles qui sont ouvertes : si elles ne se referment pas en une minute, jetez-les. »
+
+Une cuisson qui demande un geste à mi-parcours (retourner, remuer, ajouter) se coupe en deux étapes, chacune avec son minuteur : personne ne pense à regarder l'heure.
 
 ## Le format
 

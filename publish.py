@@ -25,7 +25,9 @@ WEEK = re.compile(r"^(\d{4})-W(\d{2})$")
 # Le vocabulaire de cuisinier, à remplacer par ce qu'il faut faire réellement (voir GUIDE-ETAPES.md).
 JARGON = re.compile(
     r"\b(éminc\w*|cisel\w*|réserv\w*|déglac\w*|déglaç\w*|su(?:er|ez)|nacr\w*|sais(?:ir|issez|i|ie|ies|is)\b|torréfi\w*|égren\w*|égrain\w*"
-    r"|julienne\w*|rectifi\w*|faites revenir|faire revenir|mijot\w*|blanchi\w*|concass\w*|effeuill\w*|effiloch\w*|abaiss\w*|napp\w*)\b", re.I)
+    r"|julienne\w*|rectifi\w*|délay\w*|faites revenir|faire revenir|mijot\w*|blanchi\w*|concass\w*|effeuill\w*|effiloch\w*|abaiss\w*|napp\w*)\b", re.I)
+# Les grammes d'eau par gramme de féculent (voir GUIDE-ETAPES.md).
+WATER = {"Riz basmati": 2, "Riz rond": 1.5, "Semoule complète": 1.4, "Boulgour": 2, "Farine de sarrasin": 2}
 TECHNIQUES = {"mesures", "sel", "feu", "four", "coupes", "oignon", "ail", "gingembre", "citron", "herbes", "courge", "poireau", "chou", "champignons",
               "pommes-de-terre", "frites", "riz", "pates", "semoule", "oeufs", "volaille", "dorer", "sucs", "reduire", "poisson", "moules", "epinards",
               "bouillon", "boites"}
@@ -156,6 +158,8 @@ def check_steps(root):
                 if water:
                     if water[3] not in names:
                         say(f"{where} : « {water[3]} » n'est pas un ingrédient de la recette")
+                    elif water[3] in WATER and abs(float(water[2]) - WATER[water[3]]) > 0.01:
+                        say(f"{where} : pour « {water[3]} », compter {WATER[water[3]]} d'eau, pas {water[2]}")
                     continue
                 name, _, share = use.partition("|")
                 if name not in names:
