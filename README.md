@@ -9,3 +9,8 @@ script refuse de publier s'il trouve un nom, une recette incomplète ou une sema
 
 Les étapes des nouvelles recettes sont réécrites pour quelqu'un qui n'a jamais cuisiné : `GUIDE-ETAPES.md` dit comment, et
 `python3 publish.py --verifier export` relit le résultat.
+
+`picard.json` : le prix de toutes les fiches produits de picard.fr, relevé chaque lundi vers 3 h par l'action GitHub « Relevé des prix
+Picard » (`releve_picard.py`, testé par `test_releve_picard.py`). Le robot respecte robots.txt, s'annonce sous son vrai nom, lit une
+page à la fois et s'arrête au premier refus. L'app met à jour avec lui les prix Picard des produits qu'elle connaît. Le drive Leclerc,
+lui, interdit tout robot (robots.txt) : ses prix ne sont pas relevés automatiquement.

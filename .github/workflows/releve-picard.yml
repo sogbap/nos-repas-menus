@@ -1,0 +1,35 @@
+name: Relevé des prix Picard
+
+on:
+  schedule:
+    # Chaque lundi vers 3 h à Paris, avant les menus.
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Nombre maximal de fiches (vide : toutes)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: releve-picard
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Relever les prix
+        run: python3 releve_picard.py picard.json ${{ inputs.max && format('--max {0}', inputs.max) || '' }}
+      - name: Publier le relevé
+        run: |
+          git config user.name "Nos repas"
+          git config user.email "sogbap@users.noreply.github.com"
+          git add picard.json
+          if git diff --cached --quiet; then echo "Aucun prix n'a changé."; exit 0; fi
+          git commit -m "Prix Picard du $(date +%F)"
+          git pull --rebase origin main
+          git push origin HEAD:main
