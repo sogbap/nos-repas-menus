@@ -1369,6 +1369,15 @@
 "rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
 "url": "https://www.picard.fr/produits/glace-van-bretzel-voya-000000000000010261.html"
 },
+"000000000000010262": {
+"format": "le pot de 400 g",
+"kilo": 14.97,
+"nom": "Glace façon cinamon roll, Voya",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
+"url": "https://www.picard.fr/produits/glace-cinamon-roll-voya-000000000000010262.html"
+},
 "000000000000010272": {
 "format": "le sachet de 600 g",
 "kilo": 4.83,
@@ -2631,10 +2640,10 @@
 },
 "000000000000020858": {
 "format": "la boîte de 1 kg",
-"kilo": 26.39,
+"kilo": 27.7,
 "nom": "Rôti de pintade farci, farce aux cèpes et aux raisins",
 "par": "kg",
-"prix": 26.39,
+"prix": 27.7,
 "rayon": "Viandes et poissons › Volailles › Pintade",
 "url": "https://www.picard.fr/produits/roti-pintade-farci-farce-cepes-raisins-000000000000020858.html"
 },
@@ -3064,10 +3073,10 @@
 },
 "000000000000035893": {
 "format": "la boîte de 294 g",
-"kilo": 25.51,
+"kilo": 23.77,
 "nom": "6 timbales de sorbet, framboise, mangue, citron",
 "par": "kg",
-"prix": 7.5,
+"prix": 6.99,
 "rayon": "Glaces et sorbets › Types, Formats › Sorbets",
 "url": "https://www.picard.fr/produits/6-timbales-sorbet-framboise-mangue-citron-000000000000035893.html"
 },
@@ -4144,10 +4153,10 @@
 },
 "000000000000058755": {
 "format": "la boîte de 470 g",
-"kilo": 15.74,
+"kilo": 14.87,
 "nom": "Fondant au chocolat",
 "par": "kg",
-"prix": 7.4,
+"prix": 6.99,
 "rayon": "Desserts › Pâtisseries",
 "url": "https://www.picard.fr/produits/fondant-chocolat-000000000000058755.html"
 },
@@ -6160,10 +6169,10 @@
 },
 "000000000000074226": {
 "format": "le sachet de 400 g",
-"kilo": 69.97,
+"kilo": 74.25,
 "nom": "Noix de St-Jacques MSC de la Baie de St-Brieuc",
 "par": "kg",
-"prix": 27.99,
+"prix": 29.7,
 "rayon": "Viandes et poissons › Fruits de mer › Saint-Jacques",
 "url": "https://www.picard.fr/produits/nx-st-jacq-st-brieuc-msc-000000000000074226.html"
 },
@@ -7006,10 +7015,10 @@
 },
 "000000000000082217": {
 "format": "la boîte de 750 g",
-"kilo": 21.32,
+"kilo": 22.93,
 "nom": "Rainbow cake, gâteau arc-en-ciel, 6 parts",
 "par": "kg",
-"prix": 15.99,
+"prix": 17.2,
 "rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
 "url": "https://www.picard.fr/produits/rainbow-cake-gateau-arc-ciel-6-parts-000000000000082217.html"
 },
@@ -7501,10 +7510,10 @@
 },
 "000000000000082545": {
 "format": "la boîte de 180 g",
-"kilo": 27.72,
+"kilo": 26.94,
 "nom": "2 moelleux chocolat praliné",
 "par": "kg",
-"prix": 4.99,
+"prix": 4.85,
 "rayon": "Desserts › Pâtisseries › Cakes, moelleux",
 "url": "https://www.picard.fr/produits/2-moelleux-choco-praline-000000000000082545.html"
 },
@@ -10389,10 +10398,10 @@
 },
 "000000000000085755": {
 "format": "le sachet de 180 g",
-"kilo": 23.61,
+"kilo": 22.16,
 "nom": "Guimauves oursons choc lait caramel",
 "par": "kg",
-"prix": 4.25,
+"prix": 3.99,
 "rayon": "Épicerie › Épicerie sucrée › Confiseries",
 "url": "https://www.picard.fr/produits/guimauves-choc-car-180g-000000000000085755.html"
 },
@@ -14355,6 +14364,6 @@
 "url": "https://www.picard.fr/produits/douceurs-de-france-000000000000400041.html"
 }
 },
-"releve": "2026-11-08",
+"releve": "2026-11-09",
 "source": "picard.fr"
 }
