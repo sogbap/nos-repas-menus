@@ -15,7 +15,7 @@
     "technique": "Faire revenir les épices moulues (et le concentré de tomate) 30 secondes à 2 minutes dans l'huile ou le beurre chaud, avec l'oignon, avant d'ajouter le moindre liquide.",
     "titre": "Réveiller les épices dans la matière grasse"
    },
-   "semaine": "2026-W46",
+   "semaine": "2026-W47",
    "theme": null
   }
  },
@@ -645,6 +645,54 @@
     }
    ],
    "recherche": "chou rouge",
+   "vente": "pack"
+  },
+  "p-choucroute-cuite-nature": {
+   "base": "g",
+   "conseil": "Prendre la choucroute cuite nature (sans garniture), au rayon traiteur.",
+   "nom": "Choucroute cuite nature",
+   "packs": [
+    {
+     "label": "sachet de 800 g",
+     "q": 800
+    },
+    {
+     "label": "barquette de 1 kg",
+     "q": 1000
+    }
+   ],
+   "prix": {
+    "maj": "2026-11-16",
+    "n": 0,
+    "par": "kg",
+    "src": "Estimation (prix courant Leclerc)",
+    "v": 2.9
+   },
+   "recherche": "choucroute cuite",
+   "vente": "pack"
+  },
+  "p-choux-de-bruxelles": {
+   "base": "g",
+   "conseil": "Choisir des choux petits, serrés et bien verts ; le surgelé dépanne mais caramélise moins.",
+   "nom": "Choux de Bruxelles",
+   "packs": [
+    {
+     "label": "barquette de 500 g",
+     "q": 500
+    },
+    {
+     "label": "filet de 1 kg",
+     "q": 1000
+    }
+   ],
+   "prix": {
+    "maj": "2026-11-16",
+    "n": 0,
+    "par": "kg",
+    "src": "Estimation (prix courant Leclerc)",
+    "v": 4.2
+   },
+   "recherche": "choux de bruxelles",
    "vente": "pack"
   },
   "p-ciboulette": {
@@ -2096,6 +2144,30 @@
     "v": 18
    },
    "recherche": "cerneaux de noix",
+   "vente": "pack"
+  },
+  "p-nouilles-de-ble-ramen": {
+   "base": "g",
+   "conseil": "Les nouilles chinoises aux œufs en nids conviennent parfaitement.",
+   "nom": "Nouilles de blé (ramen)",
+   "packs": [
+    {
+     "label": "paquet de 250 g",
+     "q": 250
+    },
+    {
+     "label": "paquet de 500 g",
+     "q": 500
+    }
+   ],
+   "prix": {
+    "maj": "2026-11-16",
+    "n": 0,
+    "par": "kg",
+    "src": "Estimation (prix courant Leclerc)",
+    "v": 4.8
+   },
+   "recherche": "nouilles chinoises",
    "vente": "pack"
   },
   "p-nuoc-mam": {
@@ -18625,7 +18697,7 @@
    "secret": "Sécher la peau au papier absorbant et saler 10 minutes avant d'enfourner : elle devient craquante comme une chips.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -18909,7 +18981,7 @@
    "secret": "Ajouter les olives seulement à la fin : elles gardent leur croquant et la sauce ne devient pas trop salée.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -19188,7 +19260,7 @@
    "secret": "Noircir franchement l'oignon et le gingembre avant de les plonger dans le bouillon : c'est ce goût fumé qui fait un vrai phở.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -19450,7 +19522,7 @@
    "secret": "Le paprika brûle en quelques secondes : on le verse hors du feu dans le gras chaud, puis on mouille aussitôt.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -19697,7 +19769,7 @@
    "secret": "Assaisonner les pommes de terre encore brûlantes : elles boivent la vinaigrette et prennent du goût jusqu'au cœur.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -19968,7 +20040,7 @@
    "secret": "Une goutte de sauce soja dans la sauce crème remplace la sauce brune suédoise : couleur ambrée et goût profond.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -20239,7 +20311,7 @@
    "secret": "La tranche de pain à la moutarde fond dans la sauce et la lie toute seule ; le trait de vinaigre final équilibre l'amertume de la bière.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Week-end"
    ],
@@ -20505,7 +20577,7 @@
    "secret": "Laisser le bœuf attacher légèrement au fond avant de verser la tomate : ces sucs donnent au keema son goût rôti.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -20759,7 +20831,7 @@
    "secret": "Le vinaigre dès le départ fixe la couleur violette du chou et lui donne ce goût aigre-doux d'Alsace.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -21021,7 +21093,7 @@
    "secret": "Le passage final à la poêle brûlante, sans remuer, donne aux carnitas leurs bords caramélisés et croustillants.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -21261,7 +21333,7 @@
    "secret": "Laisser mariner le porc 10 minutes dans la moitié de la sauce pendant que le riz cuit : il reste tendre et dore mieux.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -21505,7 +21577,7 @@
    "secret": "Le poisson cuit à la vapeur sur le riz : il reste tendre et blanc, et parfume les grains au lieu de se dessécher.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -21744,7 +21816,7 @@
    "secret": "Les rondelles de citron posées sur le poisson confisent au four : leur amertume douce remplace le sel.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -21988,7 +22060,7 @@
    "secret": "Écraser une partie des pommes de terre dans le bouillon : leur amidon donne l'onctuosité d'une crème sans en mettre.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -22262,7 +22334,7 @@
    "secret": "Un riz cuit la veille et bien froid ne colle pas : les grains se séparent et caramélisent dans la sauce.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -22494,7 +22566,7 @@
    "secret": "Cuire le brocoli avec les pâtes jusqu'à ce qu'il soit bien tendre : écrasé, il devient la sauce elle-même.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -22756,7 +22828,7 @@
    "secret": "Ribollita veut dire « rebouillie » : elle est meilleure le lendemain, réchauffée jusqu'à presque attacher.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -22999,7 +23071,7 @@
    "secret": "Couvrir la poêle pendant la première face : le chou cuit à la vapeur à l'intérieur pendant que l'extérieur grille.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [
     "Express"
    ],
@@ -23325,7 +23397,7 @@
    "secret": "Faire griller les cacahuètes à sec dans une poêle juste avant de servir : elles apportent le croquant et le goût grillé qui font le massaman.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -23620,7 +23692,7 @@
    "secret": "Laisser bouillir le vin 2 minutes avant d'ajouter le bouillon : l'alcool s'évapore et il ne reste que le fruit.",
    "semaine": "2026-W46",
    "source": "hebdo",
-   "statut": "propose",
+   "statut": "archive",
    "tags": [],
    "type": "plat",
    "ustensiles": [
@@ -23629,6 +23701,5657 @@
     "Planche et couteau",
     "Passoire",
     "Grille-pain"
+   ],
+   "vege": true,
+   "veille": null
+  },
+  "w47-01": {
+   "accroche": "Peau laquée à la moutarde et au miel, choux de Bruxelles caramélisés sur la même plaque : le rôti de novembre.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Rôtissez une plaque double : les cuisses restantes se défont en filaments à la fourchette pour le lendemain."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Four 10 min à 180 °C ou poêle couverte 5 min."
+   },
+   "cuisine": "France",
+   "cuisson": 35,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez-le à 210 °C. Il doit être bien chaud quand vous enfournez."
+    },
+    {
+     "g": [
+      "pommes-de-terre",
+      "coupes"
+     ],
+     "i": [
+      "Pommes de terre"
+     ],
+     "n": "Couper les pommes de terre",
+     "r": "commis",
+     "t": "Lavez et brossez les pommes de terre (gardez la peau). Coupez-les en quartiers de 3 cm d'épaisseur."
+    },
+    {
+     "i": [
+      "Choux de Bruxelles",
+      "Oignon rouge"
+     ],
+     "n": "Couper choux et oignon",
+     "r": "commis",
+     "t": "Retirez le pied sec des choux de Bruxelles et coupez-les en deux dans la longueur. Épluchez l'oignon rouge et coupez-le en 4 quartiers."
+    },
+    {
+     "i": [
+      "Huile d'olive|0.5"
+     ],
+     "n": "Assaisonner les légumes",
+     "r": "commis",
+     "t": "Dans un grand saladier, mélangez les légumes avec la moitié de l'huile, une pincée de sel et du poivre. Étalez-les sur la plaque recouverte de papier cuisson, la face coupée des choux contre la plaque."
+    },
+    {
+     "g": [
+      "ail",
+      "herbes"
+     ],
+     "i": [
+      "Moutarde à l'ancienne",
+      "Miel",
+      "Ail",
+      "Thym frais",
+      "Huile d'olive|0.5"
+     ],
+     "n": "Préparer la marinade",
+     "r": "chef",
+     "t": "Épluchez l'ail et écrasez-le avec le plat du couteau. Détachez les petites feuilles du brin de thym. Dans un petit bol, mélangez la moutarde, le miel, l'ail, le thym et le reste de l'huile."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le poulet cru.",
+     "g": [
+      "volaille"
+     ],
+     "i": [
+      "Cuisses de poulet"
+     ],
+     "n": "Badigeonner le poulet",
+     "r": "chef",
+     "t": "Salez les cuisses de poulet. Étalez la marinade dessus avec une cuillère ou un pinceau, puis posez-les sur les légumes, peau vers le haut."
+    },
+    {
+     "a": "Si les choux noircissent trop, couvrez la plaque de papier aluminium les dernières minutes.",
+     "g": [
+      "four",
+      "volaille"
+     ],
+     "m": 35,
+     "n": "Rôtir au four",
+     "p": "La peau est dorée et brillante, et le jus qui sort est clair, sans rose, quand vous piquez la cuisse au plus épais.",
+     "r": "chef",
+     "t": "Enfournez la plaque et lancez le minuteur."
+    },
+    {
+     "g": [
+      "citron",
+      "sucs"
+     ],
+     "i": [
+      "Citron jaune"
+     ],
+     "n": "Arroser de citron",
+     "r": "ensemble",
+     "t": "Sortez la plaque. Pressez le citron sur le tout. Avec une cuillère, décollez les dépôts bruns au fond de la plaque et versez ce jus sur les cuisses."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-01",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 150,
+     "n": "Cuisses de poulet",
+     "p": 13.5,
+     "q": 250,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 43,
+     "n": "Choux de Bruxelles",
+     "p": 3.4,
+     "q": 150,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 80,
+     "n": "Pommes de terre",
+     "p": 2,
+     "q": 150,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon rouge",
+     "p": 1.2,
+     "q": 40,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Moutarde à l'ancienne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "sucre",
+     "k": 320,
+     "n": "Miel",
+     "p": 0.4,
+     "q": 4,
+     "r": "Épicerie sucrée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Thym frais",
+     "p": 0,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "brin",
+     "v": 1
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron jaune",
+     "p": 0.7,
+     "q": 0.25,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 100
+    }
+   ],
+   "midi": {
+    "extras": [
+     {
+      "c": "leg",
+      "k": 15,
+      "n": "Salade verte",
+      "p": 1.2,
+      "q": 40,
+      "r": "Fruits & légumes",
+      "u": "g",
+      "v": 1
+     }
+    ],
+    "texte": "Défaites le poulet en filaments à la fourchette, mélangez-le aux choux et pommes de terre réchauffés, ajoutez quelques feuilles de salade et une vinaigrette à la moutarde et au citron.",
+    "titre": "Salade tiède de poulet, choux rôtis et moutarde"
+   },
+   "nom": "Cuisses de poulet rôties à la moutarde à l'ancienne, choux de Bruxelles et pommes de terre",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#C99A3B",
+    "#5E8C31",
+    "#E8C77A",
+    "#7A3B2E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Posez les choux de Bruxelles face coupée contre la plaque : ils caramélisent comme des noisettes au lieu de ramollir dans la vapeur.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Four",
+    "Plaque de four avec papier cuisson",
+    "Grand saladier",
+    "Planche et couteau",
+    "Petit bol",
+    "Pinceau ou cuillère"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-02": {
+   "accroche": "Un bouillon miso-gingembre profond, du poulet effiloché et un œuf coulant : le cousin japonais du phở.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Le bouillon se congèle très bien sans les nouilles."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 2,
+    "rechauffage": "Réchauffer le bouillon seul, verser bouillant sur les nouilles et le poulet."
+   },
+   "cuisine": "Japon",
+   "cuisson": 30,
+   "cumul": 0,
+   "difficulte": 2,
+   "etapes": [
+    {
+     "g": [
+      "bouillon"
+     ],
+     "i": [
+      "Bouillon de volaille (cube)"
+     ],
+     "n": "Préparer le bouillon",
+     "r": "chef",
+     "t": "Faites chauffer l'eau dans la grande casserole, émiettez le cube dedans et remuez jusqu'à ce qu'il soit fondu."
+    },
+    {
+     "g": [
+      "gingembre",
+      "ail"
+     ],
+     "i": [
+      "Gingembre frais",
+      "Ail"
+     ],
+     "n": "Préparer gingembre et ail",
+     "r": "commis",
+     "t": "Épluchez le gingembre et coupez-le en lamelles de 2 mm. Épluchez l'ail et écrasez-le avec le plat du couteau."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le poulet cru.",
+     "g": [
+      "volaille"
+     ],
+     "i": [
+      "Cuisses de poulet"
+     ],
+     "m": 25,
+     "n": "Cuire le poulet",
+     "p": "La chair est blanche jusqu'à l'os, sans rose, et le jus est clair.",
+     "r": "chef",
+     "t": "Mettez les cuisses, le gingembre et l'ail dans le bouillon. Passez à feu doux : de petites bulles doivent monter doucement. Lancez le minuteur."
+    },
+    {
+     "g": [
+      "oeufs"
+     ],
+     "i": [
+      "Œufs"
+     ],
+     "m": 7,
+     "n": "Cuire les œufs",
+     "p": "Le blanc est pris et le jaune est encore coulant au centre.",
+     "r": "commis",
+     "t": "Pendant que le poulet cuit, plongez les œufs dans une casserole d'eau bouillante et cuisez-les 6 min 30 (minuteur à 7 min, sortez-les un peu avant la fin). Passez-les ensuite sous l'eau froide et écalez-les."
+    },
+    {
+     "g": [
+      "champignons",
+      "coupes"
+     ],
+     "i": [
+      "Champignons de Paris",
+      "Carotte",
+      "Oignon nouveau"
+     ],
+     "n": "Couper les légumes",
+     "r": "commis",
+     "t": "Coupez les champignons en lamelles de 3 mm, la carotte en fins bâtonnets de 5 cm de long et l'oignon nouveau en tout petits morceaux."
+    },
+    {
+     "n": "Défaire le poulet",
+     "r": "chef",
+     "t": "Sortez les cuisses du bouillon avec une écumoire ou une cuillère, enlevez la peau et défaites la chair en filaments avec deux fourchettes. Éteignez le feu et attendez que le bouillon ne bouillonne plus."
+    },
+    {
+     "a": "Ne laissez pas bouillir le bouillon après le miso : il perdrait son parfum.",
+     "i": [
+      "Pâte miso",
+      "Sauce soja"
+     ],
+     "n": "Ajouter le miso",
+     "r": "chef",
+     "t": "Dans un petit bol, mélangez le miso et la sauce soja avec une louche de bouillon jusqu'à ce qu'il n'y ait plus de grumeaux. Versez dans le bouillon."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "i": [
+      "Nouilles de blé (ramen)"
+     ],
+     "m": 4,
+     "n": "Cuire les nouilles",
+     "p": "Les nouilles sont tendres mais encore un peu fermes sous la dent.",
+     "r": "chef",
+     "t": "Dans une autre casserole, portez de l'eau à ébullition, plongez les nouilles et cuisez-les le temps du minuteur. Égouttez."
+    },
+    {
+     "g": [
+      "epinards"
+     ],
+     "i": [
+      "Épinards hachés surgelés"
+     ],
+     "m": 3,
+     "n": "Réchauffer les légumes",
+     "p": "La carotte est tendre sous la pointe d'un couteau.",
+     "r": "chef",
+     "t": "Remettez le bouillon sur feu très doux, sans le faire bouillir. Ajoutez champignons, carotte et épinards surgelés. Lancez le minuteur."
+    },
+    {
+     "i": [
+      "Graines de sésame"
+     ],
+     "n": "Dresser les bols",
+     "r": "ensemble",
+     "t": "Répartissez les nouilles dans les bols, versez le bouillon et les légumes, ajoutez le poulet, l'œuf coupé en deux, l'oignon nouveau et les graines de sésame."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 2,
+   "id": "w47-02",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 150,
+     "n": "Cuisses de poulet",
+     "p": 13.5,
+     "q": 180,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 360,
+     "n": "Nouilles de blé (ramen)",
+     "p": 12,
+     "q": 65,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 5,
+     "n": "Bouillon de volaille (cube)",
+     "p": 0.3,
+     "q": 400,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "ml"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Pâte miso",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Sauce soja",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 1,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Épinards hachés surgelés",
+     "p": 3,
+     "q": 80,
+     "r": "Surgelés",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 22,
+     "n": "Champignons de Paris",
+     "p": 3,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Oignon nouveau",
+     "p": 1.5,
+     "q": 15,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 8,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "mg",
+     "k": 600,
+     "n": "Graines de sésame",
+     "p": 18,
+     "q": 3,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Emportez le bouillon dans un bocal, et les nouilles, le poulet et les légumes à part ; versez le bouillon bien chaud au moment de manger.",
+    "titre": "Boîte ramen à monter"
+   },
+   "nom": "Ramen de poulet au miso, œuf mollet, épinards et champignons",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#E9C46A",
+    "#8C5A3C",
+    "#2A9D8F",
+    "#F4E3B2"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "bon",
+   "secret": "Ne faites jamais bouillir le miso : mélangez-le hors du feu bouillonnant, sinon il perd son parfum et devient granuleux.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Grande casserole",
+    "Casserole pour les nouilles",
+    "Casserole pour les œufs",
+    "Planche et couteau",
+    "2 fourchettes",
+    "Petit bol",
+    "Louche"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-03": {
+   "accroche": "Marinade jamaïcaine piquante et sucrée, cuisses grillées et riz « peas » au lait de coco.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Micro-ondes 2 min couvert, chou à part."
+   },
+   "cuisine": "Jamaïque",
+   "cuisson": 30,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "chef",
+     "t": "Placez la grille au milieu du four et allumez-le à 220 °C."
+    },
+    {
+     "g": [
+      "ail",
+      "gingembre",
+      "herbes"
+     ],
+     "i": [
+      "Oignon nouveau",
+      "Ail",
+      "Gingembre frais",
+      "Thym frais"
+     ],
+     "n": "Préparer les aromates",
+     "r": "chef",
+     "t": "Coupez l'oignon nouveau en gros morceaux. Épluchez l'ail et le gingembre (coupez le gingembre en petits cubes). Détachez les feuilles du brin de thym."
+    },
+    {
+     "g": [
+      "citron"
+     ],
+     "i": [
+      "Citron vert|0.5"
+     ],
+     "n": "Presser le citron vert",
+     "r": "chef",
+     "t": "Coupez le citron vert en deux et pressez-en une moitié. Gardez l'autre moitié pour le chou."
+    },
+    {
+     "i": [
+      "Piment de Cayenne",
+      "Cannelle moulue",
+      "Miel",
+      "Sauce soja"
+     ],
+     "n": "Préparer la marinade",
+     "r": "chef",
+     "t": "Mixez les aromates avec le piment, la cannelle, le miel, la sauce soja et le jus de citron vert jusqu'à obtenir une pâte. Sans mixeur, écrasez le tout à la fourchette dans un bol."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le poulet cru.",
+     "g": [
+      "volaille"
+     ],
+     "i": [
+      "Cuisses de poulet"
+     ],
+     "n": "Frotter le poulet",
+     "r": "chef",
+     "t": "Faites 2 ou 3 entailles de 1 cm de profondeur dans chaque cuisse. Frottez-les avec la marinade, puis posez-les sur la plaque, peau vers le haut."
+    },
+    {
+     "g": [
+      "four",
+      "volaille"
+     ],
+     "m": 27,
+     "n": "Rôtir le poulet",
+     "p": "La peau est dorée et le jus est clair, sans rose, quand vous piquez la cuisse au plus épais.",
+     "r": "chef",
+     "t": "Enfournez la plaque et lancez le minuteur."
+    },
+    {
+     "g": [
+      "chou"
+     ],
+     "i": [
+      "Chou blanc",
+      "Carotte",
+      "Citron vert|0.5"
+     ],
+     "n": "Préparer la salade de chou",
+     "r": "commis",
+     "t": "Coupez le chou en fines lamelles de 3 mm et râpez la carotte. Mélangez-les dans un saladier avec le jus de l'autre moitié du citron vert et une pincée de sel."
+    },
+    {
+     "g": [
+      "riz",
+      "boites"
+     ],
+     "i": [
+      "Riz basmati",
+      "Lait de coco allégé",
+      "Haricots rouges (conserve, égouttés)"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Mesurez le riz dans un verre. Rincez-le dans une passoire, puis mettez-le dans une casserole avec le lait de coco et assez d'eau pour que le liquide fasse 1,5 fois le volume du riz. Ajoutez les haricots rouges égouttés et rincés et une pincée de sel. Portez à ébullition à feu vif, passez à feu doux, couvrez et lancez le minuteur. Coupez le feu et laissez 5 minutes à couvert. Lancez-le environ 17 minutes avant la fin du poulet."
+    },
+    {
+     "a": "Ne vous éloignez pas : sous le gril, la peau passe de noircie à brûlée en quelques secondes.",
+     "g": [
+      "four"
+     ],
+     "m": 3,
+     "n": "Passer sous le gril",
+     "p": "La peau a de petites zones noircies, comme sur un barbecue.",
+     "r": "ensemble",
+     "t": "Pour les 3 dernières minutes, passez le four en position gril et laissez la plaque en place. Lancez le minuteur."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez les cuisses avec le riz et la salade de chou."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-03",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 150,
+     "n": "Cuisses de poulet",
+     "p": 13.5,
+     "q": 230,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 45,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "k": 115,
+     "n": "Haricots rouges (conserve, égouttés)",
+     "p": 8,
+     "q": 60,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "mg",
+     "k": 80,
+     "n": "Lait de coco allégé",
+     "p": 0.8,
+     "q": 30,
+     "r": "Conserves & bocaux",
+     "u": "ml"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou blanc",
+     "p": 1.3,
+     "q": 120,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron vert",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 60
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Oignon nouveau",
+     "p": 1.5,
+     "q": 15,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Thym frais",
+     "p": 0,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "brin",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 5,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Piment de Cayenne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cannelle moulue",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "sucre",
+     "k": 320,
+     "n": "Miel",
+     "p": 0.4,
+     "q": 5,
+     "r": "Épicerie sucrée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Sauce soja",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    }
+   ],
+   "midi": null,
+   "nom": "Poulet jerk, riz aux haricots rouges et chou croquant au citron vert",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#8B3A1E",
+    "#F2E8CF",
+    "#9E2A2B",
+    "#A7C957"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "excellent",
+   "secret": "Le passage final sous le gril donne les petites zones noircies typiques du poulet jerk cuit au barbecue.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Four avec gril",
+    "Plaque de four",
+    "Mixeur ou bol et fourchette",
+    "Casserole avec couvercle",
+    "Planche et couteau",
+    "Râpe",
+    "Presse-agrumes ou fourchette"
+   ],
+   "vege": false,
+   "veille": "Mettez les cuisses dans la marinade dès la veille, au frigo : elle pénètre jusqu'à l'os."
+  },
+  "w47-04": {
+   "accroche": "Bouillon doré, légumes fondants et une gribiche aux câpres et cornichons qui réveille tout.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Gardez le bouillon restant : il servira de base à une soupe ou à un riz."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Réchauffer doucement dans le bouillon, gribiche froide à part."
+   },
+   "cuisine": "France",
+   "cuisson": 35,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "poireau",
+      "coupes"
+     ],
+     "i": [
+      "Carotte",
+      "Navet",
+      "Pommes de terre",
+      "Poireaux"
+     ],
+     "n": "Couper les légumes",
+     "r": "commis",
+     "t": "Épluchez les carottes, les navets et les pommes de terre et coupez-les en gros tronçons de 4 cm. Coupez la racine des poireaux, fendez-les en deux dans la longueur, lavez-les entre les feuilles et coupez-les en tronçons de 4 cm."
+    },
+    {
+     "g": [
+      "bouillon"
+     ],
+     "i": [
+      "Bouillon de volaille (cube)"
+     ],
+     "n": "Préparer le bouillon",
+     "r": "commis",
+     "t": "Faites chauffer l'eau, émiettez le cube dedans et remuez jusqu'à ce qu'il soit fondu."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le poulet cru.",
+     "g": [
+      "dorer",
+      "volaille"
+     ],
+     "i": [
+      "Cuisses de poulet"
+     ],
+     "m": 5,
+     "n": "Dorer les cuisses",
+     "p": "La peau est bien dorée. L'intérieur n'est pas encore cuit, c'est normal.",
+     "r": "chef",
+     "t": "Posez les cuisses côté peau dans la cocotte chaude, à feu assez vif, sans huile. Laissez-les sans y toucher."
+    },
+    {
+     "g": [
+      "feu",
+      "volaille"
+     ],
+     "i": [
+      "Laurier",
+      "Thym frais"
+     ],
+     "m": 25,
+     "n": "Cuire à couvert",
+     "p": "Le poulet est cuit à cœur (jus clair, plus de rose) et un couteau entre facilement dans les légumes.",
+     "r": "chef",
+     "t": "Versez le bouillon dans la cocotte, ajoutez le laurier, le thym et les légumes. Quand ça bout, passez à feu doux et couvrez : de petites bulles doivent monter doucement. Au Cookeo : 15 minutes sous pression à la place."
+    },
+    {
+     "g": [
+      "oeufs"
+     ],
+     "i": [
+      "Œufs"
+     ],
+     "m": 9,
+     "n": "Cuire les œufs",
+     "p": "Le jaune est ferme et le blanc bien pris.",
+     "r": "commis",
+     "t": "Plongez l'œuf dans de l'eau bouillante et lancez le minuteur. Passez-le ensuite sous l'eau froide et écalez-le."
+    },
+    {
+     "i": [
+      "Moutarde de Dijon",
+      "Vinaigre de cidre",
+      "Huile neutre (colza)"
+     ],
+     "n": "Préparer la gribiche",
+     "p": "La sauce est épaisse et lisse, comme une mayonnaise.",
+     "r": "chef",
+     "t": "Séparez le jaune du blanc. Écrasez le jaune à la fourchette dans un grand bol avec la moutarde et le vinaigre. Versez l'huile en mince filet en fouettant sans arrêt."
+    },
+    {
+     "g": [
+      "herbes"
+     ],
+     "i": [
+      "Cornichons",
+      "Câpres",
+      "Persil plat"
+     ],
+     "n": "Terminer la sauce",
+     "r": "chef",
+     "t": "Coupez le blanc d'œuf, les cornichons, les câpres et le persil en tout petits morceaux. Ajoutez-les à la sauce et mélangez."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez le poulet et les légumes dans un peu de bouillon, la sauce à côté."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 2,
+   "id": "w47-04",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 150,
+     "n": "Cuisses de poulet",
+     "p": 13.5,
+     "q": 230,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 30,
+     "n": "Poireaux",
+     "p": 1.4,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 120,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 20,
+     "n": "Navet",
+     "p": 0.8,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 80,
+     "n": "Pommes de terre",
+     "p": 2,
+     "q": 120,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 5,
+     "n": "Bouillon de volaille (cube)",
+     "p": 0.3,
+     "q": 500,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "ml"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Laurier",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "feuille"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Thym frais",
+     "p": 0,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "brin",
+     "v": 1
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 1,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "aro",
+     "k": 15,
+     "n": "Cornichons",
+     "p": 0.6,
+     "q": 15,
+     "r": "Conserves & bocaux",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Câpres",
+     "p": 2.4,
+     "q": 5,
+     "r": "Conserves & bocaux",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 40,
+     "n": "Persil plat",
+     "p": 3,
+     "q": 4,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Moutarde de Dijon",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Vinaigre de cidre",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Faites chauffer le bouillon restant avec le poulet défait en morceaux et les légumes, ajoutez une poignée de vermicelles de riz et servez avec une cuillère de sauce gribiche.",
+    "titre": "Bouillon de légumes au poulet et vermicelles"
+   },
+   "nom": "Poule au pot express aux légumes d'hiver, sauce gribiche",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#F3D9A4",
+    "#E07A2E",
+    "#DCE6C8",
+    "#6B8E23"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Faites dorer la peau avant d'ajouter le bouillon : il prend une couleur dorée et un goût de rôti qu'une simple cuisson à l'eau n'a pas.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Cocotte avec couvercle",
+    "Casserole pour les œufs",
+    "Planche et couteau",
+    "Grand bol",
+    "Fourchette",
+    "Fouet ou cuillère en bois"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-05": {
+   "accroche": "Une milanaise croustillante en 30 minutes, un chou-fleur doré et un trait de citron.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 2,
+    "rechauffage": "Poêle sèche 3 min par face pour retrouver le croustillant."
+   },
+   "cuisine": "Italie",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez-le à 220 °C."
+    },
+    {
+     "g": [
+      "ail"
+     ],
+     "i": [
+      "Chou-fleur",
+      "Huile d'olive|0.5",
+      "Ail"
+     ],
+     "n": "Préparer le chou-fleur",
+     "r": "commis",
+     "t": "Coupez le chou-fleur en petits bouquets de 3 cm. Écrasez l'ail avec le plat du couteau. Mélangez le tout avec la moitié de l'huile et une pincée de sel, puis étalez sur la plaque."
+    },
+    {
+     "g": [
+      "four"
+     ],
+     "m": 20,
+     "n": "Rôtir le chou-fleur",
+     "p": "Les bords sont dorés et la pointe d'un couteau entre facilement.",
+     "r": "commis",
+     "t": "Enfournez la plaque et lancez le minuteur."
+    },
+    {
+     "i": [
+      "Farine",
+      "Œufs",
+      "Chapelure panko",
+      "Parmesan"
+     ],
+     "n": "Préparer la panure",
+     "r": "chef",
+     "t": "Disposez 3 assiettes creuses : la farine dans la première, l'œuf battu à la fourchette dans la deuxième, la chapelure mélangée au parmesan râpé dans la troisième."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché la dinde crue.",
+     "i": [
+      "Escalopes de dinde"
+     ],
+     "n": "Aplatir les escalopes",
+     "r": "chef",
+     "t": "Posez les escalopes entre deux feuilles de papier cuisson et écrasez-les avec un rouleau ou le fond d'une casserole, jusqu'à 1 cm d'épaisseur. Salez et poivrez."
+    },
+    {
+     "n": "Paner les escalopes",
+     "r": "chef",
+     "t": "Passez chaque escalope dans la farine, puis dans l'œuf, puis dans le mélange de chapelure en appuyant bien."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "n": "Préparer l'eau des pâtes",
+     "r": "commis",
+     "t": "Remplissez une grande casserole d'eau (au moins 1 litre pour 100 g de pâtes), couvrez et mettez à feu vif."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "i": [
+      "Pâtes (penne ou fusilli)"
+     ],
+     "m": 10,
+     "n": "Cuire les pâtes",
+     "p": "Les pâtes sont tendres mais encore un peu fermes sous la dent.",
+     "r": "commis",
+     "t": "Quand l'eau bout à gros bouillons, salez-la, versez les pâtes et remuez une fois. Vérifiez le temps sur le paquet. Avant d'égoutter, gardez une petite tasse d'eau de cuisson."
+    },
+    {
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Huile d'olive|0.5"
+     ],
+     "m": 3,
+     "n": "Dorer la première face",
+     "p": "La panure est dorée sous l'escalope.",
+     "r": "chef",
+     "t": "Faites chauffer le reste de l'huile dans la grande poêle à feu moyen. Posez les escalopes sans qu'elles se touchent et laissez-les sans y toucher."
+    },
+    {
+     "g": [
+      "volaille"
+     ],
+     "m": 3,
+     "n": "Dorer la seconde face",
+     "p": "Les deux faces sont dorées et l'intérieur est blanc, sans rose.",
+     "r": "chef",
+     "t": "Retournez les escalopes et laissez-les dorer."
+    },
+    {
+     "g": [
+      "citron",
+      "herbes"
+     ],
+     "i": [
+      "Citron jaune",
+      "Persil plat"
+     ],
+     "n": "Assembler et servir",
+     "r": "ensemble",
+     "t": "Mélangez les pâtes égouttées avec le chou-fleur, le zeste râpé et le jus du demi-citron, et le persil coupé finement. Servez avec les escalopes et un quartier de citron."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-05",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 105,
+     "n": "Escalopes de dinde",
+     "p": 23,
+     "q": 120,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 380,
+     "n": "Chapelure panko",
+     "p": 11,
+     "q": 20,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "lait",
+     "k": 390,
+     "n": "Parmesan",
+     "p": 33,
+     "q": 10,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 0.5,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "fec",
+     "k": 360,
+     "n": "Farine",
+     "p": 10,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou-fleur",
+     "p": 1.9,
+     "q": 200,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 355,
+     "n": "Pâtes (penne ou fusilli)",
+     "p": 12,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 10,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron jaune",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 100
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 40,
+     "n": "Persil plat",
+     "p": 3,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": {
+    "extras": [
+     {
+      "c": "fec",
+      "k": 240,
+      "n": "Pain complet",
+      "p": 9,
+      "q": 50,
+      "r": "Boulangerie",
+      "u": "g"
+     }
+    ],
+    "texte": "Coupez l'escalope froide en tranches et mettez-la dans du pain complet avec le chou-fleur au citron et quelques feuilles de salade.",
+    "titre": "Sandwich milanais"
+   },
+   "nom": "Escalopes de dinde panées au parmesan, chou-fleur rôti au citron et pâtes",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#D9A441",
+    "#F5F0E1",
+    "#E9D8A6",
+    "#5C8001"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Mélangez le parmesan à la chapelure : il fond et forme une croûte dorée qui reste croustillante même froide.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Four",
+    "Plaque de four",
+    "Grande casserole",
+    "Grande poêle",
+    "3 assiettes creuses",
+    "Rouleau ou fond de casserole",
+    "Planche et couteau"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-06": {
+   "accroche": "Un ragù qui mijote, moitié bœuf moitié lentilles : même profondeur, deux fois plus de portions.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Doublez la sauce : elle se congèle en portions pour un soir pressé."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 4,
+    "rechauffage": "Micro-ondes 2 min avec une cuillère d'eau."
+   },
+   "cuisine": "Italie",
+   "cuisson": 30,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "i": [
+      "Lentilles vertes"
+     ],
+     "n": "Rincer les lentilles",
+     "r": "commis",
+     "t": "Mettez les lentilles dans une passoire et rincez-les à l'eau froide."
+    },
+    {
+     "g": [
+      "oignon",
+      "ail",
+      "coupes"
+     ],
+     "i": [
+      "Oignon",
+      "Carotte",
+      "Ail"
+     ],
+     "n": "Couper les légumes",
+     "r": "commis",
+     "t": "Épluchez l'oignon, la carotte et l'ail et coupez-les en tout petits dés de 3 mm."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché la viande crue. Ça peut gicler : baissez le feu s'il fume.",
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Bœuf haché 10 % (steaks)",
+      "Huile d'olive"
+     ],
+     "m": 3,
+     "n": "Dorer la viande",
+     "p": "Le dessous est brun et croustillant.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la sauteuse à feu vif. Ajoutez le bœuf et émiettez-le avec la cuillère. Laissez-le sans y toucher."
+    },
+    {
+     "m": 5,
+     "n": "Cuire les légumes",
+     "p": "Les légumes sont tendres et la viande n'a plus de rose.",
+     "r": "chef",
+     "t": "Remuez le bœuf, ajoutez les petits dés de légumes et laissez cuire à feu moyen en remuant de temps en temps."
+    },
+    {
+     "g": [
+      "sucs"
+     ],
+     "i": [
+      "Concentré de tomate",
+      "Vin rouge (bourgogne ou côtes-du-rhône)"
+     ],
+     "m": 2,
+     "n": "Ajouter concentré et vin",
+     "p": "Le concentré a foncé et ça ne sent presque plus l'alcool.",
+     "r": "chef",
+     "t": "Ajoutez le concentré de tomate et remuez 1 minute. Versez le vin rouge, grattez le fond avec la cuillère et laissez bouillir 1 minute."
+    },
+    {
+     "a": "Remuez de temps en temps et ajoutez un peu d'eau si ça accroche au fond.",
+     "g": [
+      "feu"
+     ],
+     "i": [
+      "Tomates concassées",
+      "Laurier",
+      "Origan séché"
+     ],
+     "m": 25,
+     "n": "Cuire la sauce",
+     "p": "Les lentilles sont tendres sous la dent et la sauce est épaisse.",
+     "r": "chef",
+     "t": "Ajoutez les tomates, les lentilles, le laurier, l'origan et autant d'eau que le volume des lentilles. Quand ça bout, passez à feu doux et couvrez : de petites bulles doivent monter doucement."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "n": "Préparer l'eau des pâtes",
+     "r": "commis",
+     "t": "Remplissez une grande casserole d'eau (au moins 1 litre pour 100 g de pâtes), couvrez et mettez à feu vif."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "i": [
+      "Pâtes (penne ou fusilli)"
+     ],
+     "m": 10,
+     "n": "Cuire les pâtes",
+     "p": "Les pâtes sont tendres mais encore un peu fermes sous la dent.",
+     "r": "commis",
+     "t": "Quand l'eau bout à gros bouillons, salez-la, versez les pâtes et remuez une fois. Vérifiez le temps sur le paquet. Avant d'égoutter, gardez une petite tasse d'eau de cuisson."
+    },
+    {
+     "n": "Mélanger pâtes et sauce",
+     "r": "ensemble",
+     "t": "Versez les pâtes égouttées dans la sauce avec une louche d'eau de cuisson et mélangez."
+    },
+    {
+     "i": [
+      "Parmesan"
+     ],
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez avec le parmesan râpé."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 3,
+   "id": "w47-06",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 170,
+     "n": "Bœuf haché 10 % (steaks)",
+     "p": 20,
+     "q": 70,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 330,
+     "n": "Lentilles vertes",
+     "p": 24,
+     "q": 40,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 150,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 355,
+     "n": "Pâtes (penne ou fusilli)",
+     "p": 12,
+     "q": 70,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 5,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Concentré de tomate",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 75,
+     "n": "Vin rouge (bourgogne ou côtes-du-rhône)",
+     "p": 0.1,
+     "q": 30,
+     "r": "Boissons",
+     "u": "ml"
+    },
+    {
+     "c": "lait",
+     "k": 390,
+     "n": "Parmesan",
+     "p": 33,
+     "q": 8,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Laurier",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "feuille"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Origan séché",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    }
+   ],
+   "midi": null,
+   "nom": "Pâtes à la bolognaise de bœuf et lentilles, parmesan",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#8E2C1F",
+    "#C1440E",
+    "#E9D8A6",
+    "#6A994E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "excellent",
+   "secret": "Laissez le bœuf attacher et brunir sans y toucher avant de remuer : c'est la croûte qui donne le goût de ragù.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Grande poêle profonde ou sauteuse avec couvercle",
+    "Grande casserole",
+    "Passoire",
+    "Planche et couteau",
+    "Cuillère en bois",
+    "Râpe"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-07": {
+   "accroche": "Paleron confit dans la sauce soja, le gingembre et la cannelle, laqué et brillant.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Ce plat se prépare le week-end et se bonifie : parfait en batch pour deux soirs."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 4,
+    "rechauffage": "Casserole couverte 5 min ou micro-ondes 2 min."
+   },
+   "cuisine": "Chine",
+   "cuisson": 50,
+   "cumul": 0,
+   "difficulte": 2,
+   "etapes": [
+    {
+     "g": [
+      "gingembre",
+      "ail",
+      "coupes"
+     ],
+     "i": [
+      "Paleron de bœuf (à braiser)",
+      "Carotte",
+      "Gingembre frais",
+      "Ail"
+     ],
+     "n": "Couper viande et légumes",
+     "r": "commis",
+     "t": "Coupez le paleron en cubes de 4 cm et les carottes en tronçons de 3 cm. Épluchez le gingembre et coupez-le en tranches de 2 mm. Écrasez l'ail avec le plat du couteau."
+    },
+    {
+     "a": "Le caramel brûle vite et devient amer : surveillez-le sans vous éloigner. Il est brûlant, ne le touchez pas.",
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Sucre"
+     ],
+     "m": 5,
+     "n": "Colorer le sucre et la viande",
+     "p": "Le sucre est brun foncé et la viande est enrobée et colorée.",
+     "r": "chef",
+     "t": "Mettez le sucre seul dans la cocotte à feu moyen, sans remuer, jusqu'à ce qu'il fonde et devienne brun ambré. Ajoutez la viande et remuez pour l'enrober."
+    },
+    {
+     "g": [
+      "feu"
+     ],
+     "i": [
+      "Sauce soja",
+      "Cannelle moulue"
+     ],
+     "m": 35,
+     "n": "Cuire à couvert",
+     "p": "La viande se coupe facilement à la fourchette.",
+     "r": "chef",
+     "t": "Ajoutez la sauce soja, le gingembre, l'ail, la cannelle, les carottes et de l'eau jusqu'à hauteur de la viande. Couvrez : 35 minutes sous pression au Cookeo, ou 1 h 30 à feu doux dans la cocotte fermée (de petites bulles doivent monter doucement)."
+    },
+    {
+     "g": [
+      "riz"
+     ],
+     "i": [
+      "Riz basmati",
+      "Eau=2*Riz basmati"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Lancez le riz quand il reste environ 20 minutes de cuisson à la viande. Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert."
+    },
+    {
+     "g": [
+      "chou"
+     ],
+     "i": [
+      "Chou blanc",
+      "Huile neutre (colza)"
+     ],
+     "m": 4,
+     "n": "Cuire le chou",
+     "p": "Le chou est tendre mais encore un peu croquant, avec des bords dorés.",
+     "r": "commis",
+     "t": "Coupez le chou en lanières de 5 mm. Faites chauffer l'huile dans la grande poêle à feu vif, ajoutez le chou et remuez souvent."
+    },
+    {
+     "a": "Remuez souvent pour que la sauce n'accroche pas.",
+     "i": [
+      "Oignon nouveau"
+     ],
+     "m": 5,
+     "n": "Épaissir la sauce",
+     "p": "La sauce est épaisse et enrobe le dos d'une cuillère.",
+     "r": "ensemble",
+     "t": "Retirez le couvercle, remettez la cocotte sur feu vif et laissez bouillir. Coupez l'oignon nouveau en petits morceaux."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez la viande et ses carottes sur le riz avec le chou, parsemés d'oignon nouveau."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 3,
+   "id": "w47-07",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 150,
+     "n": "Paleron de bœuf (à braiser)",
+     "p": 20,
+     "q": 150,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 120,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou blanc",
+     "p": 1.3,
+     "q": 100,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Sauce soja",
+     "p": 0,
+     "q": 2,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 8,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Oignon nouveau",
+     "p": 1.5,
+     "q": 15,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cannelle moulue",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "sucre",
+     "k": 400,
+     "n": "Sucre",
+     "p": 0,
+     "q": 5,
+     "r": "Épicerie sucrée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 5,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    }
+   ],
+   "midi": null,
+   "nom": "Bœuf braisé à la chinoise, carottes fondantes, chou sauté et riz",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#5C2E1F",
+    "#E07A2E",
+    "#F2E8CF",
+    "#A7C957"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "excellent",
+   "secret": "Colorez le sucre avant la viande : c'est la base du « hong shao », qui donne la couleur rouge laquée et le goût profond.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Week-end"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Cocotte avec couvercle (ou Cookeo)",
+    "Casserole avec couvercle",
+    "Grande poêle",
+    "Planche et couteau",
+    "Cuillère en bois"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-08": {
+   "accroche": "Le repas plaisir : tortillas dorées et filantes, salsa vive et crème fraîche au skyr.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": true,
+    "frigo": 2,
+    "rechauffage": "Farce seule au micro-ondes, tortillas dorées minute."
+   },
+   "cuisine": "Mexique",
+   "cuisson": 15,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "oignon",
+      "coupes"
+     ],
+     "i": [
+      "Oignon rouge"
+     ],
+     "n": "Couper l'oignon",
+     "r": "commis",
+     "t": "Épluchez l'oignon rouge et coupez-le en petits dés de 3 mm. Vous en utiliserez la moitié pour la farce et la moitié pour la salsa."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché la viande crue.",
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Bœuf haché 10 % (steaks)",
+      "Cumin moulu",
+      "Paprika fumé"
+     ],
+     "m": 4,
+     "n": "Cuire le bœuf",
+     "p": "Il n'y a plus de rose dans la viande et elle commence à dorer.",
+     "r": "chef",
+     "t": "Dans la grande poêle chaude à feu vif, mettez le bœuf et la moitié de l'oignon. Émiettez la viande avec une cuillère, ajoutez cumin et paprika, et remuez de temps en temps."
+    },
+    {
+     "g": [
+      "boites"
+     ],
+     "i": [
+      "Haricots rouges (conserve, égouttés)",
+      "Tomates concassées"
+     ],
+     "m": 4,
+     "n": "Ajouter haricots et tomates",
+     "p": "La farce est épaisse et se tient sur la cuillère, sans jus.",
+     "r": "chef",
+     "t": "Écrasez les haricots rouges grossièrement à la fourchette dans un bol. Ajoutez-les à la viande avec les tomates et laissez bouillonner à feu moyen en remuant."
+    },
+    {
+     "g": [
+      "citron",
+      "herbes"
+     ],
+     "i": [
+      "Citron vert",
+      "Coriandre fraîche",
+      "Skyr nature"
+     ],
+     "n": "Préparer salsa et crème",
+     "r": "commis",
+     "t": "Pressez le citron vert. Dans un bol, mélangez la seconde moitié de l'oignon, la coriandre coupée finement et la moitié du jus : c'est la salsa. Dans un autre bol, mélangez le skyr, le zeste du citron vert et le reste du jus : c'est la crème."
+    },
+    {
+     "i": [
+      "Tortillas de blé complet",
+      "Cheddar affiné"
+     ],
+     "n": "Garnir les tortillas",
+     "r": "ensemble",
+     "t": "Posez les tortillas à plat. Étalez la farce sur une moitié de chaque tortilla, ajoutez le cheddar râpé et repliez l'autre moitié par-dessus."
+    },
+    {
+     "m": 2,
+     "n": "Dorer la première face",
+     "p": "Le dessous est doré et le fromage commence à fondre.",
+     "r": "chef",
+     "t": "Chauffez la poêle à sec à feu moyen. Posez une quesadilla et pressez-la avec une spatule. Faites de même pour les autres, l'une après l'autre."
+    },
+    {
+     "m": 2,
+     "n": "Dorer la seconde face",
+     "p": "Les deux faces sont dorées et le fromage a fondu.",
+     "r": "chef",
+     "t": "Retournez la quesadilla et pressez-la à nouveau."
+    },
+    {
+     "i": [
+      "Salade verte",
+      "Carotte"
+     ],
+     "n": "Préparer la salade",
+     "r": "commis",
+     "t": "Épluchez et râpez la carotte. Mettez-la avec la salade verte dans un saladier."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Coupez les quesadillas en parts et servez-les avec la salsa, la crème et la salade."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-08",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 170,
+     "n": "Bœuf haché 10 % (steaks)",
+     "p": 20,
+     "q": 80,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "e": 1,
+     "k": 300,
+     "n": "Tortillas de blé complet",
+     "p": 9,
+     "q": 2,
+     "r": "Boulangerie",
+     "u": "pc",
+     "w": 40
+    },
+    {
+     "c": "prot",
+     "k": 115,
+     "n": "Haricots rouges (conserve, égouttés)",
+     "p": 8,
+     "q": 60,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "lait",
+     "k": 400,
+     "n": "Cheddar affiné",
+     "p": 25,
+     "q": 25,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon rouge",
+     "p": 1.2,
+     "q": 40,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 60,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 15,
+     "n": "Salade verte",
+     "p": 1.2,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron vert",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 60
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Paprika fumé",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "prot",
+     "k": 60,
+     "n": "Skyr nature",
+     "p": 10,
+     "q": 40,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Réchauffez le reste de farce sur un peu de riz ou de salade, avec la salsa et la crème au citron vert.",
+    "titre": "Bowl burrito"
+   },
+   "nom": "Quesadillas de bœuf épicé, haricots rouges et cheddar, salsa et crème au citron vert",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#C97B2A",
+    "#9E2A2B",
+    "#F2CC8F",
+    "#81B29A"
+   ],
+   "photos": [],
+   "plaisir": true,
+   "prep": 15,
+   "rechauffe": "transforme",
+   "secret": "Écrasez une partie des haricots dans la farce : elle se tient mieux, et le fromage suffit à coller la tortilla.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Grande poêle",
+    "Poêle pour les tortillas",
+    "Planche et couteau",
+    "Râpe",
+    "Fourchette",
+    "2 bols",
+    "Presse-agrumes"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-09": {
+   "accroche": "La choucroute de saison, légère et acidulée, avec une échine rôtie bien dorée.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Ce plat se garde 4 jours et se réchauffe parfaitement : idéal en double portion."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 4,
+    "rechauffage": "Casserole couverte 5 min avec un fond d'eau."
+   },
+   "cuisine": "France",
+   "cuisson": 35,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "i": [
+      "Choucroute cuite nature"
+     ],
+     "n": "Rincer la choucroute",
+     "r": "commis",
+     "t": "Mettez la choucroute dans une passoire, rincez-la à l'eau froide, puis pressez-la à la main pour enlever l'eau."
+    },
+    {
+     "g": [
+      "oignon",
+      "pommes-de-terre",
+      "coupes"
+     ],
+     "i": [
+      "Oignon",
+      "Carotte",
+      "Pommes de terre"
+     ],
+     "n": "Couper les légumes",
+     "r": "commis",
+     "t": "Épluchez l'oignon et coupez-le en lamelles de 3 mm. Épluchez les carottes et coupez-les en rondelles de 1 cm. Épluchez les pommes de terre et coupez-les en cubes de 3 cm."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le porc cru.",
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Échine de porc",
+      "Huile neutre (colza)"
+     ],
+     "m": 3,
+     "n": "Dorer l'échine, première face",
+     "p": "Le dessous est bien doré. L'intérieur n'est pas encore cuit, c'est normal.",
+     "r": "chef",
+     "t": "Coupez l'échine en tranches de 2 cm. Faites chauffer l'huile dans la cocotte à feu vif et posez les tranches sans qu'elles se touchent. Laissez-les sans y toucher."
+    },
+    {
+     "m": 3,
+     "n": "Dorer l'échine, seconde face",
+     "p": "Les deux faces sont dorées.",
+     "r": "chef",
+     "t": "Retournez les tranches et laissez-les dorer, puis mettez-les dans une assiette."
+    },
+    {
+     "g": [
+      "oignon",
+      "sucs"
+     ],
+     "i": [
+      "Cumin moulu",
+      "Vin blanc sec"
+     ],
+     "m": 4,
+     "n": "Cuire l'oignon",
+     "p": "L'oignon est translucide et mou, et ça sent le cumin.",
+     "r": "chef",
+     "t": "Dans la même cocotte, à feu moyen, faites cuire l'oignon en remuant. Ajoutez le cumin pendant les 30 dernières secondes, puis versez le vin blanc et grattez le fond avec une cuillère."
+    },
+    {
+     "a": "Si la cocotte devient sèche, ajoutez un petit verre d'eau.",
+     "g": [
+      "feu"
+     ],
+     "i": [
+      "Laurier"
+     ],
+     "m": 30,
+     "n": "Cuire à couvert",
+     "p": "Les pommes de terre sont tendres à la pointe du couteau et le porc est cuit à cœur, sans rose.",
+     "r": "chef",
+     "t": "Ajoutez la choucroute, les carottes, le laurier et un fond d'eau (1 cm). Posez dessus les pommes de terre et les tranches d'échine, avec leur jus. Couvrez, passez à feu doux et lancez le minuteur."
+    },
+    {
+     "i": [
+      "Moutarde à l'ancienne"
+     ],
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez avec la moutarde à l'ancienne."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 3,
+   "id": "w47-09",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 200,
+     "n": "Échine de porc",
+     "p": 18,
+     "q": 140,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Choucroute cuite nature",
+     "p": 1.2,
+     "q": 200,
+     "r": "Charcuterie & traiteur",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 80,
+     "n": "Pommes de terre",
+     "p": 2,
+     "q": 150,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 70,
+     "n": "Vin blanc sec",
+     "p": 0.1,
+     "q": 40,
+     "r": "Boissons",
+     "u": "ml"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Laurier",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "feuille"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Moutarde à l'ancienne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 4,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    }
+   ],
+   "midi": null,
+   "nom": "Choucroute express à l'échine de porc, pommes de terre et vin blanc",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#E9D8A6",
+    "#B5651D",
+    "#F4E3B2",
+    "#8C5A3C"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "excellent",
+   "secret": "Le cumin remplace le genièvre : une pincée chauffée avec l'oignon donne le parfum alsacien.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Cocotte avec couvercle",
+    "Passoire",
+    "Planche et couteau",
+    "Cuillère en bois"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-10": {
+   "accroche": "Le curry goanais au vinaigre et aux épices, dompté pour la semaine, frais avec son yaourt.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Le curry se congèle sans le riz."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Micro-ondes 2 min avec un peu d'eau."
+   },
+   "cuisine": "Inde",
+   "cuisson": 30,
+   "cumul": 0,
+   "difficulte": 2,
+   "etapes": [
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le porc cru.",
+     "g": [
+      "ail",
+      "gingembre"
+     ],
+     "i": [
+      "Sauté de porc",
+      "Ail",
+      "Gingembre frais",
+      "Vinaigre de cidre"
+     ],
+     "n": "Mariner le porc",
+     "r": "commis",
+     "t": "Coupez le porc en dés de 2,5 cm. Râpez l'ail et le gingembre. Mélangez le tout avec le vinaigre dans un bol."
+    },
+    {
+     "g": [
+      "oignon",
+      "coupes"
+     ],
+     "i": [
+      "Oignon",
+      "Chou-fleur"
+     ],
+     "n": "Couper oignon et chou-fleur",
+     "r": "commis",
+     "t": "Épluchez l'oignon et coupez-le en lamelles de 3 mm. Coupez le chou-fleur en petits bouquets de 3 cm."
+    },
+    {
+     "g": [
+      "oignon"
+     ],
+     "i": [
+      "Huile neutre (colza)"
+     ],
+     "m": 8,
+     "n": "Cuire l'oignon",
+     "p": "L'oignon est doré et mou.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la sauteuse à feu moyen, ajoutez l'oignon et remuez de temps en temps."
+    },
+    {
+     "a": "Les épices brûlent vite : ne vous éloignez pas.",
+     "i": [
+      "Garam masala",
+      "Cumin moulu",
+      "Piment de Cayenne"
+     ],
+     "m": 1,
+     "n": "Griller les épices",
+     "p": "Ça sent fort les épices.",
+     "r": "chef",
+     "t": "Ajoutez le garam masala, le cumin et le piment. Remuez sans arrêt à feu moyen."
+    },
+    {
+     "g": [
+      "dorer"
+     ],
+     "m": 4,
+     "n": "Dorer le porc",
+     "p": "Le porc est doré sur toutes les faces.",
+     "r": "chef",
+     "t": "Ajoutez le porc avec sa marinade, à feu vif, et remuez de temps en temps."
+    },
+    {
+     "g": [
+      "feu"
+     ],
+     "i": [
+      "Tomates concassées"
+     ],
+     "m": 13,
+     "n": "Cuire à couvert",
+     "p": "Le chou-fleur est tendre sous la pointe d'un couteau et le porc est cuit à cœur, sans rose.",
+     "r": "chef",
+     "t": "Ajoutez les tomates, le chou-fleur et un fond d'eau (1 cm). Quand ça bout, passez à feu doux et couvrez : de petites bulles doivent monter doucement."
+    },
+    {
+     "g": [
+      "riz"
+     ],
+     "i": [
+      "Riz basmati",
+      "Eau=2*Riz basmati"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert."
+    },
+    {
+     "g": [
+      "herbes"
+     ],
+     "i": [
+      "Yaourt nature",
+      "Coriandre fraîche"
+     ],
+     "n": "Préparer le raïta",
+     "r": "commis",
+     "t": "Coupez la coriandre en petits morceaux. Mélangez-la avec le yaourt et une pincée de sel."
+    },
+    {
+     "g": [
+      "epinards"
+     ],
+     "i": [
+      "Épinards hachés surgelés"
+     ],
+     "m": 3,
+     "n": "Ajouter les épinards",
+     "p": "Les épinards sont décongelés et bien chauds.",
+     "r": "chef",
+     "t": "Ajoutez les épinards surgelés dans le curry, remuez et laissez cuire à petits bouillons."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez le curry avec le riz et le raïta."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 3,
+   "id": "w47-10",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 160,
+     "n": "Sauté de porc",
+     "p": 19,
+     "q": 140,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou-fleur",
+     "p": 1.9,
+     "q": 120,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 80,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Épinards hachés surgelés",
+     "p": 3,
+     "q": 60,
+     "r": "Surgelés",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "lait",
+     "k": 50,
+     "n": "Yaourt nature",
+     "p": 4,
+     "q": 50,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 6,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Garam masala",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Piment de Cayenne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Vinaigre de cidre",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": null,
+   "nom": "Porc vindaloo doux, chou-fleur et épinards, riz basmati et raïta",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#B23A12",
+    "#F2E8CF",
+    "#2D6A4F",
+    "#F4D35E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "excellent",
+   "secret": "Le vinaigre de la marinade attendrit le porc et apporte l'acidité qui fait le vindaloo.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Grande sauteuse avec couvercle",
+    "Casserole avec couvercle",
+    "Planche et couteau",
+    "Râpe fine",
+    "Grand bol",
+    "Petit bol"
+   ],
+   "vege": false,
+   "veille": "Faites mariner le porc dans le vinaigre et les aromates la veille, au frigo."
+  },
+  "w47-11": {
+   "accroche": "Lanières de porc citron-origan saisies minute, roulées avec un tzatziki épais.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 2,
+    "rechauffage": "Se mange froid ; ou porc réchauffé 1 min à la poêle."
+   },
+   "cuisine": "Grèce",
+   "cuisson": 10,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "citron",
+      "ail"
+     ],
+     "i": [
+      "Citron jaune",
+      "Origan séché",
+      "Huile d'olive",
+      "Ail|0.5"
+     ],
+     "n": "Préparer la marinade",
+     "r": "chef",
+     "t": "Pressez le citron et gardez la moitié du jus pour le chou. Épluchez l'ail et écrasez-le avec le plat du couteau. Dans un bol, mélangez la moitié du jus, l'origan, l'huile et la moitié de l'ail."
+    },
+    {
+     "a": "Lavez-vous les mains au savon après avoir touché le porc cru.",
+     "g": [
+      "coupes"
+     ],
+     "i": [
+      "Sauté de porc"
+     ],
+     "n": "Mariner le porc",
+     "r": "chef",
+     "t": "Coupez le porc en fines lanières de 5 mm d'épaisseur et de 4 cm de long. Mélangez-les à la marinade et laissez reposer pendant que vous préparez le reste (15 minutes au moins)."
+    },
+    {
+     "i": [
+      "Carotte",
+      "Skyr nature",
+      "Ail|0.5"
+     ],
+     "n": "Préparer le tzatziki",
+     "r": "commis",
+     "t": "Épluchez la carotte, râpez-la finement et pressez-la dans les mains pour en retirer le jus. Écrasez l'ail restant. Mélangez avec le skyr, une pincée de sel et du poivre."
+    },
+    {
+     "g": [
+      "chou",
+      "oignon"
+     ],
+     "i": [
+      "Chou blanc",
+      "Oignon rouge"
+     ],
+     "n": "Couper chou et oignon",
+     "r": "commis",
+     "t": "Coupez le chou et l'oignon rouge épluché en fines lamelles de 3 mm. Mélangez-les avec le reste du jus de citron."
+    },
+    {
+     "a": "Si la poêle déborde, faites cuire en deux fois : trop de viande à la fois et elle bout dans son jus.",
+     "g": [
+      "dorer"
+     ],
+     "m": 3,
+     "n": "Dorer le porc, première face",
+     "p": "Le dessous est doré.",
+     "r": "chef",
+     "t": "Faites chauffer la grande poêle à feu vif, sans huile : la marinade en contient. Étalez le porc en une seule couche et laissez-le sans y toucher."
+    },
+    {
+     "m": 3,
+     "n": "Dorer le porc, seconde face",
+     "p": "Le porc est doré partout et cuit à cœur, sans rose.",
+     "r": "chef",
+     "t": "Retournez les lanières et laissez-les dorer."
+    },
+    {
+     "i": [
+      "Tortillas de blé complet"
+     ],
+     "n": "Garnir les wraps",
+     "r": "ensemble",
+     "t": "Chauffez les tortillas 30 secondes de chaque côté dans une poêle sèche. Garnissez de chou, de porc et de tzatziki, puis roulez-les serré."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-11",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 160,
+     "n": "Sauté de porc",
+     "p": 19,
+     "q": 110,
+     "r": "Boucherie & volaille",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "e": 1,
+     "k": 300,
+     "n": "Tortillas de blé complet",
+     "p": 9,
+     "q": 2,
+     "r": "Boulangerie",
+     "u": "pc",
+     "w": 40
+    },
+    {
+     "c": "prot",
+     "k": 60,
+     "n": "Skyr nature",
+     "p": 10,
+     "q": 60,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou blanc",
+     "p": 1.3,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon rouge",
+     "p": 1.2,
+     "q": 30,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron jaune",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 100
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Origan séché",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Roulez les wraps le matin avec le porc froid, le chou et le tzatziki, puis emballez-les serré dans du papier.",
+    "titre": "Wrap froid à emporter"
+   },
+   "nom": "Souvlaki de porc en wrap, tzatziki au skyr et salade de chou",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#C9A227",
+    "#F7F7F2",
+    "#A7C957",
+    "#B5651D"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "froid",
+   "secret": "Une poêle fumante et la viande en une seule couche : le porc dore en 3 minutes au lieu de bouillir dans son jus.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Grande poêle",
+    "Planche et couteau",
+    "Râpe fine",
+    "Presse-agrumes",
+    "2 bols"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-12": {
+   "accroche": "Des moules de bouchot de saison dans un bouillon rouge et fumé, à saucer avec du pain grillé.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 1,
+    "rechauffage": "Décortiquer les moules et réchauffer doucement dans la sauce."
+   },
+   "cuisine": "Espagne",
+   "cuisson": 15,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "moules"
+     ],
+     "i": [
+      "Moules de bouchot"
+     ],
+     "n": "Préparer les moules",
+     "r": "commis",
+     "t": "Rincez les moules sous l'eau froide, frottez ce qui colle à la coquille et tirez le petit fil qui dépasse. Tapotez celles qui sont ouvertes : si elles ne se referment pas en une minute, jetez-les."
+    },
+    {
+     "g": [
+      "oignon",
+      "ail",
+      "coupes"
+     ],
+     "i": [
+      "Oignon",
+      "Ail",
+      "Chorizo"
+     ],
+     "n": "Couper les ingrédients",
+     "r": "commis",
+     "t": "Épluchez l'oignon et l'ail et coupez-les en petits dés de 3 mm. Retirez la peau du chorizo et coupez-le en dés de 5 mm."
+    },
+    {
+     "i": [
+      "Huile d'olive"
+     ],
+     "m": 5,
+     "n": "Cuire le chorizo",
+     "p": "Le chorizo a rendu son gras rouge et l'oignon est translucide.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la cocotte à feu moyen. Ajoutez le chorizo, l'oignon et l'ail et remuez de temps en temps."
+    },
+    {
+     "a": "Il brûle vite : ne vous éloignez pas et passez à l'étape suivante dès que ça sent fort.",
+     "i": [
+      "Paprika fumé"
+     ],
+     "n": "Ajouter le paprika",
+     "r": "chef",
+     "t": "Ajoutez le paprika fumé et remuez 30 secondes."
+    },
+    {
+     "g": [
+      "sucs",
+      "boites"
+     ],
+     "i": [
+      "Vin blanc sec",
+      "Tomates concassées",
+      "Haricots blancs (conserve, égouttés)"
+     ],
+     "m": 3,
+     "n": "Ajouter vin et haricots",
+     "p": "Le liquide a un peu réduit et ne sent plus l'alcool.",
+     "r": "chef",
+     "t": "Versez le vin blanc et grattez le fond avec une cuillère. Ajoutez les tomates et les haricots blancs égouttés et rincés. Laissez bouillonner."
+    },
+    {
+     "a": "Jetez celles qui restent fermées après la cuisson.",
+     "g": [
+      "moules"
+     ],
+     "m": 6,
+     "n": "Cuire les moules",
+     "p": "Presque toutes les moules sont ouvertes.",
+     "r": "chef",
+     "t": "Ajoutez les moules, couvrez et secouez la cocotte de temps en temps, à feu vif."
+    },
+    {
+     "i": [
+      "Pain complet",
+      "Salade verte"
+     ],
+     "n": "Préparer pain et salade",
+     "r": "commis",
+     "t": "Faites griller les tranches de pain. Lavez et essorez la salade."
+    },
+    {
+     "g": [
+      "herbes"
+     ],
+     "i": [
+      "Persil plat"
+     ],
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Parsemez les moules de persil coupé finement et servez avec le pain grillé et la salade."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 1,
+   "id": "w47-12",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 21,
+     "n": "Moules de bouchot",
+     "p": 3,
+     "q": 400,
+     "r": "Poissonnerie",
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "k": 450,
+     "n": "Chorizo",
+     "p": 24,
+     "q": 20,
+     "r": "Charcuterie & traiteur",
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "k": 100,
+     "n": "Haricots blancs (conserve, égouttés)",
+     "p": 7,
+     "q": 100,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 120,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 70,
+     "n": "Vin blanc sec",
+     "p": 0.1,
+     "q": 40,
+     "r": "Boissons",
+     "u": "ml"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Paprika fumé",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 40,
+     "n": "Persil plat",
+     "p": 3,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 240,
+     "n": "Pain complet",
+     "p": 9,
+     "q": 70,
+     "r": "Boulangerie",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 15,
+     "n": "Salade verte",
+     "p": 1.2,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Retirez les moules restantes de leur coquille le soir même et gardez-les dans la sauce ; le midi, réchauffez et servez sur du pain grillé.",
+    "titre": "Haricots aux moules décortiquées sur pain grillé"
+   },
+   "nom": "Moules au chorizo, tomate et haricots blancs, pain grillé",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#1D3557",
+    "#C1121F",
+    "#F2E8CF",
+    "#E9C46A"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "transforme",
+   "secret": "Le gras rouge du chorizo fondu remplace le beurre : il parfume tout le jus de cuisson.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Grande cocotte ou sauteuse avec couvercle",
+    "Grille-pain ou four",
+    "Passoire",
+    "Planche et couteau"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-13": {
+   "accroche": "Le gratin de poisson britannique : sauce crémeuse à la moutarde, œuf dur et purée dorée.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Ce plat se monte à l'avance et attend au frigo jusqu'au soir."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Four 15 min à 180 °C ou micro-ondes 3 min."
+   },
+   "cuisine": "Royaume-Uni",
+   "cuisson": 25,
+   "cumul": 0,
+   "difficulte": 2,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez-le à 200 °C."
+    },
+    {
+     "g": [
+      "poisson"
+     ],
+     "i": [
+      "Filets de colin d'Alaska surgelés"
+     ],
+     "n": "Décongeler le colin",
+     "r": "commis",
+     "t": "Le mieux est de le mettre la veille au frigo. Sinon, gardez les filets dans un sachet bien fermé et plongez-le 15 à 20 minutes dans un grand bol d'eau froide. Séchez-les ensuite avec du papier absorbant."
+    },
+    {
+     "g": [
+      "pommes-de-terre"
+     ],
+     "i": [
+      "Pommes de terre"
+     ],
+     "m": 20,
+     "n": "Cuire les pommes de terre",
+     "p": "Un couteau entre sans résistance dans un cube.",
+     "r": "commis",
+     "t": "Épluchez les pommes de terre et coupez-les en cubes de 3 cm. Mettez-les dans une casserole d'eau froide salée, portez à ébullition, puis laissez bouillir à feu moyen."
+    },
+    {
+     "g": [
+      "oeufs"
+     ],
+     "i": [
+      "Œufs"
+     ],
+     "m": 9,
+     "n": "Cuire les œufs",
+     "p": "Le jaune est ferme et le blanc bien pris.",
+     "r": "commis",
+     "t": "Pendant ce temps, plongez l'œuf dans de l'eau bouillante et lancez le minuteur. Passez-le sous l'eau froide, écalez-le et coupez-le en quartiers."
+    },
+    {
+     "g": [
+      "pommes-de-terre"
+     ],
+     "i": [
+      "Lait demi-écrémé|0.2"
+     ],
+     "n": "Faire la purée",
+     "r": "commis",
+     "t": "Égouttez les pommes de terre et écrasez-les avec un peu de lait chaud ou froid, versé petit à petit, jusqu'à obtenir une purée lisse. Salez."
+    },
+    {
+     "g": [
+      "poireau"
+     ],
+     "i": [
+      "Poireaux",
+      "Beurre"
+     ],
+     "m": 5,
+     "n": "Cuire les poireaux",
+     "p": "Les poireaux sont mous et translucides, sans être colorés.",
+     "r": "chef",
+     "t": "Coupez la racine des poireaux, fendez-les en deux, lavez-les entre les feuilles et coupez-les en lamelles de 5 mm. Faites fondre le beurre dans la casserole à feu doux, ajoutez les poireaux et remuez."
+    },
+    {
+     "i": [
+      "Farine",
+      "Lait demi-écrémé|0.8",
+      "Moutarde de Dijon",
+      "Muscade",
+      "Citron jaune"
+     ],
+     "m": 3,
+     "n": "Préparer la sauce",
+     "p": "La sauce est épaisse et recouvre le dos d'une cuillère.",
+     "r": "chef",
+     "t": "Ajoutez la farine et remuez 1 minute. Versez le lait petit à petit en fouettant, puis ajoutez la moutarde, la muscade et le zeste râpé du citron. Remuez à feu doux."
+    },
+    {
+     "g": [
+      "epinards",
+      "herbes"
+     ],
+     "i": [
+      "Épinards hachés surgelés",
+      "Persil plat",
+      "Emmental râpé"
+     ],
+     "n": "Monter le plat",
+     "r": "ensemble",
+     "t": "Coupez le colin en morceaux de 3 cm. Laissez les épinards décongeler dans une passoire, puis pressez-les à la main pour retirer l'eau. Dans le plat, mettez le colin cru, les épinards, les œufs, la sauce et le persil coupé finement. Couvrez de purée et parsemez d'emmental."
+    },
+    {
+     "g": [
+      "four",
+      "poisson"
+     ],
+     "m": 25,
+     "n": "Gratiner au four",
+     "p": "Le dessus est doré, ça bouillonne sur les bords et le poisson est opaque au cœur quand vous le piquez avec un couteau.",
+     "r": "chef",
+     "t": "Enfournez le plat et lancez le minuteur."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 3,
+   "id": "w47-13",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 80,
+     "n": "Filets de colin d'Alaska surgelés",
+     "p": 17,
+     "q": 150,
+     "r": "Surgelés",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 80,
+     "n": "Pommes de terre",
+     "p": 2,
+     "q": 220,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Épinards hachés surgelés",
+     "p": 3,
+     "q": 100,
+     "r": "Surgelés",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 30,
+     "n": "Poireaux",
+     "p": 1.4,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "lait",
+     "k": 46,
+     "n": "Lait demi-écrémé",
+     "p": 3.3,
+     "q": 100,
+     "r": "Crèmerie & fromages",
+     "u": "ml"
+    },
+    {
+     "c": "mg",
+     "k": 745,
+     "n": "Beurre",
+     "p": 0.7,
+     "q": 6,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 360,
+     "n": "Farine",
+     "p": 10,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 1,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Moutarde de Dijon",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Muscade",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "lait",
+     "k": 380,
+     "n": "Emmental râpé",
+     "p": 28,
+     "q": 10,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 40,
+     "n": "Persil plat",
+     "p": 3,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron jaune",
+     "p": 0.7,
+     "q": 0.25,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 100
+    }
+   ],
+   "midi": null,
+   "nom": "Fish pie au colin, poireaux et épinards, croûte de purée",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#F4E3B2",
+    "#2D6A4F",
+    "#E9C46A",
+    "#FFFFFF"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 20,
+   "rechauffe": "excellent",
+   "secret": "Mettez le colin cru dans le plat : il cuit dans la sauce au four et reste moelleux au lieu de sécher.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Four",
+    "Plat à gratin",
+    "Casserole pour les pommes de terre",
+    "Casserole pour les œufs",
+    "Casserole pour la sauce",
+    "Passoire",
+    "Fouet",
+    "Fourchette ou presse-purée"
+   ],
+   "vege": false,
+   "veille": "Sortez le colin du congélateur et mettez-le au frigo."
+  },
+  "w47-14": {
+   "accroche": "Des croquettes dorées au nuoc-mâm et à la coriandre, une salade croquante et quelques cacahuètes.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 2,
+    "rechauffage": "Se mange froid ; ou poêle 2 min par face."
+   },
+   "cuisine": "Thaïlande",
+   "cuisson": 15,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "riz"
+     ],
+     "i": [
+      "Riz basmati",
+      "Eau=2*Riz basmati"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert."
+    },
+    {
+     "g": [
+      "ail",
+      "gingembre",
+      "herbes"
+     ],
+     "i": [
+      "Ail",
+      "Gingembre frais",
+      "Oignon nouveau",
+      "Coriandre fraîche|0.5"
+     ],
+     "n": "Préparer les aromates",
+     "r": "chef",
+     "t": "Épluchez l'ail et le gingembre et râpez-les finement. Coupez l'oignon nouveau en petits morceaux. Coupez la moitié de la coriandre en petits morceaux."
+    },
+    {
+     "a": "Lavez-vous les mains après avoir touché l'œuf cru.",
+     "i": [
+      "Thon au naturel (égoutté)",
+      "Œufs",
+      "Farine",
+      "Piment de Cayenne"
+     ],
+     "n": "Mélanger les galettes",
+     "r": "chef",
+     "t": "Égouttez le thon et émiettez-le dans le grand bol. Ajoutez l'œuf, la farine, les aromates et le piment. Mélangez à la fourchette. Formez avec les mains de petites galettes de 6 cm de diamètre."
+    },
+    {
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Huile neutre (colza)"
+     ],
+     "m": 3,
+     "n": "Dorer la première face",
+     "p": "Le dessous est doré et se détache facilement de la poêle.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la grande poêle à feu moyen. Posez les galettes sans qu'elles se touchent et laissez-les sans y toucher."
+    },
+    {
+     "m": 3,
+     "n": "Dorer la seconde face",
+     "p": "Les deux faces sont dorées et croustillantes.",
+     "r": "chef",
+     "t": "Retournez les galettes avec une spatule et laissez-les dorer."
+    },
+    {
+     "g": [
+      "chou",
+      "citron"
+     ],
+     "i": [
+      "Chou blanc",
+      "Carotte",
+      "Nuoc-mâm",
+      "Sucre",
+      "Citron vert",
+      "Coriandre fraîche|0.5",
+      "Cacahuètes grillées non salées"
+     ],
+     "n": "Préparer la salade",
+     "r": "commis",
+     "t": "Avec l'économe, coupez le chou et la carotte épluchée en fins rubans. Écrasez les cacahuètes au couteau. Mélangez le nuoc-mâm, le sucre et le jus du citron vert (gardez un quartier pour servir). Versez sur la salade, ajoutez le reste de la coriandre coupée finement et les cacahuètes."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez les galettes sur le riz avec la salade et le quartier de citron vert."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 3,
+   "id": "w47-14",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 110,
+     "n": "Thon au naturel (égoutté)",
+     "p": 25,
+     "q": 90,
+     "r": "Conserves & bocaux",
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 1,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "fec",
+     "k": 360,
+     "n": "Farine",
+     "p": 10,
+     "q": 10,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou blanc",
+     "p": 1.3,
+     "q": 100,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron vert",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 60
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 4,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Oignon nouveau",
+     "p": 1.5,
+     "q": 15,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Nuoc-mâm",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 5,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Piment de Cayenne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 600,
+     "n": "Cacahuètes grillées non salées",
+     "p": 25,
+     "q": 10,
+     "r": "Épicerie salée",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "sucre",
+     "k": 400,
+     "n": "Sucre",
+     "p": 0,
+     "q": 3,
+     "r": "Épicerie sucrée",
+     "s": 1,
+     "u": "g"
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Émiettez les galettes froides sur le riz et ajoutez la salade par-dessus, avec la sauce à part pour garder le croquant.",
+    "titre": "Bol froid thon-riz-chou"
+   },
+   "nom": "Galettes de thon à la thaïe, riz et salade de chou au citron vert",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#E9C46A",
+    "#A7C957",
+    "#F2E8CF",
+    "#C1440E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 15,
+   "rechauffe": "froid",
+   "secret": "L'équilibre thaï : salé (nuoc-mâm), acide (citron vert) et sucré (sucre) à parts presque égales dans la sauce.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Casserole avec couvercle",
+    "Grande poêle",
+    "Grand bol",
+    "Planche et couteau",
+    "Économe",
+    "Râpe fine"
+   ],
+   "vege": false,
+   "veille": null
+  },
+  "w47-15": {
+   "accroche": "Marinade marocaine aux herbes, citron et épices, poisson nacré et carottes caramélisées.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 2,
+    "rechauffage": "Micro-ondes 1 min 30, chermoula ajoutée après."
+   },
+   "cuisine": "Maroc",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "poisson"
+     ],
+     "i": [
+      "Filets de colin d'Alaska surgelés"
+     ],
+     "n": "Décongeler le colin",
+     "r": "commis",
+     "t": "Le mieux est de le mettre la veille au frigo. Sinon, gardez les filets dans un sachet bien fermé et plongez-le 15 à 20 minutes dans un grand bol d'eau froide. Séchez-les ensuite avec du papier absorbant."
+    },
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez-le à 220 °C."
+    },
+    {
+     "g": [
+      "coupes"
+     ],
+     "i": [
+      "Carotte",
+      "Huile d'olive|0.33",
+      "Cumin moulu|0.5",
+      "Miel"
+     ],
+     "n": "Préparer les carottes",
+     "r": "commis",
+     "t": "Épluchez les carottes et coupez-les en bâtonnets de 1 cm sur 6 cm. Mélangez-les avec un tiers de l'huile, la moitié du cumin et le miel, puis étalez-les sur la plaque."
+    },
+    {
+     "g": [
+      "four"
+     ],
+     "m": 10,
+     "n": "Rôtir les carottes",
+     "p": "Les carottes commencent à dorer sur les bords.",
+     "r": "commis",
+     "t": "Enfournez la plaque et lancez le minuteur."
+    },
+    {
+     "g": [
+      "herbes",
+      "ail",
+      "citron"
+     ],
+     "i": [
+      "Persil plat",
+      "Coriandre fraîche",
+      "Ail",
+      "Paprika fumé",
+      "Citron jaune",
+      "Huile d'olive|0.67",
+      "Cumin moulu|0.5"
+     ],
+     "n": "Préparer la chermoula",
+     "r": "chef",
+     "t": "Coupez le persil et la coriandre en très petits morceaux. Épluchez l'ail et écrasez-le. Dans un bol, mélangez les herbes, l'ail, le reste du cumin, le paprika, le jus du citron, le reste de l'huile et une pincée de sel."
+    },
+    {
+     "g": [
+      "poisson",
+      "four"
+     ],
+     "m": 10,
+     "n": "Enrober le colin",
+     "p": "Le poisson est opaque et se sépare en lamelles quand vous le piquez avec une fourchette.",
+     "r": "chef",
+     "t": "Salez légèrement le colin et enrobez-le de la moitié de la chermoula. Posez-le sur les carottes et remettez la plaque au four."
+    },
+    {
+     "g": [
+      "semoule",
+      "boites"
+     ],
+     "i": [
+      "Semoule complète",
+      "Eau=1.4*Semoule complète",
+      "Pois chiches (conserve, égouttés)"
+     ],
+     "m": 5,
+     "n": "Préparer la semoule",
+     "p": "Toute l'eau est absorbée et les grains sont séparés.",
+     "r": "commis",
+     "t": "Mettez la semoule et les pois chiches égouttés et rincés dans un saladier avec une pincée de sel. Faites bouillir l'eau, versez-la dessus et couvrez avec une assiette. À la fin du minuteur, séparez les grains à la fourchette."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez le colin et les carottes sur la semoule, avec le reste de chermoula crue par-dessus."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-15",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 80,
+     "n": "Filets de colin d'Alaska surgelés",
+     "p": 17,
+     "q": 160,
+     "r": "Surgelés",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 36,
+     "n": "Carotte",
+     "p": 0.8,
+     "q": 180,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Semoule complète",
+     "p": 12,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "k": 125,
+     "n": "Pois chiches (conserve, égouttés)",
+     "p": 7.5,
+     "q": 50,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 40,
+     "n": "Persil plat",
+     "p": 3,
+     "q": 5,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 5,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron jaune",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 100
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Paprika fumé",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 12,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "sucre",
+     "k": 320,
+     "n": "Miel",
+     "p": 0.4,
+     "q": 3,
+     "r": "Épicerie sucrée",
+     "s": 1,
+     "u": "g"
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Servez froid : semoule, carottes, colin émietté et une cuillère de chermoula avec un filet de citron.",
+    "titre": "Salade de semoule, carottes et colin"
+   },
+   "nom": "Colin à la chermoula, carottes rôties au cumin et semoule aux pois chiches",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#2D6A4F",
+    "#E07A2E",
+    "#F2E8CF",
+    "#F4D35E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Gardez la moitié de la chermoula crue pour la fin : les herbes fraîches apportent le peps que la cuisson efface.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Four",
+    "Plaque de four avec papier cuisson",
+    "Saladier",
+    "Bol",
+    "Planche et couteau",
+    "Assiette"
+   ],
+   "vege": false,
+   "veille": "Sortez le colin du congélateur et mettez-le au frigo."
+  },
+  "w47-16": {
+   "accroche": "Le dal du Pendjab, crémeux et fumé, au beurre et aux épices, sans heures de mijotage.",
+   "ajoute": "2026-11-16",
+   "batch": [
+    "Ce dal est encore meilleur le lendemain : il se double sans effort."
+   ],
+   "conservation": {
+    "congel": true,
+    "frigo": 4,
+    "rechauffage": "Casserole avec un peu d'eau ou micro-ondes 2 min."
+   },
+   "cuisine": "Inde",
+   "cuisson": 35,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "i": [
+      "Lentilles vertes"
+     ],
+     "n": "Rincer les lentilles",
+     "r": "commis",
+     "t": "Mettez les lentilles dans une passoire et rincez-les à l'eau froide."
+    },
+    {
+     "g": [
+      "oignon",
+      "ail",
+      "gingembre"
+     ],
+     "i": [
+      "Oignon",
+      "Ail",
+      "Gingembre frais"
+     ],
+     "n": "Couper les aromates",
+     "r": "commis",
+     "t": "Épluchez l'oignon et coupez-le en petits dés de 3 mm. Épluchez l'ail et le gingembre et râpez-les finement."
+    },
+    {
+     "g": [
+      "oignon"
+     ],
+     "i": [
+      "Beurre"
+     ],
+     "m": 8,
+     "n": "Cuire l'oignon",
+     "p": "L'oignon est translucide et mou.",
+     "r": "chef",
+     "t": "Faites fondre le beurre dans la cocotte à feu moyen, ajoutez l'oignon et remuez de temps en temps."
+    },
+    {
+     "a": "Les épices brûlent vite : si ça colle, versez tout de suite les tomates.",
+     "i": [
+      "Garam masala",
+      "Cumin moulu"
+     ],
+     "m": 1,
+     "n": "Griller les épices",
+     "p": "Ça sent fort les épices.",
+     "r": "chef",
+     "t": "Ajoutez l'ail, le gingembre, le garam masala et le cumin. Remuez sans arrêt à feu moyen."
+    },
+    {
+     "a": "Remuez de temps en temps et ajoutez un peu d'eau si ça accroche.",
+     "g": [
+      "feu"
+     ],
+     "i": [
+      "Tomates concassées"
+     ],
+     "m": 30,
+     "n": "Cuire lentilles et tomates",
+     "p": "Les lentilles sont tendres sous la dent.",
+     "r": "chef",
+     "t": "Ajoutez les lentilles, les tomates et deux fois le volume des lentilles en eau. Au Cookeo : 15 minutes sous pression. En cocotte : portez à ébullition, passez à feu doux et couvrez, de petites bulles doivent monter doucement."
+    },
+    {
+     "g": [
+      "riz"
+     ],
+     "i": [
+      "Riz basmati",
+      "Eau=2*Riz basmati"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert."
+    },
+    {
+     "g": [
+      "herbes"
+     ],
+     "i": [
+      "Yaourt nature",
+      "Coriandre fraîche"
+     ],
+     "n": "Préparer le raïta",
+     "r": "commis",
+     "t": "Coupez la coriandre en petits morceaux. Mélangez-la avec le yaourt et une pincée de sel."
+    },
+    {
+     "g": [
+      "epinards",
+      "boites"
+     ],
+     "i": [
+      "Haricots rouges (conserve, égouttés)",
+      "Épinards hachés surgelés",
+      "Crème fraîche légère 15 %"
+     ],
+     "m": 5,
+     "n": "Finir le dal",
+     "p": "Le dal est épais et crémeux, et les épinards sont bien chauds.",
+     "r": "chef",
+     "t": "Écrasez en partie les haricots rouges égouttés à la fourchette. Ajoutez-les au dal avec les épinards surgelés et la crème. Laissez cuire à feu doux en remuant."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez le dal avec le riz et le raïta."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 3,
+   "id": "w47-16",
+   "ingredients": [
+    {
+     "c": "fec",
+     "k": 330,
+     "n": "Lentilles vertes",
+     "p": 24,
+     "q": 50,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "prot",
+     "k": 115,
+     "n": "Haricots rouges (conserve, égouttés)",
+     "p": 8,
+     "q": 100,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 120,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Épinards hachés surgelés",
+     "p": 3,
+     "q": 100,
+     "r": "Surgelés",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 50,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "lait",
+     "k": 50,
+     "n": "Yaourt nature",
+     "p": 4,
+     "q": 80,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 745,
+     "n": "Beurre",
+     "p": 0.7,
+     "q": 8,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "lait",
+     "k": 160,
+     "n": "Crème fraîche légère 15 %",
+     "p": 2.8,
+     "q": 20,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Garam masala",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 6,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": null,
+   "nom": "Dal makhani aux haricots rouges et lentilles, épinards, riz et raïta",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#7F2A1D",
+    "#F2E8CF",
+    "#2D6A4F",
+    "#E9C46A"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "excellent",
+   "secret": "Écrasez une partie des haricots dans le dal : c'est ce qui lui donne sa texture veloutée sans beaucoup de crème.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [],
+   "type": "plat",
+   "ustensiles": [
+    "Cocotte ou Cookeo",
+    "Casserole avec couvercle",
+    "Passoire",
+    "Planche et couteau",
+    "Râpe fine",
+    "Fourchette",
+    "Petit bol"
+   ],
+   "vege": true,
+   "veille": null
+  },
+  "w47-17": {
+   "accroche": "Œufs coulants dans une sauce tomate au cumin et paprika fumé, tortilla grillée et citron vert.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 2,
+    "rechauffage": "Sauce seule au micro-ondes ; œuf frais ou dur ajouté."
+   },
+   "cuisine": "Mexique",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "oignon",
+      "ail"
+     ],
+     "i": [
+      "Oignon",
+      "Ail"
+     ],
+     "n": "Préparer les ingrédients",
+     "r": "commis",
+     "t": "Épluchez l'oignon et coupez-le en lamelles de 3 mm. Épluchez l'ail et coupez-le en petits morceaux."
+    },
+    {
+     "g": [
+      "oignon"
+     ],
+     "i": [
+      "Huile d'olive"
+     ],
+     "m": 6,
+     "n": "Cuire l'oignon",
+     "p": "L'oignon est translucide et mou.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la grande poêle à feu moyen, ajoutez l'oignon et remuez de temps en temps."
+    },
+    {
+     "a": "Les épices brûlent vite : passez tout de suite à l'étape suivante.",
+     "i": [
+      "Cumin moulu",
+      "Paprika fumé"
+     ],
+     "n": "Ajouter les épices",
+     "r": "chef",
+     "t": "Ajoutez l'ail, le cumin et le paprika fumé et remuez 30 secondes."
+    },
+    {
+     "g": [
+      "boites"
+     ],
+     "i": [
+      "Tomates concassées",
+      "Haricots rouges (conserve, égouttés)"
+     ],
+     "m": 8,
+     "n": "Faire la sauce",
+     "p": "La sauce est épaisse : une cuillère laisse une trace qui ne se referme pas tout de suite.",
+     "r": "chef",
+     "t": "Ajoutez les tomates et les haricots rouges égouttés et rincés. Laissez bouillonner à feu moyen en remuant."
+    },
+    {
+     "a": "Si vous préférez les jaunes durs, laissez 2 minutes de plus.",
+     "g": [
+      "oeufs"
+     ],
+     "i": [
+      "Œufs"
+     ],
+     "m": 6,
+     "n": "Pocher les œufs",
+     "p": "Les blancs sont pris et opaques, les jaunes encore coulants.",
+     "r": "chef",
+     "t": "Avec le dos d'une cuillère, creusez un puits par œuf dans la sauce. Cassez chaque œuf d'abord dans une tasse, puis versez-le dans un puits. Couvrez, à feu doux."
+    },
+    {
+     "g": [
+      "herbes",
+      "citron"
+     ],
+     "i": [
+      "Tortillas de blé complet",
+      "Cheddar affiné",
+      "Coriandre fraîche",
+      "Citron vert"
+     ],
+     "n": "Préparer les accompagnements",
+     "r": "commis",
+     "t": "Chauffez une poêle à sec à feu moyen et faites griller la tortilla 30 secondes de chaque côté. Râpez le cheddar, coupez la coriandre en petits morceaux et coupez le citron vert en quartiers."
+    },
+    {
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Parsemez les œufs de cheddar et de coriandre, et servez avec la tortilla et les quartiers de citron vert."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 2,
+   "id": "w47-17",
+   "ingredients": [
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 2,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "prot",
+     "k": 115,
+     "n": "Haricots rouges (conserve, égouttés)",
+     "p": 8,
+     "q": 100,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Tomates concassées",
+     "p": 1.2,
+     "q": 150,
+     "r": "Conserves & bocaux",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 50,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "e": 1,
+     "k": 300,
+     "n": "Tortillas de blé complet",
+     "p": 9,
+     "q": 1,
+     "r": "Boulangerie",
+     "u": "pc",
+     "w": 40
+    },
+    {
+     "c": "lait",
+     "k": 400,
+     "n": "Cheddar affiné",
+     "p": 25,
+     "q": 15,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Cumin moulu",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Paprika fumé",
+     "p": 0,
+     "q": 0.5,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 23,
+     "n": "Coriandre fraîche",
+     "p": 2,
+     "q": 3,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Citron vert",
+     "p": 0.7,
+     "q": 0.5,
+     "r": "Fruits & légumes",
+     "u": "pc",
+     "w": 60
+    }
+   ],
+   "midi": {
+    "extras": [
+     {
+      "c": "prot",
+      "e": 1,
+      "k": 140,
+      "n": "Œufs",
+      "p": 12.5,
+      "q": 1,
+      "r": "Crèmerie & fromages",
+      "u": "pc",
+      "w": 55
+     }
+    ],
+    "texte": "Réchauffez la sauce aux haricots, roulez-la dans une tortilla avec un œuf dur et un peu de cheddar.",
+    "titre": "Wrap haricots-œuf"
+   },
+   "nom": "Huevos rancheros : œufs pochés en sauce tomate épicée, haricots rouges et tortilla",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#C1121F",
+    "#F4D35E",
+    "#6A994E",
+    "#F2E8CF"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "transforme",
+   "secret": "Un filet de citron vert au service réveille la tomate et le paprika fumé.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Grande poêle avec couvercle",
+    "Poêle pour les tortillas",
+    "Planche et couteau",
+    "Râpe",
+    "Cuillère"
+   ],
+   "vege": true,
+   "veille": null
+  },
+  "w47-18": {
+   "accroche": "Coquillettes et chou-fleur dans une sauce cheddar-moutarde allégée au skyr, gratinées croustillantes.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": true,
+    "frigo": 3,
+    "rechauffage": "Four 10 min ou micro-ondes 2 min avec un trait de lait."
+   },
+   "cuisine": "États-Unis",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Allumer le gril",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez le gril."
+    },
+    {
+     "g": [
+      "pates"
+     ],
+     "i": [
+      "Coquillettes",
+      "Chou-fleur"
+     ],
+     "m": 9,
+     "n": "Cuire pâtes et chou-fleur",
+     "p": "Les coquillettes sont tendres mais encore un peu fermes sous la dent et le chou-fleur se pique facilement.",
+     "r": "commis",
+     "t": "Coupez le chou-fleur en petits bouquets de 2 cm. Portez de l'eau salée à ébullition, plongez les coquillettes et le chou-fleur ensemble et remuez. Égouttez à la fin."
+    },
+    {
+     "i": [
+      "Beurre",
+      "Farine"
+     ],
+     "m": 1,
+     "n": "Faire le roux",
+     "p": "Le mélange est lisse et mousseux, sans changer de couleur.",
+     "r": "chef",
+     "t": "Faites fondre le beurre dans la casserole à feu doux, ajoutez la farine et remuez avec le fouet."
+    },
+    {
+     "a": "Si des grumeaux se forment, fouettez plus fort ou passez la sauce au tamis.",
+     "i": [
+      "Lait demi-écrémé"
+     ],
+     "m": 4,
+     "n": "Ajouter le lait",
+     "p": "La sauce est épaisse et recouvre le dos d'une cuillère.",
+     "r": "chef",
+     "t": "Versez le lait petit à petit en fouettant sans arrêt, à feu doux, jusqu'à ce que la sauce épaississe."
+    },
+    {
+     "a": "Ne remettez pas la sauce sur le feu une fois le skyr ajouté : elle pourrait tourner.",
+     "i": [
+      "Cheddar affiné",
+      "Moutarde de Dijon",
+      "Muscade",
+      "Skyr nature"
+     ],
+     "n": "Finir la sauce",
+     "r": "chef",
+     "t": "Retirez la casserole du feu. Ajoutez le cheddar râpé, la moutarde et la muscade, puis le skyr. Mélangez jusqu'à ce que le fromage ait fondu."
+    },
+    {
+     "a": "Surveillez : sous le gril, la chapelure brûle en quelques secondes.",
+     "g": [
+      "four"
+     ],
+     "i": [
+      "Chapelure panko"
+     ],
+     "m": 5,
+     "n": "Gratiner",
+     "p": "Le dessus est doré et ça bouillonne sur les bords.",
+     "r": "ensemble",
+     "t": "Mélangez la sauce avec les pâtes et le chou-fleur, versez dans le plat, couvrez de chapelure et passez sous le gril."
+    },
+    {
+     "i": [
+      "Salade verte"
+     ],
+     "n": "Préparer la salade",
+     "r": "commis",
+     "t": "Lavez et essorez la salade, puis assaisonnez-la juste avant de servir avec une pincée de sel, du poivre et la vinaigrette de votre choix."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 3,
+   "id": "w47-18",
+   "ingredients": [
+    {
+     "c": "fec",
+     "k": 355,
+     "n": "Coquillettes",
+     "p": 12,
+     "q": 70,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou-fleur",
+     "p": 1.9,
+     "q": 150,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "lait",
+     "k": 46,
+     "n": "Lait demi-écrémé",
+     "p": 3.3,
+     "q": 150,
+     "r": "Crèmerie & fromages",
+     "u": "ml"
+    },
+    {
+     "c": "lait",
+     "k": 400,
+     "n": "Cheddar affiné",
+     "p": 25,
+     "q": 30,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "k": 60,
+     "n": "Skyr nature",
+     "p": 10,
+     "q": 60,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 360,
+     "n": "Farine",
+     "p": 10,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 745,
+     "n": "Beurre",
+     "p": 0.7,
+     "q": 6,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Moutarde de Dijon",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cc"
+    },
+    {
+     "c": "fec",
+     "k": 380,
+     "n": "Chapelure panko",
+     "p": 11,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 15,
+     "n": "Salade verte",
+     "p": 1.2,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Muscade",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    }
+   ],
+   "midi": null,
+   "nom": "Mac and cheese au chou-fleur et cheddar, croûte panko, salade verte",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#F4A261",
+    "#F2E8CF",
+    "#E9C46A",
+    "#6A994E"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Ajoutez le skyr hors du feu : il rend la sauce onctueuse et riche en protéines sans qu'elle tranche.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Grande casserole",
+    "Casserole pour la sauce",
+    "Passoire",
+    "Plat allant au four avec gril",
+    "Fouet",
+    "Râpe",
+    "Planche et couteau"
+   ],
+   "vege": true,
+   "veille": null
+  },
+  "w47-19": {
+   "accroche": "Tofu fondant dans une sauce miso pimentée et gingembre, la version sans viande du classique du Sichuan.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 3,
+    "rechauffage": "Micro-ondes 2 min, œuf frais ou dur."
+   },
+   "cuisine": "Chine",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 2,
+   "etapes": [
+    {
+     "g": [
+      "riz"
+     ],
+     "i": [
+      "Riz basmati",
+      "Eau=2*Riz basmati"
+     ],
+     "m": 12,
+     "n": "Cuire le riz",
+     "p": "Toute l'eau est absorbée et les grains se séparent à la fourchette.",
+     "r": "commis",
+     "t": "Rincez le riz dans une passoire et mettez-le dans une casserole avec l'eau et une pincée de sel. Portez à ébullition à feu vif, puis passez à feu doux, couvrez et lancez le minuteur. À la fin, coupez le feu et laissez 5 minutes à couvert."
+    },
+    {
+     "g": [
+      "champignons",
+      "ail",
+      "gingembre",
+      "coupes"
+     ],
+     "i": [
+      "Tofu nature",
+      "Champignons de Paris",
+      "Ail",
+      "Gingembre frais",
+      "Oignon nouveau"
+     ],
+     "n": "Préparer les ingrédients",
+     "r": "commis",
+     "t": "Coupez le tofu en cubes de 2 cm. Hachez les champignons très finement, en morceaux de 3 mm. Épluchez l'ail et le gingembre et râpez-les. Coupez l'oignon nouveau en petits morceaux."
+    },
+    {
+     "i": [
+      "Fécule de maïs"
+     ],
+     "n": "Préparer la fécule",
+     "r": "commis",
+     "t": "Dans un petit bol, mélangez la fécule avec 2 cuillères à soupe d'eau froide jusqu'à ce qu'il n'y ait plus de grumeaux."
+    },
+    {
+     "g": [
+      "champignons",
+      "dorer"
+     ],
+     "i": [
+      "Huile neutre (colza)|0.5"
+     ],
+     "m": 6,
+     "n": "Dorer les champignons",
+     "p": "Les champignons ont rendu leur eau et sont bien dorés.",
+     "r": "chef",
+     "t": "Faites chauffer la moitié de l'huile dans la grande poêle à feu vif. Ajoutez les champignons hachés et remuez de temps en temps."
+    },
+    {
+     "a": "L'ail brûle vite et devient amer : passez tout de suite à l'étape suivante.",
+     "i": [
+      "Piment de Cayenne"
+     ],
+     "n": "Ajouter les aromates",
+     "r": "chef",
+     "t": "Ajoutez l'ail, le gingembre et le piment et remuez 30 secondes."
+    },
+    {
+     "a": "Remuez doucement pour ne pas casser le tofu.",
+     "i": [
+      "Pâte miso",
+      "Sauce soja"
+     ],
+     "m": 5,
+     "n": "Cuire le tofu",
+     "p": "La sauce est brillante et épaisse, et le tofu est bien chaud.",
+     "r": "chef",
+     "t": "Ajoutez le miso, la sauce soja et un verre d'eau (environ 150 ml), puis le tofu. Cuisez à feu doux. Versez le mélange de fécule en remuant doucement."
+    },
+    {
+     "g": [
+      "chou",
+      "oeufs"
+     ],
+     "i": [
+      "Chou blanc",
+      "Œufs",
+      "Huile neutre (colza)|0.5"
+     ],
+     "m": 4,
+     "n": "Cuire chou et œuf",
+     "p": "Le chou est tendre avec des bords dorés et le blanc de l'œuf est pris.",
+     "r": "commis",
+     "t": "Coupez le chou en fines lamelles de 3 mm. Faites chauffer le reste de l'huile dans une poêle à feu vif et faites cuire le chou en remuant. Poussez-le sur le côté, cassez l'œuf dans la poêle et laissez-le cuire."
+    },
+    {
+     "i": [
+      "Graines de sésame"
+     ],
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Servez le tofu sur le riz avec le chou et l'œuf au plat, parsemé d'oignon nouveau et de graines de sésame."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "bol",
+   "fraicheur": 2,
+   "id": "w47-19",
+   "ingredients": [
+    {
+     "c": "prot",
+     "k": 120,
+     "n": "Tofu nature",
+     "p": 12,
+     "q": 150,
+     "r": "Crèmerie & fromages",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 22,
+     "n": "Champignons de Paris",
+     "p": 3,
+     "q": 100,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Chou blanc",
+     "p": 1.3,
+     "q": 80,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Riz basmati",
+     "p": 8,
+     "q": 60,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 1,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Pâte miso",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Sauce soja",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "cs"
+    },
+    {
+     "c": "aro",
+     "k": 80,
+     "n": "Gingembre frais",
+     "p": 1.8,
+     "q": 6,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 130,
+     "n": "Ail",
+     "p": 6,
+     "q": 1,
+     "r": "Fruits & légumes",
+     "u": "gousse",
+     "v": 1,
+     "w": 5
+    },
+    {
+     "c": "aro",
+     "k": 30,
+     "n": "Oignon nouveau",
+     "p": 1.5,
+     "q": 15,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Piment de Cayenne",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    },
+    {
+     "c": "fec",
+     "k": 350,
+     "n": "Fécule de maïs",
+     "p": 0,
+     "q": 4,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile neutre (colza)",
+     "p": 0,
+     "q": 8,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "mg",
+     "k": 600,
+     "n": "Graines de sésame",
+     "p": 18,
+     "q": 5,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g",
+     "v": 1
+    }
+   ],
+   "midi": null,
+   "nom": "Mapo tofu aux champignons, œuf au plat, chou sauté et riz",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#B23A12",
+    "#F7F7F2",
+    "#8C5A3C",
+    "#A7C957"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "bon",
+   "secret": "Hachez les champignons très fin et faites-les dorer : ils jouent le rôle de la viande hachée du mapo traditionnel.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Casserole avec couvercle",
+    "Grande poêle",
+    "Planche et couteau",
+    "Râpe fine",
+    "Petit bol",
+    "Passoire"
+   ],
+   "vege": true,
+   "veille": null
+  },
+  "w47-20": {
+   "accroche": "Une omelette épaisse au four, douce et salée, qui se mange chaude le soir et froide le midi.",
+   "ajoute": "2026-11-16",
+   "batch": [],
+   "conservation": {
+    "congel": false,
+    "frigo": 3,
+    "rechauffage": "Se mange froide ou tiède."
+   },
+   "cuisine": "Italie",
+   "cuisson": 20,
+   "cumul": 0,
+   "difficulte": 1,
+   "etapes": [
+    {
+     "g": [
+      "four"
+     ],
+     "n": "Préchauffer le four",
+     "r": "commis",
+     "t": "Placez la grille au milieu du four et allumez-le à 200 °C."
+    },
+    {
+     "g": [
+      "courge",
+      "oignon",
+      "coupes"
+     ],
+     "i": [
+      "Potimarron",
+      "Oignon"
+     ],
+     "n": "Couper les légumes",
+     "r": "commis",
+     "t": "Lavez le potimarron, coupez-le en deux, retirez les graines avec une cuillère et coupez-le en dés de 1 cm sans l'éplucher. Épluchez l'oignon et coupez-le en lamelles de 3 mm."
+    },
+    {
+     "g": [
+      "dorer"
+     ],
+     "i": [
+      "Huile d'olive"
+     ],
+     "m": 7,
+     "n": "Dorer les légumes",
+     "p": "Le potimarron est doré et un couteau entre facilement.",
+     "r": "chef",
+     "t": "Faites chauffer l'huile dans la poêle allant au four à feu moyen. Ajoutez le potimarron et l'oignon et remuez de temps en temps."
+    },
+    {
+     "a": "Si la poêle est encore humide, les œufs rendraient de l'eau.",
+     "g": [
+      "epinards"
+     ],
+     "i": [
+      "Épinards hachés surgelés"
+     ],
+     "m": 3,
+     "n": "Ajouter les épinards",
+     "p": "Il n'y a plus d'eau au fond de la poêle.",
+     "r": "chef",
+     "t": "Ajoutez les épinards surgelés. Remuez et laissez l'eau s'évaporer."
+    },
+    {
+     "g": [
+      "oeufs"
+     ],
+     "i": [
+      "Œufs",
+      "Muscade",
+      "Feta"
+     ],
+     "n": "Ajouter les œufs",
+     "r": "chef",
+     "t": "Battez les œufs dans un bol avec la muscade, une pincée de sel et du poivre. Versez-les sur les légumes et émiettez la feta par-dessus."
+    },
+    {
+     "m": 3,
+     "n": "Cuire sur le feu",
+     "p": "Les bords sont pris et le centre est encore liquide.",
+     "r": "chef",
+     "t": "Laissez cuire à feu doux sans remuer."
+    },
+    {
+     "a": "Le manche de la poêle reste brûlant après la sortie du four : gardez le gant.",
+     "g": [
+      "four"
+     ],
+     "m": 7,
+     "n": "Finir au four",
+     "p": "Le centre est pris : il ne bouge plus quand vous secouez doucement la poêle.",
+     "r": "chef",
+     "t": "Enfournez la poêle, en la tenant avec un gant (le manche est brûlant), et lancez le minuteur."
+    },
+    {
+     "a": "Elles sautent et brûlent vite : surveillez-les.",
+     "i": [
+      "Graines de courge",
+      "Salade verte"
+     ],
+     "n": "Préparer salade et graines",
+     "r": "commis",
+     "t": "Faites chauffer une petite poêle à sec à feu moyen, ajoutez les graines de courge et remuez 2 à 3 minutes jusqu'à ce qu'elles gonflent et dorent. Parsemez-les sur la salade."
+    },
+    {
+     "i": [
+      "Pain complet"
+     ],
+     "n": "Servir",
+     "r": "ensemble",
+     "t": "Coupez la frittata en parts et servez avec la salade et le pain."
+    }
+   ],
+   "etapesVersion": 1,
+   "fois": 0,
+   "forme": "assiette",
+   "fraicheur": 3,
+   "id": "w47-20",
+   "ingredients": [
+    {
+     "c": "prot",
+     "e": 1,
+     "k": 140,
+     "n": "Œufs",
+     "p": 12.5,
+     "q": 3,
+     "r": "Crèmerie & fromages",
+     "u": "pc",
+     "w": 55
+    },
+    {
+     "c": "leg",
+     "k": 38,
+     "n": "Potimarron",
+     "p": 1.1,
+     "q": 150,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "leg",
+     "k": 25,
+     "n": "Épinards hachés surgelés",
+     "p": 3,
+     "q": 80,
+     "r": "Surgelés",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "lait",
+     "k": 270,
+     "n": "Feta",
+     "p": 17,
+     "q": 30,
+     "r": "Crèmerie & fromages",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 40,
+     "n": "Oignon",
+     "p": 1.2,
+     "q": 40,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "mg",
+     "k": 900,
+     "n": "Huile d'olive",
+     "p": 0,
+     "q": 6,
+     "r": "Épicerie salée",
+     "s": 1,
+     "u": "g"
+    },
+    {
+     "c": "fec",
+     "k": 240,
+     "n": "Pain complet",
+     "p": 9,
+     "q": 50,
+     "r": "Boulangerie",
+     "u": "g"
+    },
+    {
+     "c": "leg",
+     "k": 15,
+     "n": "Salade verte",
+     "p": 1.2,
+     "q": 60,
+     "r": "Fruits & légumes",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "mg",
+     "k": 570,
+     "n": "Graines de courge",
+     "p": 30,
+     "q": 8,
+     "r": "Épicerie salée",
+     "u": "g",
+     "v": 1
+    },
+    {
+     "c": "aro",
+     "k": 0,
+     "n": "Muscade",
+     "p": 0,
+     "q": 1,
+     "r": "Épices & condiments",
+     "s": 1,
+     "u": "pincée"
+    }
+   ],
+   "midi": {
+    "extras": [],
+    "texte": "Coupez en parts et emportez avec la salade et les graines de courge ; mettez un filet de citron à la place de la vinaigrette.",
+    "titre": "Frittata froide en boîte"
+   },
+   "nom": "Frittata au potimarron, épinards et feta, salade et graines de courge",
+   "notes": {
+    "b": 0,
+    "c": 0
+   },
+   "palette": [
+    "#E07A2E",
+    "#F4D35E",
+    "#2D6A4F",
+    "#F7F7F2"
+   ],
+   "photos": [],
+   "plaisir": false,
+   "prep": 10,
+   "rechauffe": "froid",
+   "secret": "Faites bien évaporer l'eau des épinards avant d'ajouter les œufs : la frittata reste moelleuse et ne rend pas d'eau.",
+   "semaine": "2026-W47",
+   "source": "hebdo",
+   "statut": "propose",
+   "tags": [
+    "Express"
+   ],
+   "type": "plat",
+   "ustensiles": [
+    "Four",
+    "Poêle allant au four",
+    "Bol",
+    "Fouet ou fourchette",
+    "Planche et couteau",
+    "Petite poêle"
    ],
    "vege": true,
    "veille": null
