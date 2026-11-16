@@ -342,6 +342,15 @@
 "rayon": "Glaces et sorbets › Types, Formats › Cônes glacés",
 "url": "https://www.picard.fr/produits/6-cones-vanille-praline-000000000000010026.html"
 },
+"000000000000010027": {
+"format": "le sachet de 300 g",
+"kilo": 12.5,
+"nom": "Cassis, France",
+"par": "kg",
+"prix": 3.75,
+"rayon": "Légumes et fruits › Fruits › Fruits rouges",
+"url": "https://www.picard.fr/produits/300g-cassis-000000000000010027.html"
+},
 "000000000000010030": {
 "format": "le sachet de 900 g",
 "kilo": 6.38,
@@ -359,15 +368,6 @@
 "prix": 2.99,
 "rayon": "Pains et viennoiseries › Viennoiseries › Crêpes, pancakes, gaufres",
 "url": "https://www.picard.fr/produits/8-crepes-baghrir-000000000000010033.html"
-},
-"000000000000010034": {
-"format": "la boîte de 390 g",
-"kilo": 12.3,
-"nom": "Assortiment de kemias 2 msemen, zaalouk, taktouka",
-"par": "kg",
-"prix": 4.8,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/assortiment-kemias-000000000000010034.html"
 },
 "000000000000010035": {
 "format": "la boîte de 350 g",
@@ -405,15 +405,6 @@
 "rayon": "Cuisine du monde › Pays › Plats Méditerranéens",
 "url": "https://www.picard.fr/produits/2-tatins-de-tajine-000000000000010038.html"
 },
-"000000000000010039": {
-"format": "le bol de 200 g",
-"kilo": 18.5,
-"nom": "Bol à la marocaine lentilles, carottes, houmous",
-"par": "kg",
-"prix": 3.7,
-"rayon": "Cuisine du monde › Pays › Plats Méditerranéens",
-"url": "https://www.picard.fr/produits/bol-a-la-marocaine-000000000000010039.html"
-},
 "000000000000010040": {
 "format": "le bol de 150 g",
 "kilo": 18.66,
@@ -432,24 +423,6 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Viandes, volailles cuisinées",
 "url": "https://www.picard.fr/produits/plat-hyperproteine-poulet-a-l-indienne-000000000000010041.html"
 },
-"000000000000010050": {
-"format": "la boîte de 350 g",
-"kilo": 15.71,
-"nom": "Poulet façon amlou riz cuisiné sce amande et miel",
-"par": "kg",
-"prix": 5.5,
-"rayon": "Plats cuisinés › Types de plats cuisinés › Plats du monde",
-"url": "https://www.picard.fr/produits/poulet-facon-amlou-000000000000010050.html"
-},
-"000000000000010051": {
-"format": "la boîte de 350 g",
-"kilo": 11.14,
-"nom": "Couscous tfaya légumes et semoule",
-"par": "kg",
-"prix": 3.9,
-"rayon": "Plats cuisinés › Types de plats cuisinés › Couscous, pâtes, risottos",
-"url": "https://www.picard.fr/produits/couscous-tfaya-000000000000010051.html"
-},
 "000000000000010053": {
 "format": "la boîte de 150 g",
 "kilo": 39.93,
@@ -458,6 +431,15 @@
 "prix": 5.99,
 "rayon": "Cuisine du monde › Types de plat › Desserts du monde",
 "url": "https://www.picard.fr/produits/patisseries-orientales-000000000000010053.html"
+},
+"000000000000010059": {
+"format": "le sachet de 175 g",
+"kilo": 34.22,
+"nom": "Nougat de Montélimar IGP",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/nougat-montelimar-igp-000000000000010059.html"
 },
 "000000000000010064": {
 "format": "le sachet de 500 g",
@@ -513,6 +495,15 @@
 "rayon": "Desserts › Desserts glacés › Mochis",
 "url": "https://www.picard.fr/produits/2-mochis-glaces-solidays-000000000000010071.html"
 },
+"000000000000010072": {
+"format": "bâtonnet de 80 g",
+"kilo": 37.37,
+"nom": "Bâtonnet griotte fruits rouges piment",
+"par": "kg",
+"prix": 2.99,
+"rayon": "Glaces et sorbets › Parfums › Fraises, Fruits rouges",
+"url": "https://www.picard.fr/produits/batonnet-glace-griotte-fruits-rouges-piment-000000000000010072.html"
+},
 "000000000000010073": {
 "format": "le sachet de 400 g",
 "kilo": 22.22,
@@ -531,24 +522,6 @@
 "rayon": "Pains et viennoiseries › Viennoiseries › Crêpes, pancakes, gaufres",
 "url": "https://www.picard.fr/produits/2-pancakes-hyperproteines-000000000000010074.html"
 },
-"000000000000010075": {
-"format": "la boîte de 550 g",
-"kilo": 29.07,
-"nom": "L'étonnante marguerite, 6 parts",
-"par": "kg",
-"prix": 15.99,
-"rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
-"url": "https://www.picard.fr/produits/l-etonnante-marguerite-000000000000010075.html"
-},
-"000000000000010076": {
-"format": "la boîte de 220 g",
-"kilo": 15.0,
-"nom": "Patatas bravas pdt, sauce tomate, sauce aïoli",
-"par": "kg",
-"prix": 3.3,
-"rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
-"url": "https://www.picard.fr/produits/patatas-bravas-220g-000000000000010076.html"
-},
 "000000000000010077": {
 "format": "la boîte de 300 g",
 "kilo": 13.3,
@@ -556,7 +529,7 @@
 "par": "kg",
 "prix": 3.99,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs exotiques, tapas",
-"url": "https://www.picard.fr/produits/churros-pommes-de-terre-000000000000010077.html"
+"url": "https://www.picard.fr/produits/churros-de-pommes-de-terre-000000000000010077.html"
 },
 "000000000000010078": {
 "format": "la boîte de 100 g",
@@ -637,7 +610,7 @@
 "par": "kg",
 "prix": 4.99,
 "rayon": "Viandes et poissons › Viandes › Porc",
-"url": "https://www.picard.fr/produits/farce-pur-porc-000000000000010087.html"
+"url": "https://www.picard.fr/produits/farce-pur-porc-crue-400g-000000000000010087.html"
 },
 "000000000000010088": {
 "format": "la boîte de 220 g",
@@ -747,6 +720,15 @@
 "rayon": "Glaces et sorbets › Types, Formats › Glaces pour enfants",
 "url": "https://www.picard.fr/produits/6-pirulo-fun-box-000000000000010101.html"
 },
+"000000000000010102": {
+"format": "le pot de 425 g",
+"kilo": 16.0,
+"nom": "Crème glacée peanut butter cup, Ben and Jerry's",
+"par": "kg",
+"prix": 6.8,
+"rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
+"url": "https://www.picard.fr/produits/peanut-butter-cup-000000000000010102.html"
+},
 "000000000000010103": {
 "format": "la boîte de 148 g",
 "kilo": 20.2,
@@ -783,15 +765,6 @@
 "rayon": "Glaces et sorbets › Parfums › Chocolat, Noisette",
 "url": "https://www.picard.fr/produits/4-cones-magnum-cookie-000000000000010107.html"
 },
-"000000000000010108": {
-"format": "la boîte de 160 g",
-"kilo": 56.18,
-"nom": "16 mignardises apéritives légumes",
-"par": "kg",
-"prix": 8.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
-"url": "https://www.picard.fr/produits/16-mignardises-legumes-000000000000010108.html"
-},
 "000000000000010109": {
 "format": "la boîte de 300 g",
 "kilo": 12.33,
@@ -819,15 +792,6 @@
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/10-cookies-aperitifs-120g-000000000000010112.html"
 },
-"000000000000010113": {
-"format": "le sachet de 200 g",
-"kilo": 16.5,
-"nom": "Pimientos* de Padron *poivrons",
-"par": "kg",
-"prix": 3.3,
-"rayon": "Légumes et fruits › Légumes › Légumes du soleil",
-"url": "https://www.picard.fr/produits/pimientos-de-padron-200g-000000000000010113.html"
-},
 "000000000000010114": {
 "format": "le sachet de 55 g",
 "kilo": 27.27,
@@ -836,6 +800,15 @@
 "prix": 1.5,
 "rayon": "Épicerie › Épicerie sucrée › Biscuits",
 "url": "https://www.picard.fr/produits/new-rose-choc-lait-55g-000000000000010114.html"
+},
+"000000000000010115": {
+"format": "le sachet de 300 g",
+"kilo": 19.96,
+"nom": "Fonds d'artichauts, Bretagne",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Qu'est-ce qu'on mange › Je veux cuisiner › Cuisiner des légumes",
+"url": "https://www.picard.fr/produits/fonds-artichauts-bretagne-000000000000010115.html"
 },
 "000000000000010116": {
 "format": "le sachet de 125 g",
@@ -909,24 +882,6 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats cuisinés végétariens",
 "url": "https://www.picard.fr/produits/boulettes-vegetariennes-hyperpproteines-000000000000010124.html"
 },
-"000000000000010126": {
-"format": "le sachet de 250 g",
-"kilo": 11.96,
-"nom": "Carciofi alla giudia quartiers d?artichauts",
-"par": "kg",
-"prix": 2.99,
-"rayon": "Apéritifs et entrées › Entrées › Entrées chaudes",
-"url": "https://www.picard.fr/produits/carciofi-alla-giudia-000000000000010126.html"
-},
-"000000000000010127": {
-"format": "le sachet de 240 g",
-"kilo": 16.62,
-"nom": "6 suppli al telefono boulettes de riz fourrées",
-"par": "kg",
-"prix": 3.99,
-"rayon": "Apéritifs et entrées › Entrées › Entrées chaudes",
-"url": "https://www.picard.fr/produits/6-suppli-al-telefono-000000000000010127.html"
-},
 "000000000000010128": {
 "format": "la boîte de 300 g",
 "kilo": 12.66,
@@ -972,6 +927,15 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats du monde",
 "url": "https://www.picard.fr/produits/gramigna-cacio-e-pepe-000000000000010132.html"
 },
+"000000000000010133": {
+"format": "la boîte de 380 g",
+"kilo": 15.76,
+"nom": "Pizza alla gricia mozzarella, courgettes",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Pizzas et tartes › Pizzas › Pizzas traditionnelles",
+"url": "https://www.picard.fr/produits/pizza-alla-gricia-000000000000010133.html"
+},
 "000000000000010134": {
 "format": "le sachet de 350 g",
 "kilo": 11.4,
@@ -999,6 +963,24 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats du monde",
 "url": "https://www.picard.fr/produits/spaghetti-alla-carbonara-000000000000010136.html"
 },
+"000000000000010139": {
+"format": "le sachet de 450 g",
+"kilo": 14.86,
+"nom": "Farce de volaille aux marrons et aux cèpes",
+"par": "kg",
+"prix": 6.69,
+"rayon": "Viandes et poissons › Volailles › Poulet et dinde",
+"url": "https://www.picard.fr/produits/450g-farce-marron-cepes-000000000000010139.html"
+},
+"000000000000010141": {
+"format": "la pièce de 1 kg",
+"kilo": 26.39,
+"nom": "Rôti de pintade farci aux cèpes et aux raisins",
+"par": "kg",
+"prix": 26.39,
+"rayon": "Viandes et poissons › Volailles › Pintade",
+"url": "https://www.picard.fr/produits/roti-pintade-cepes-raisin-000000000000010141.html"
+},
 "000000000000010142": {
 "format": "le bac de 472 g",
 "kilo": 10.99,
@@ -1007,6 +989,15 @@
 "prix": 5.19,
 "rayon": "Glaces et sorbets › Parfums › Vanille, Caramel",
 "url": "https://www.picard.fr/produits/new-vanille-carte-or-000000000000010142.html"
+},
+"000000000000010143": {
+"format": "bâtonnet de 49 g",
+"kilo": 44.89,
+"nom": "1 bâtonnet Haribo push up",
+"par": "kg",
+"prix": 2.2,
+"rayon": "Glaces et sorbets › Types, Formats › Glaces pour enfants",
+"url": "https://www.picard.fr/produits/haribo-push-up-000000000000010143.html"
 },
 "000000000000010144": {
 "format": "le pot de 299 g",
@@ -1033,7 +1024,7 @@
 "par": "kg",
 "prix": 2.5,
 "rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
-"url": "https://www.picard.fr/produits/mini-soupe-tom%2Fchorizo-000000000000010146.html"
+"url": "https://www.picard.fr/produits/mini-soupe-tomate-chorizo-000000000000010146.html"
 },
 "000000000000010147": {
 "format": "le bol de 400 g",
@@ -1061,6 +1052,15 @@
 "prix": 7.99,
 "rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
 "url": "https://www.picard.fr/produits/4-glaces-poudlard-000000000000010150.html"
+},
+"000000000000010152": {
+"format": "la boîte de 160 g",
+"kilo": 112.43,
+"nom": "L'hivernal. Foie gras de canard entier S-O épices",
+"par": "kg",
+"prix": 17.99,
+"rayon": "Apéritifs et entrées › Entrées › Entrées Foie gras",
+"url": "https://www.picard.fr/produits/l-hivernal-foie-gras-000000000000010152.html"
 },
 "000000000000010153": {
 "format": "bouteille de 75 cl",
@@ -1097,6 +1097,15 @@
 "prix": 5.99,
 "rayon": "Viandes et poissons › Poissons › Poissons panés, meunières",
 "url": "https://www.picard.fr/produits/2-portions-d-eglefin-facon-fish-and-chips-msc-000000000000010159.html"
+},
+"000000000000010160": {
+"format": "le sachet de 30 g",
+"kilo": 41.66,
+"nom": "Ourson en guimauve, chocolat au lait",
+"par": "kg",
+"prix": 1.25,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/ourson-guimauve-30g-000000000000010160.html"
 },
 "000000000000010161": {
 "format": "la boîte de 250 g",
@@ -1143,15 +1152,6 @@
 "rayon": "Épicerie › Épicerie sucrée › Biscuits",
 "url": "https://www.picard.fr/produits/barre-hyperproteinee-000000000000010167.html"
 },
-"000000000000010168": {
-"format": "la boîte de 176 g",
-"kilo": 39.71,
-"nom": "8 mini citrouilles apéritives, potiron, marron",
-"par": "kg",
-"prix": 6.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
-"url": "https://www.picard.fr/produits/8-mini-citrouilles-apero-000000000000010168.html"
-},
 "000000000000010169": {
 "format": "la boîte de 115 g",
 "kilo": 38.26,
@@ -1160,6 +1160,24 @@
 "prix": 4.4,
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats Spécial enfants",
 "url": "https://www.picard.fr/produits/trop-bons-les-oursons-000000000000010169.html"
+},
+"000000000000010173": {
+"format": "la boîte de 100 g",
+"kilo": 49.9,
+"nom": "Friture de chocolats au lait",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/fritures-chocolat-au-lait-000000000000010173.html"
+},
+"000000000000010174": {
+"format": "la boîte de 70 g",
+"kilo": 57.0,
+"nom": "Langues de chocolat noir cœur caramel",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/langues-chat-choco-70g-000000000000010174.html"
 },
 "000000000000010175": {
 "format": "l'étui de",
@@ -1195,6 +1213,15 @@
 "rayon": "Légumes et fruits › Fruits › Fruits pour smoothies et Jus",
 "url": "https://www.picard.fr/produits/shake-fruits-skyr-hyperproteine-000000000000010180.html"
 },
+"000000000000010183": {
+"format": "le sachet de 38 g",
+"kilo": 42.1,
+"nom": "Biscuit père Noël",
+"par": "kg",
+"prix": 1.6,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/biscuit-pere-noel-38g-000000000000010183.html"
+},
 "000000000000010184": {
 "format": "la pièce",
 "nom": "Sac coton Harry Potter™",
@@ -1219,6 +1246,24 @@
 "prix": 3.5,
 "rayon": "Pizzas et tartes › Pizzas › Mini-pizzas",
 "url": "https://www.picard.fr/produits/mini-pizzas-3-fromages-000000000000010186.html"
+},
+"000000000000010187": {
+"format": "le sachet de 250 g",
+"kilo": 15.96,
+"nom": "2 saucisses de Montbéliard IGP",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Viandes et poissons › Viandes › Porc",
+"url": "https://www.picard.fr/produits/2-saucisses-montbeliard-000000000000010187.html"
+},
+"000000000000010188": {
+"format": "le sachet de 500 g",
+"kilo": 7.98,
+"nom": "Flocons gourmands röstis de pomme de terre",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
+"url": "https://www.picard.fr/produits/flocons-gourmands-000000000000010188.html"
 },
 "000000000000010189": {
 "format": "le sachet de 500 g",
@@ -1246,6 +1291,13 @@
 "prix": 3.4,
 "rayon": "Légumes et fruits › Légumes › Légumes du soleil",
 "url": "https://www.picard.fr/produits/cubes-tomates-italienne-000000000000010199.html"
+},
+"000000000000010201": {
+"format": "la pièce",
+"nom": "Mini glacière isotherme Poudlard™",
+"prix": 8.49,
+"rayon": "Épicerie › Accessoires › Sac isotherme et Glacière",
+"url": "https://www.picard.fr/produits/mini-glaciere-isotherme-poudlard-000000000000010201.html"
 },
 "000000000000010202": {
 "format": "la boîte de 500 g",
@@ -1308,6 +1360,15 @@
 "rayon": "Épicerie › Épicerie sucrée › Confiseries",
 "url": "https://www.picard.fr/produits/sucette-hedwige-chocolat-au-lait-000000000000010209.html"
 },
+"000000000000010210": {
+"format": "la boîte de 60 g",
+"kilo": 83.16,
+"nom": "Torsades apéritives à la truffe d'été 1,4%",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
+"url": "https://www.picard.fr/produits/torsades-truffe-60g-000000000000010210.html"
+},
 "000000000000010211": {
 "format": "la boîte de 146 g",
 "kilo": 34.17,
@@ -1326,6 +1387,51 @@
 "rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
 "url": "https://www.picard.fr/produits/cinnamon-roll-370g-000000000000010212.html"
 },
+"000000000000010214": {
+"format": "la boîte de 700 g",
+"kilo": 35.7,
+"nom": "Rôti de magret de canard à l'orange",
+"par": "kg",
+"prix": 24.99,
+"rayon": "Viandes et poissons › Viandes",
+"url": "https://www.picard.fr/produits/roti-magret-canard-orange-000000000000010214.html"
+},
+"000000000000010220": {
+"format": "la boîte de 114 g",
+"kilo": 52.54,
+"nom": "12 mini kouglofs apéritifs emmental, lardon fumé",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
+"url": "https://www.picard.fr/produits/12-mini-kouglofs-000000000000010220.html"
+},
+"000000000000010221": {
+"format": "le pot de 270 g",
+"kilo": 19.62,
+"nom": "Crème de marrons avec morceaux de marrons",
+"par": "kg",
+"prix": 5.3,
+"rayon": "Épicerie › Épicerie sucrée",
+"url": "https://www.picard.fr/produits/creme-marron-270g-000000000000010221.html"
+},
+"000000000000010222": {
+"format": "la boîte de 345 g",
+"kilo": 43.44,
+"nom": "La grande surprise apéritive 37 pièces",
+"par": "kg",
+"prix": 14.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Pains surprises",
+"url": "https://www.picard.fr/produits/la-grande-surprise-aperitive-000000000000010222.html"
+},
+"000000000000010223": {
+"format": "la boîte de 85 g",
+"kilo": 82.23,
+"nom": "8 mini choux à la truite fumée ASC",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
+"url": "https://www.picard.fr/produits/8-mini-choux-truite-fumee-000000000000010223.html"
+},
 "000000000000010224": {
 "format": "la boîte de 170 g",
 "kilo": 44.05,
@@ -1335,12 +1441,100 @@
 "rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
 "url": "https://www.picard.fr/produits/2-chaudrons-magiques-000000000000010224.html"
 },
+"000000000000010226": {
+"format": "la pièce",
+"nom": "Sac Kraft Noël Harry Potter",
+"prix": 0.45,
+"rayon": "Épicerie › Accessoires",
+"url": "https://www.picard.fr/produits/sac-kraft-noel-harry-potter-000000000000010226.html"
+},
+"000000000000010227": {
+"format": "le boîte de 150 g",
+"kilo": 53.26,
+"nom": "8 mini burgers vegan",
+"par": "kg",
+"prix": 7.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
+"url": "https://www.picard.fr/produits/8-mini-burgers-vegan-000000000000010227.html"
+},
 "000000000000010232": {
 "format": "la pièce",
 "nom": "Mini glacière isotherme rayures roses et verte",
 "prix": 7.99,
 "rayon": "Épicerie › Accessoires › Sac isotherme et Glacière",
 "url": "https://www.picard.fr/produits/mini-glaciere-rayures-000000000000010232.html"
+},
+"000000000000010239": {
+"format": "la boîte de 450 g",
+"kilo": 16.66,
+"nom": "Tourte aux légumes et emmental, 4 parts",
+"par": "kg",
+"prix": 7.5,
+"rayon": "Apéritifs et entrées › Entrées › Entrées à partager",
+"url": "https://www.picard.fr/produits/tourte-legumes-000000000000010239.html"
+},
+"000000000000010240": {
+"format": "la boîte de 450 g",
+"kilo": 19.97,
+"nom": "Tourte au canard patate douce grillée, 4 parts",
+"par": "kg",
+"prix": 8.99,
+"rayon": "Apéritifs et entrées › Entrées › Entrées à partager",
+"url": "https://www.picard.fr/produits/tourte-canard-sarladaise-000000000000010240.html"
+},
+"000000000000010241": {
+"format": "la boîte de 220 g",
+"kilo": 36.31,
+"nom": "2 cassolettes noix St Jacques, crème langoustines",
+"par": "kg",
+"prix": 7.99,
+"rayon": "Apéritifs et entrées › Entrées › Cassolettes, coquilles et escargots",
+"url": "https://www.picard.fr/produits/2-cassolettes-noix-st-jacques-creme-langoustines-000000000000010241.html"
+},
+"000000000000010242": {
+"format": "la boîte de 500 g",
+"kilo": 15.0,
+"nom": "Panettone aux agrumes",
+"par": "kg",
+"prix": 7.5,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/panettone-agrume-000000000000010242.html"
+},
+"000000000000010243": {
+"format": "la boîte de 100 g",
+"kilo": 27.5,
+"nom": "Mini panettone au limoncello",
+"par": "kg",
+"prix": 2.75,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/mini-panettone-limoncello-000000000000010243.html"
+},
+"000000000000010245": {
+"format": "la boîte de 202 g",
+"kilo": 49.45,
+"nom": "12 boules festives apéritives",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
+"url": "https://www.picard.fr/produits/12-boules-festives-aperitives-000000000000010245.html"
+},
+"000000000000010246": {
+"format": "la boîte de 100 g",
+"kilo": 59.9,
+"nom": "20 gougères festives",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
+"url": "https://www.picard.fr/produits/20-gougeres-festives-000000000000010246.html"
+},
+"000000000000010247": {
+"format": "la boîte de 265 g",
+"kilo": 26.37,
+"nom": "Préfou brie, truffe blanche d'été 1% aromatisée",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
+"url": "https://www.picard.fr/produits/prefou-brie-000000000000010247.html"
 },
 "000000000000010248": {
 "format": "le sachet de 600 g",
@@ -1350,6 +1544,51 @@
 "prix": 2.65,
 "rayon": "Légumes et fruits › Légumes › Légumes BIO",
 "url": "https://www.picard.fr/produits/choux-fleurs-fleurettes-bio-000000000000010248.html"
+},
+"000000000000010249": {
+"format": "la boîte de 122 g",
+"kilo": 98.27,
+"nom": "12 mini cônes apéritifs",
+"par": "kg",
+"prix": 11.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
+"url": "https://www.picard.fr/produits/12-mini-cones-aperitifs-000000000000010249.html"
+},
+"000000000000010250": {
+"format": "la boîte de 360 g",
+"kilo": 16.63,
+"nom": "6 sapins de légumes verts",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Légumes et fruits › Légumes cuisinés",
+"url": "https://www.picard.fr/produits/6-sapins-legumes-verts-000000000000010250.html"
+},
+"000000000000010251": {
+"format": "la boîte de 340 g",
+"kilo": 16.17,
+"nom": "4 nids de polenta, butternut, champignons",
+"par": "kg",
+"prix": 5.5,
+"rayon": "Légumes et fruits › Légumes cuisinés › Gratins",
+"url": "https://www.picard.fr/produits/4-nids-polenta-butternut-000000000000010251.html"
+},
+"000000000000010252": {
+"format": "la boîte de 300 g",
+"kilo": 23.3,
+"nom": "2 vols-au-vent crevettes et colin d'Alaska",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Apéritifs et entrées › Entrées › Entrées chaudes",
+"url": "https://www.picard.fr/produits/2-vols-au-vent-crevettes-000000000000010252.html"
+},
+"000000000000010253": {
+"format": "la boîte de 350 g",
+"kilo": 19.97,
+"nom": "Filets de volaille tagliatelles au potiron",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Plats cuisinés › Formats › Plats individuels",
+"url": "https://www.picard.fr/produits/volaille-tagliatelle-000000000000010253.html"
 },
 "000000000000010260": {
 "format": "le pot de 400 g",
@@ -1378,6 +1617,33 @@
 "rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
 "url": "https://www.picard.fr/produits/glace-cinamon-roll-voya-000000000000010262.html"
 },
+"000000000000010268": {
+"format": "le sachet de 500 g",
+"kilo": 13.98,
+"nom": "Risotto à la truffe blanche d'été 1,4% aromatisé",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/risotto-truffe-000000000000010268.html"
+},
+"000000000000010270": {
+"format": "la boîte de 470 g",
+"kilo": 21.25,
+"nom": "Bûche glacée citron, fruits rouges, cassis",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-citron-fruits-rouges-cassis-000000000000010270.html"
+},
+"000000000000010271": {
+"format": "la boîte de 350 g",
+"kilo": 19.97,
+"nom": "Saumon mariné aux agrumes et au miel",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/saumon-agrume-miel-000000000000010271.html"
+},
 "000000000000010272": {
 "format": "le sachet de 600 g",
 "kilo": 4.83,
@@ -1387,6 +1653,33 @@
 "rayon": "Légumes et fruits › Légumes › Légumes BIO",
 "url": "https://www.picard.fr/produits/jardiniere-legumes-bio-000000000000010272.html"
 },
+"000000000000010273": {
+"format": "barquette de 300 g",
+"kilo": 9.96,
+"nom": "Conchiglie rigate",
+"par": "kg",
+"prix": 2.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/conchiglie-rigate-000000000000010273.html"
+},
+"000000000000010274": {
+"format": "la boîte de 563 g",
+"kilo": 21.29,
+"nom": "Bûche glacée vanille caramel, 10 à 12 parts",
+"par": "kg",
+"prix": 11.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-vanille-caramel-000000000000010274.html"
+},
+"000000000000010275": {
+"format": "la boîte de 480 g",
+"kilo": 22.89,
+"nom": "Bûche glacée façon moka, 8 parts",
+"par": "kg",
+"prix": 10.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-facon-moka-000000000000010275.html"
+},
 "000000000000010276": {
 "format": "la boîte de 120 g",
 "kilo": 41.58,
@@ -1394,7 +1687,160 @@
 "par": "kg",
 "prix": 4.99,
 "rayon": "Desserts › Desserts glacés › Desserts glacés à partager",
-"url": "https://www.picard.fr/produits/2-harry-potter-glace-000000000000010276.html"
+"url": "https://www.picard.fr/produits/2-harry-potter-glaces-000000000000010276.html"
+},
+"000000000000010277": {
+"format": "la boîte de 605 g",
+"kilo": 41.3,
+"nom": "Bûche glacée Poudlard™ Express, 8 parts",
+"par": "kg",
+"prix": 24.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-poudlard-express-000000000000010277.html"
+},
+"000000000000010278": {
+"format": "la boîte de 560 g",
+"kilo": 41.05,
+"nom": "Bûche glacée Manuel de potions, 6 à 8 parts",
+"par": "kg",
+"prix": 22.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-manuel-de-potions-000000000000010278.html"
+},
+"000000000000010279": {
+"format": "la boîte 580 g",
+"kilo": 34.46,
+"nom": "Bûche glacée cacahuète en fête, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-cacahuete-000000000000010279.html"
+},
+"000000000000010281": {
+"format": "la boîte de 580 g",
+"kilo": 34.46,
+"nom": "Bûche glacée cookie mania, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-cookie-mania-000000000000010281.html"
+},
+"000000000000010282": {
+"format": "la boîte de 550 g",
+"kilo": 36.34,
+"nom": "Bûche glacée en fleurs, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-en-fleurs-000000000000010282.html"
+},
+"000000000000010283": {
+"format": "la boîte de 570 g",
+"kilo": 35.07,
+"nom": "Bûche glacée choco-craquant, framboises, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-choco-craquant-framboises-000000000000010283.html"
+},
+"000000000000010284": {
+"format": "barquette de 300 g",
+"kilo": 15.0,
+"nom": "Raviolis courge butternut grillée et ricotta",
+"par": "kg",
+"prix": 4.5,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/raviolis-courge-ricotta-000000000000010284.html"
+},
+"000000000000010285": {
+"format": "la boîte de 590 g",
+"kilo": 33.88,
+"nom": "Bûche glacée vitrines de Noël, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-vitrines-noel-000000000000010285.html"
+},
+"000000000000010289": {
+"format": "le sachet de 700 g",
+"kilo": 19.85,
+"nom": "Risotto crémeux au poulet jaune snacké",
+"par": "kg",
+"prix": 13.9,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/risotto-poulet-asperges-700g-000000000000010289.html"
+},
+"000000000000010290": {
+"format": "la boîte de 350 g",
+"kilo": 19.97,
+"nom": "Saint Jacques, riz noir au citron",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/st-jacques-riz-ctron-000000000000010290.html"
+},
+"000000000000010291": {
+"format": "la boîte de 500 g",
+"kilo": 39.98,
+"nom": "Bûche pâtissière mousse chocolat-vanille, 8 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buche-patissiere-chocolat-vanille-000000000000010291.html"
+},
+"000000000000010292": {
+"format": "la boîte de 75 g",
+"kilo": 53.2,
+"nom": "1 bûchette Serpentard™, chocolat blanc, pistache",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buchette-serpentard-000000000000010292.html"
+},
+"000000000000010293": {
+"format": "la boîte de 75 g",
+"kilo": 53.2,
+"nom": "1 bûchette Gryffondor™, chocolat noisette, vanille",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buchette-gryffondor-000000000000010293.html"
+},
+"000000000000010294": {
+"format": "la boîte de 75 g",
+"kilo": 53.2,
+"nom": "1 bûchette Poufsouffle™, caramel-noix de pécan",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buchette-poufsouffle-000000000000010294.html"
+},
+"000000000000010295": {
+"format": "la boîte de 75 g",
+"kilo": 53.2,
+"nom": "1 bûchette Serdaigle™, myrtilles, vanille",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buchette-serdaigle-000000000000010295.html"
+},
+"000000000000010296": {
+"format": "la boîte de 570 g",
+"kilo": 35.07,
+"nom": "Dessert pâtissier Hedwige™ 6 parts",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/dessert-hedwige-000000000000010296.html"
+},
+"000000000000010297": {
+"format": "la boîte de 106 g",
+"kilo": 94.24,
+"nom": "8 vifs d'or™ caramel pécan",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Desserts › Pâtisseries › Macarons, mignardises",
+"url": "https://www.picard.fr/produits/8-vifs-d-or-caramel-pecan-000000000000010297.html"
 },
 "000000000000010298": {
 "format": "le sachet de 600 g",
@@ -1404,6 +1850,24 @@
 "prix": 2.9,
 "rayon": "Légumes et fruits › Légumes › Épinards, poireaux",
 "url": "https://www.picard.fr/produits/epinards-branches-bio-000000000000010298.html"
+},
+"000000000000010299": {
+"format": "la boîte de 90 g",
+"kilo": 111.0,
+"nom": "8 choixpeau chocolat-noisette",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Desserts › Pâtisseries › Macarons, mignardises",
+"url": "https://www.picard.fr/produits/8-choipeau-chocolat-noisette-000000000000010299.html"
+},
+"000000000000010304": {
+"format": "la boîte de 460 g",
+"kilo": 13.02,
+"nom": "Pizza couronne",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Pizzas et tartes › Pizzas › Pizzas végétariennes",
+"url": "https://www.picard.fr/produits/pizza-couronne-000000000000010304.html"
 },
 "000000000000010305": {
 "format": "le sachet de 600 g",
@@ -1422,6 +1886,15 @@
 "prix": 4.5,
 "rayon": "Pizzas et tartes › Pizzas › Pizzas traditionnelles",
 "url": "https://www.picard.fr/produits/pinsa-alle-verdure-000000000000010307.html"
+},
+"000000000000010309": {
+"format": "la boîte de 100 g",
+"kilo": 65.0,
+"nom": "Emincés de truite ASC fumée, à l'ail des ours",
+"par": "kg",
+"prix": 6.5,
+"rayon": "Viandes et poissons › Poissons › Saumon et truite",
+"url": "https://www.picard.fr/produits/emince-truite-fumee-asc-000000000000010309.html"
 },
 "000000000000010310": {
 "format": "le sachet de 180 g",
@@ -1468,6 +1941,15 @@
 "rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
 "url": "https://www.picard.fr/produits/tiramisu-pistache-500g-000000000000010324.html"
 },
+"000000000000010326": {
+"format": "le sachet de 100 g",
+"kilo": 39.9,
+"nom": "Bretzels au chocolat au lait",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Épicerie › Épicerie sucrée",
+"url": "https://www.picard.fr/produits/bretzels-choco-100g-000000000000010326.html"
+},
 "000000000000010339": {
 "format": "le sachet de 600 g",
 "kilo": 7.33,
@@ -1476,6 +1958,60 @@
 "prix": 4.4,
 "rayon": "Légumes et fruits › Légumes › Petits pois, carottes",
 "url": "https://www.picard.fr/produits/pois-gourmands-guatemala-000000000000010339.html"
+},
+"000000000000010347": {
+"format": "la boîte de 450 g",
+"kilo": 35.53,
+"nom": "Bûche pâtissière meringuée à la framboise, 8 parts",
+"par": "kg",
+"prix": 15.99,
+"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
+"url": "https://www.picard.fr/produits/buche-patissiere-meringuee-a-la-framboise-000000000000010347.html"
+},
+"000000000000010356": {
+"format": "bouteille de 75 cl",
+"kilo": 9.2,
+"nom": "IGP Côtes de Gascogne",
+"par": "l",
+"prix": 6.9,
+"rayon": "Épicerie › Vins, Champagnes › Vins",
+"url": "https://www.picard.fr/produits/igp-cotes-de-gascogne-000000000000010356.html"
+},
+"000000000000010358": {
+"format": "Poids max : 500 g",
+"kilo": 44.0,
+"nom": "4 dos de sandre avec peau Canada, (100 à 140g)",
+"par": "kg",
+"prix": 22.0,
+"rayon": "Viandes et poissons › Poissons › Autres poissons nature",
+"url": "https://www.picard.fr/produits/4-dos-de-sandre-avec-peau-000000000000010358.html"
+},
+"000000000000010359": {
+"format": "le sachet de 180 g",
+"kilo": 16.61,
+"nom": "4 petits pains, écorces orange confites",
+"par": "kg",
+"prix": 2.99,
+"rayon": "Pains et viennoiseries › Pains › Petits pains",
+"url": "https://www.picard.fr/produits/4-pains-fr-confits-180g-000000000000010359.html"
+},
+"000000000000010368": {
+"format": "bouteille 37,5 cl",
+"kilo": 39.86,
+"nom": "AOP Champagne brut, Malard, cuvée spéciale",
+"par": "l",
+"prix": 14.95,
+"rayon": "Épicerie › Vins, Champagnes › Champagnes",
+"url": "https://www.picard.fr/produits/aop-champagne-brut-000000000000010368.html"
+},
+"000000000000010369": {
+"format": "bouteille de 75 cl",
+"kilo": 19.98,
+"nom": "AOP Chablis, La Chablisienne",
+"par": "l",
+"prix": 14.99,
+"rayon": "Épicerie › Vins, Champagnes › Vins › Vins blanc",
+"url": "https://www.picard.fr/produits/aop-chablis-la-chablisienne-000000000000010369.html"
 },
 "000000000000010371": {
 "format": "le sachet de 450 g",
@@ -1486,6 +2022,24 @@
 "rayon": "Légumes et fruits › Féculents › Légumineuses",
 "url": "https://www.picard.fr/produits/450g-feves-pelees-000000000000010371.html"
 },
+"000000000000010372": {
+"format": "bouteille de 75 cl",
+"kilo": 23.98,
+"nom": "AOP Pouilly-Fumé Joseph Melot",
+"par": "l",
+"prix": 17.99,
+"rayon": "Épicerie › Vins, Champagnes › Vins › Vins blanc",
+"url": "https://www.picard.fr/produits/aop-pouilly-fume-000000000000010372.html"
+},
+"000000000000010373": {
+"format": "bouteille de 75 cl",
+"kilo": 17.2,
+"nom": "Le Grand Chavin - Rosé, Vin France désalcoolisé",
+"par": "l",
+"prix": 12.9,
+"rayon": "Épicerie › Épicerie sucrée › Boissons sans alcool",
+"url": "https://www.picard.fr/produits/le-grand-chavin-rose-vin-desalcoolise-000000000000010373.html"
+},
 "000000000000010374": {
 "format": "bouteille de 33 cl",
 "kilo": 9.06,
@@ -1494,6 +2048,24 @@
 "prix": 2.99,
 "rayon": "Épicerie › Vins, Champagnes › Cidres et bières",
 "url": "https://www.picard.fr/produits/biere-triple-volcelest-000000000000010374.html"
+},
+"000000000000010395": {
+"format": "la pièce de 400 g",
+"kilo": 32.47,
+"nom": "Galette des rois pistache chocolat, 4 à 6 parts",
+"par": "kg",
+"prix": 12.99,
+"rayon": "Noël magique › Desserts de Noël › Galettes",
+"url": "https://www.picard.fr/produits/galette-des-rois-frangipane-pistache-chocolat-000000000000010395.html"
+},
+"000000000000010397": {
+"format": "bouteille de 75 cl",
+"kilo": 19.86,
+"nom": "AOP Saint Emilion Jean Faure - Le Cèdre",
+"par": "l",
+"prix": 14.9,
+"rayon": "Épicerie › Vins, Champagnes › Vins › Vins rouge",
+"url": "https://www.picard.fr/produits/aop-saint-emilion-chateau-jean-faure-000000000000010397.html"
 },
 "000000000000010438": {
 "format": "le bol de 250 g",
@@ -1686,10 +2258,10 @@
 },
 "000000000000012600": {
 "format": "le sachet de 1 kg",
-"kilo": 2.99,
+"kilo": 3.19,
 "nom": "Pommes rissolées XL en cubes",
 "par": "kg",
-"prix": 2.99,
+"prix": 3.19,
 "rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
 "url": "https://www.picard.fr/produits/pommes-rissolees-xl-cubes-000000000000012600.html"
 },
@@ -1735,7 +2307,7 @@
 "nom": "Basilic coupé",
 "par": "kg",
 "prix": 2.0,
-"rayon": "Légumes et fruits › Légumes",
+"rayon": "Légumes et fruits › Légumes › Herbes aromatiques",
 "url": "https://www.picard.fr/produits/basilic-coupe-000000000000012733.html"
 },
 "000000000000012759": {
@@ -1836,6 +2408,15 @@
 "prix": 7.99,
 "rayon": "Légumes et fruits › Légumes › Champignons",
 "url": "https://www.picard.fr/produits/girolles-000000000000012949.html"
+},
+"000000000000013022": {
+"format": "le sachet de 450 g",
+"kilo": 13.31,
+"nom": "Airelles, Suède",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Légumes et fruits › Fruits › Fruits rouges",
+"url": "https://www.picard.fr/produits/airelles-suede-000000000000013022.html"
 },
 "000000000000013261": {
 "format": "le sachet de 750 g",
@@ -1962,15 +2543,6 @@
 "prix": 3.19,
 "rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
 "url": "https://www.picard.fr/produits/soupe-pistou-000000000000013873.html"
-},
-"000000000000013899": {
-"format": "le sachet de 1 kg",
-"kilo": 4.9,
-"nom": "Gaspacho (tomate, concombre, poivron, oignon)",
-"par": "kg",
-"prix": 4.9,
-"rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
-"url": "https://www.picard.fr/produits/gaspacho-tomate-concombre-poivron-oignon-000000000000013899.html"
 },
 "000000000000013956": {
 "format": "le sachet de 600 g",
@@ -2115,6 +2687,24 @@
 "prix": 15.99,
 "rayon": "Viandes et poissons › Viandes › Gibier",
 "url": "https://www.picard.fr/produits/4-paves-cerf-000000000000015235.html"
+},
+"000000000000015300": {
+"format": "la boîte de 500 g",
+"kilo": 13.98,
+"nom": "4 boudins blancs aux morilles (3%)",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Viandes et poissons › Viandes › Viandes BIO et labellisées",
+"url": "https://www.picard.fr/produits/4-boudins-blancs-morilles-3-000000000000015300.html"
+},
+"000000000000015540": {
+"format": "la boîte de 500 g",
+"kilo": 31.98,
+"nom": "4 pavés de filet d'autruche, marinés, cuits",
+"par": "kg",
+"prix": 15.99,
+"rayon": "Viandes et poissons › Viandes",
+"url": "https://www.picard.fr/produits/4-paves-filet-autruche-marines-cuits-000000000000015540.html"
 },
 "000000000000015681": {
 "format": "la boîte de 240 g",
@@ -2357,7 +2947,7 @@
 "par": "kg",
 "prix": 4.99,
 "rayon": "Plats cuisinés › Types de plats cuisinés › Couscous, pâtes, risottos",
-"url": "https://www.picard.fr/produits/tajine-poulet-citron-000000000000018490.html"
+"url": "https://www.picard.fr/produits/tajine-poulet-semoule-olive-citron-confit-000000000000018490.html"
 },
 "000000000000018513": {
 "format": "le sachet de 400 g",
@@ -2433,10 +3023,10 @@
 },
 "000000000000019190": {
 "format": "le sachet de 600 g",
-"kilo": 21.65,
+"kilo": 23.31,
 "nom": "Filets de maquereau",
 "par": "kg",
-"prix": 12.99,
+"prix": 13.99,
 "rayon": "Viandes et poissons › Poissons › Thon et maquereau",
 "url": "https://www.picard.fr/produits/filets-maquereau-avec-peau-000000000000019190.html"
 },
@@ -2629,6 +3219,15 @@
 "rayon": "Viandes et poissons › Volailles › Canard",
 "url": "https://www.picard.fr/produits/2-cuisses-canard-sud-ouest-confites-000000000000020379.html"
 },
+"000000000000020387": {
+"format": "la boîte de 320 g",
+"kilo": 30.62,
+"nom": "Aiguillettes de canard du Sud-Ouest",
+"par": "kg",
+"prix": 9.8,
+"rayon": "Viandes et poissons › Volailles › Canard",
+"url": "https://www.picard.fr/produits/aiguillettes-canard-sud-ouest-000000000000020387.html"
+},
 "000000000000020519": {
 "format": "la boîte de 320 g",
 "kilo": 30.9,
@@ -2638,12 +3237,21 @@
 "rayon": "Viandes et poissons › Volailles › Canard",
 "url": "https://www.picard.fr/produits/aiguillettes-canard-marinees-forestiere-000000000000020519.html"
 },
+"000000000000020808": {
+"format": "la boîte de 270 g",
+"kilo": 66.62,
+"nom": "Magret canard, escalopes foie gras canard S-O",
+"par": "kg",
+"prix": 17.99,
+"rayon": "Viandes et poissons › Volailles › Canard",
+"url": "https://www.picard.fr/produits/magret-canard-escalopes-foie-gras-canard-ouest-000000000000020808.html"
+},
 "000000000000020858": {
 "format": "la boîte de 1 kg",
-"kilo": 27.7,
+"kilo": 26.39,
 "nom": "Rôti de pintade farci, farce aux cèpes et aux raisins",
 "par": "kg",
-"prix": 27.7,
+"prix": 26.39,
 "rayon": "Viandes et poissons › Volailles › Pintade",
 "url": "https://www.picard.fr/produits/roti-pintade-farci-farce-cepes-raisins-000000000000020858.html"
 },
@@ -2663,7 +3271,7 @@
 "par": "kg",
 "prix": 6.69,
 "rayon": "Viandes et poissons › Viandes › Viandes cuisinées",
-"url": "https://www.picard.fr/produits/2-paupiettes-forestiere-000000000000020882.html"
+"url": "https://www.picard.fr/produits/2-ballotins-dinde-farcis-a-la-forestiere-000000000000020882.html"
 },
 "000000000000020973": {
 "format": "le sachet de 400 g",
@@ -2673,15 +3281,6 @@
 "prix": 7.59,
 "rayon": "Viandes et poissons › Volailles › Volailles cuisinées",
 "url": "https://www.picard.fr/produits/manchons-poulet-caramelises-000000000000020973.html"
-},
-"000000000000021427": {
-"format": "la boîte de 170 g",
-"kilo": 26.47,
-"nom": "8 hacao, bouchées aux crevettes avec sauce soja",
-"par": "kg",
-"prix": 4.5,
-"rayon": "Cuisine du monde › Types de plat › Bouchées, Brochettes",
-"url": "https://www.picard.fr/produits/8-hacao-bouchees-crevettes-avec-sauce-soja-000000000000021427.html"
 },
 "000000000000021865": {
 "format": "la boîte de 350 g",
@@ -3155,7 +3754,7 @@
 "000000000000039310": {
 "format": "la boîte de 110 g",
 "kilo": 41.72,
-"nom": "6 beignets de crevette",
+"nom": "6 beignets de crevette avec sauce",
 "par": "kg",
 "prix": 4.59,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs exotiques, tapas",
@@ -3223,15 +3822,6 @@
 "prix": 6.6,
 "rayon": "Cuisine du monde › Types de plat › Bouchées, Brochettes",
 "url": "https://www.picard.fr/produits/10-yakitori-brochettes-poulet-marine-epice-000000000000039972.html"
-},
-"000000000000040044": {
-"format": "la boîte de 250 g",
-"kilo": 22.8,
-"nom": "Mini boudins blancs aux morilles, 16 à 20 pièces",
-"par": "kg",
-"prix": 5.7,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/mini-boudins-blancs-morilles-000000000000040044.html"
 },
 "000000000000040101": {
 "format": "le sachet de 500 g",
@@ -3376,6 +3966,15 @@
 "prix": 3.5,
 "rayon": "Pains et viennoiseries › Viennoiseries › Crêpes, pancakes, gaufres",
 "url": "https://www.picard.fr/produits/6-gaufres-000000000000043455.html"
+},
+"000000000000043504": {
+"format": "le sachet de 450 g",
+"kilo": 5.97,
+"nom": "Pain complet tranché",
+"par": "kg",
+"prix": 2.69,
+"rayon": "DERNIÈRE CHANCE",
+"url": "https://www.picard.fr/produits/pain-complet-tranche-000000000000043504.html"
 },
 "000000000000043603": {
 "format": "le sachet de 250 g",
@@ -3545,7 +4144,7 @@
 "nom": "St-Jacques Argopecten a/corail Pérou ASC bio",
 "par": "kg",
 "prix": 17.99,
-"rayon": "Viandes et poissons › Fruits de mer › Fruits de mer BIO et labellisés",
+"rayon": "Viandes et poissons › Fruits de mer › Saint-Jacques",
 "url": "https://www.picard.fr/produits/st-jacques-argopecten-corail-asc-bio-000000000000048025.html"
 },
 "000000000000048027": {
@@ -3584,6 +4183,15 @@
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/queue-crevette-crue-asc-carapace-coupee-bio-hnd-000000000000048322.html"
 },
+"000000000000048323": {
+"format": "la boîte de 30 g",
+"kilo": 166.33,
+"nom": "Caviar d'Aquitaine, Direct producteur",
+"par": "kg",
+"prix": 34.99,
+"rayon": "Viandes et poissons › Poissons",
+"url": "https://www.picard.fr/produits/caviar-francais-direct-producteur-000000000000048323.html"
+},
 "000000000000048351": {
 "format": "le sachet de 500 g",
 "kilo": 19.5,
@@ -3620,6 +4228,15 @@
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/queues-crevettes-cuites-decortiquees-cocktail-bio-000000000000048608.html"
 },
+"000000000000048640": {
+"format": "le sachet de 600 g",
+"kilo": 33.31,
+"nom": "Pinces de tourteau cuites, pré-sciées (7 à 12 p.)",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
+"url": "https://www.picard.fr/produits/pinces-tourteaux-cuites-pre-sciees-000000000000048640.html"
+},
 "000000000000048674": {
 "format": "la boîte de 100 g",
 "kilo": 67.0,
@@ -3647,6 +4264,15 @@
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/crevettes-crues-12-16-sauvages-000000000000048765.html"
 },
+"000000000000048848": {
+"format": "la boîte de 400 g",
+"kilo": 24.97,
+"nom": "Crevette tropicale crue 'Gambas' 16-24 p. sauvage",
+"par": "kg",
+"prix": 9.99,
+"rayon": "",
+"url": "https://www.picard.fr/produits/crevettes-crues-16-24-sauvages-000000000000048848.html"
+},
 "000000000000048856": {
 "format": "la boîte de 400 g",
 "kilo": 44.0,
@@ -3667,19 +4293,19 @@
 },
 "000000000000048880": {
 "format": "Poids max : 800 g",
-"kilo": 85.9,
+"kilo": 64.99,
 "nom": "2 queues de langouste blanche, Caraïbes, crues",
 "par": "kg",
-"prix": 68.72,
+"prix": 51.99,
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/2-queues-langouste-blanche-caraibes-crues-000000000000048880.html"
 },
 "000000000000048898": {
 "format": "Poids max : 860 g",
-"kilo": 85.9,
+"kilo": 64.99,
 "nom": "Queues langouste blanche, Caraïbes, crues, 3 à 4 p",
 "par": "kg",
-"prix": 73.87,
+"prix": 55.89,
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/queues-langouste-blanche-caraibes-crues-3-4-p-000000000000048898.html"
 },
@@ -3743,7 +4369,7 @@
 "nom": "Fagottini à la ricotta et aux épinards",
 "par": "kg",
 "prix": 2.99,
-"rayon": "Cuisine du monde › Pays › Plats italiens",
+"rayon": "Plats cuisinés › Formats › Plats individuels",
 "url": "https://www.picard.fr/produits/fagottini-ricotta-epinards-000000000000049417.html"
 },
 "000000000000050013": {
@@ -3809,6 +4435,15 @@
 "rayon": "Légumes et fruits › Légumes › Herbes aromatiques",
 "url": "https://www.picard.fr/produits/persil-plat-coupe-bio-000000000000050031.html"
 },
+"000000000000050032": {
+"format": "le sachet de 450 g",
+"kilo": 13.31,
+"nom": "Pommes Duchesse à la truffe blanche d'été 1%",
+"par": "kg",
+"prix": 5.99,
+"rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
+"url": "https://www.picard.fr/produits/pommes-duchesse-truffe-blanche-ete-1-000000000000050032.html"
+},
 "000000000000050035": {
 "format": "le sachet de 500 g",
 "kilo": 7.18,
@@ -3865,10 +4500,10 @@
 },
 "000000000000050047": {
 "format": "le sachet de 600 g",
-"kilo": 5.83,
+"kilo": 5.98,
 "nom": "Pommes rissolées en cubes bio",
 "par": "kg",
-"prix": 3.5,
+"prix": 3.59,
 "rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
 "url": "https://www.picard.fr/produits/600g-pommes-cubes-bio-000000000000050047.html"
 },
@@ -3946,10 +4581,10 @@
 },
 "000000000000050430": {
 "format": "le sachet de 600 g",
-"kilo": 5.5,
+"kilo": 5.65,
 "nom": "Frites bio",
 "par": "kg",
-"prix": 3.3,
+"prix": 3.39,
 "rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
 "url": "https://www.picard.fr/produits/frites-bio-000000000000050430.html"
 },
@@ -4015,6 +4650,15 @@
 "prix": 2.6,
 "rayon": "Légumes et fruits › Légumes cuisinés › Purées",
 "url": "https://www.picard.fr/produits/puree-carotte-potiron-patate-douce-000000000000050787.html"
+},
+"000000000000050795": {
+"format": "la boîte de 450 g",
+"kilo": 12.22,
+"nom": "Ecrasé de pomme de terre vitelotte",
+"par": "kg",
+"prix": 5.5,
+"rayon": "Légumes et fruits › Légumes cuisinés › Purées",
+"url": "https://www.picard.fr/produits/ecrasee-pomme-terre-vitelotte-000000000000050795.html"
 },
 "000000000000050852": {
 "format": "le sachet de 500 g",
@@ -4379,7 +5023,7 @@
 "000000000000059887": {
 "format": "le sachet de 450 g",
 "kilo": 8.86,
-"nom": "Penne aux champignons à la crème",
+"nom": "Penne aux champignons à la crème (3 sachets 150 g)",
 "par": "kg",
 "prix": 3.99,
 "rayon": "Légumes et fruits › Féculents › Riz, pâtes",
@@ -4546,6 +5190,15 @@
 "prix": 14.69,
 "rayon": "Viandes et poissons › Viandes › Boeuf",
 "url": "https://www.picard.fr/produits/4-effeuilles-charolais-000000000000060389.html"
+},
+"000000000000060470": {
+"format": "la boîte de 250 g",
+"kilo": 69.96,
+"nom": "Ris de veau, dégraissé, dénervé et piécé",
+"par": "kg",
+"prix": 17.49,
+"rayon": "Viandes et poissons › Viandes › Veau",
+"url": "https://www.picard.fr/produits/ris-veau-degraisse-denerve-piece-000000000000060470.html"
 },
 "000000000000060489": {
 "format": "la boîte de 420 g",
@@ -4735,15 +5388,6 @@
 "prix": 2.99,
 "rayon": "Plats cuisinés › Gammes › Formule Express",
 "url": "https://www.picard.fr/produits/colin-alaska-bordelaise-riz-legumes-000000000000063691.html"
-},
-"000000000000064210": {
-"format": "la boîte de 245 g",
-"kilo": 15.46,
-"nom": "Mini-cake jambon olives (à trancher)",
-"par": "kg",
-"prix": 3.79,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/mini-cake-jambon-olives-000000000000064210.html"
 },
 "000000000000064236": {
 "format": "la boîte de 245 g",
@@ -5024,6 +5668,15 @@
 "rayon": "Légumes et fruits › Fruits › Fruits BIO",
 "url": "https://www.picard.fr/produits/rhubarbe-rouge-morceaux-bio-000000000000068033.html"
 },
+"000000000000068039": {
+"format": "le sachet de 450 g",
+"kilo": 10.0,
+"nom": "Litchis entiers dénoyautés, Vietnam",
+"par": "kg",
+"prix": 4.5,
+"rayon": "Légumes et fruits › Fruits › Fruits exotiques",
+"url": "https://www.picard.fr/produits/litchis-entiers-denoyautes-000000000000068039.html"
+},
 "000000000000068041": {
 "format": "le sachet de 600 g",
 "kilo": 12.48,
@@ -5050,15 +5703,6 @@
 "prix": 2.5,
 "rayon": "Légumes et fruits › Légumes cuisinés › Purées",
 "url": "https://www.picard.fr/produits/puree-haricot-vert-carotte-jaune-petit-pois-000000000000068048.html"
-},
-"000000000000068051": {
-"format": "la boîte de 450 g",
-"kilo": 5.55,
-"nom": "Purée de potimarron bio",
-"par": "kg",
-"prix": 2.5,
-"rayon": "Légumes et fruits › Légumes cuisinés › Purées",
-"url": "https://www.picard.fr/produits/puree-potimarron-bio-000000000000068051.html"
 },
 "000000000000068052": {
 "format": "le sachet de 600 g",
@@ -5140,6 +5784,15 @@
 "prix": 10.99,
 "rayon": "Légumes et fruits › Fruits › Fruits rouges",
 "url": "https://www.picard.fr/produits/framboises-entieres-000000000000068080.html"
+},
+"000000000000068089": {
+"format": "le bol de 150 g",
+"kilo": 15.33,
+"nom": "Açaï bowl à la purée de banane et d'açaï",
+"par": "kg",
+"prix": 2.3,
+"rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
+"url": "https://www.picard.fr/produits/acai-bowl-a-la-puree-de-banane-et-d-acai-000000000000068089.html"
 },
 "000000000000068090": {
 "format": "le sachet de 750 g",
@@ -5346,7 +5999,7 @@
 "par": "kg",
 "prix": 4.79,
 "rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
-"url": "https://www.picard.fr/produits/potage-garden-peas-haricot-vert-poireau-oignon-bio-000000000000068712.html"
+"url": "https://www.picard.fr/produits/potage-garden-peas-bio-1k-000000000000068712.html"
 },
 "000000000000068725": {
 "format": "le sachet de 1 kg",
@@ -5365,6 +6018,15 @@
 "prix": 4.79,
 "rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
 "url": "https://www.picard.fr/produits/1kg-bouillon-asiatique-000000000000068726.html"
+},
+"000000000000068762": {
+"format": "le sachet de 200 g",
+"kilo": 18.0,
+"nom": "Graines de grenade, Italie",
+"par": "kg",
+"prix": 3.6,
+"rayon": "Légumes et fruits › Fruits › Autres fruits",
+"url": "https://www.picard.fr/produits/graines-de-grenade-000000000000068762.html"
 },
 "000000000000068795": {
 "format": "le sachet de 600 g",
@@ -5593,10 +6255,10 @@
 },
 "000000000000069976": {
 "format": "le sachet de 200 g",
-"kilo": 21.75,
+"kilo": 23.25,
 "nom": "Sauce aux Saint-Jacques et au Champagne",
 "par": "kg",
-"prix": 4.35,
+"prix": 4.65,
 "rayon": "Viandes et poissons › Fruits de mer › Sauces et condiments",
 "url": "https://www.picard.fr/produits/sauce-saint-jacques-champagne-000000000000069976.html"
 },
@@ -5816,15 +6478,6 @@
 "rayon": "Cuisine du monde › Pays › Plats thaïlandais",
 "url": "https://www.picard.fr/produits/6-perles-coco-000000000000072715.html"
 },
-"000000000000072731": {
-"format": "la boîte de 200 g",
-"kilo": 21.45,
-"nom": "16 mini-nems : poulet-menthe, légumes-coriandre",
-"par": "kg",
-"prix": 4.29,
-"rayon": "Cuisine du monde › Pays › Plats vietnamiens",
-"url": "https://www.picard.fr/produits/16-mini-nems-poulet-menthe-legumes-coriandre-000000000000072731.html"
-},
 "000000000000072757": {
 "format": "la boîte de 220 g",
 "kilo": 20.45,
@@ -5905,15 +6558,6 @@
 "prix": 2.8,
 "rayon": "Glaces et sorbets › Types, Formats › Glaces pour enfants",
 "url": "https://www.picard.fr/produits/6-batonnets-fruits-000000000000073063.html"
-},
-"000000000000073080": {
-"format": "la boîte de 234 g",
-"kilo": 17.94,
-"nom": "6 Bounty",
-"par": "kg",
-"prix": 4.2,
-"rayon": "Glaces et sorbets › Types, Formats › Bâtonnets de glace, barres glacées",
-"url": "https://www.picard.fr/produits/6-bounty-000000000000073080.html"
 },
 "000000000000073090": {
 "format": "le bac de 380 g",
@@ -6077,6 +6721,15 @@
 "rayon": "Viandes et poissons › Poissons › Cabillaud",
 "url": "https://www.picard.fr/produits/dos-cabillaud-msc-3-000000000000074086.html"
 },
+"000000000000074100": {
+"format": "la boîte de 140 g",
+"kilo": 214.21,
+"nom": "Homard cru décortiqué, Europe",
+"par": "kg",
+"prix": 29.99,
+"rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
+"url": "https://www.picard.fr/produits/homard-cru-decortique-europe-000000000000074100.html"
+},
 "000000000000074103": {
 "format": "le sachet de 800 g",
 "kilo": 15.61,
@@ -6085,6 +6738,15 @@
 "prix": 12.49,
 "rayon": "Viandes et poissons › Poissons › Colin lieu, Colin d'Alaska",
 "url": "https://www.picard.fr/produits/filets-colin-alaska-msc-000000000000074103.html"
+},
+"000000000000074104": {
+"format": "le sachet de 310 g",
+"kilo": 90.29,
+"nom": "2 queues de langouste blanche, Caraïbes, crues MSC",
+"par": "kg",
+"prix": 27.99,
+"rayon": "Viandes et poissons › Fruits de mer",
+"url": "https://www.picard.fr/produits/2-queues-de-langouste-blanche-caraibes-crues-msc-000000000000074104.html"
 },
 "000000000000074121": {
 "format": "le sachet de 400 g",
@@ -6142,10 +6804,10 @@
 },
 "000000000000074219": {
 "format": "la boîte de 400 g",
-"kilo": 20.97,
+"kilo": 22.47,
 "nom": "Aiguillettes de merlu blanc du Cap panure",
 "par": "kg",
-"prix": 8.39,
+"prix": 8.99,
 "rayon": "Viandes et poissons › Poissons › Poissons panés, meunières",
 "url": "https://www.picard.fr/produits/aiguillettes-merlu-blanc-cap-panure-000000000000074219.html"
 },
@@ -6169,19 +6831,19 @@
 },
 "000000000000074226": {
 "format": "le sachet de 400 g",
-"kilo": 74.25,
+"kilo": 69.97,
 "nom": "Noix de St-Jacques MSC de la Baie de St-Brieuc",
 "par": "kg",
-"prix": 29.7,
+"prix": 27.99,
 "rayon": "Viandes et poissons › Fruits de mer › Saint-Jacques",
-"url": "https://www.picard.fr/produits/nx-st-jacq-st-brieuc-msc-000000000000074226.html"
+"url": "https://www.picard.fr/produits/noix-st-jacques-st-brieuc-msc-000000000000074226.html"
 },
 "000000000000074242": {
 "format": "la boîte de 400 g",
-"kilo": 23.22,
+"kilo": 24.22,
 "nom": "8 aiguillettes cabillaud MSC panure multi-grains",
 "par": "kg",
-"prix": 9.29,
+"prix": 9.69,
 "rayon": "Viandes et poissons › Poissons › Poissons panés, meunières",
 "url": "https://www.picard.fr/produits/8-aiguillettes-cabillaud-msc-panure-multi-grains-000000000000074242.html"
 },
@@ -6221,6 +6883,24 @@
 "rayon": "Viandes et poissons › Poissons › Poissons marinés, fumés, cuisinés",
 "url": "https://www.picard.fr/produits/4-tr-truite-fumee-france-000000000000074322.html"
 },
+"000000000000074323": {
+"format": "la boîte de 180 g",
+"kilo": 69.44,
+"nom": "Carpaccio de saumon mariné au citron vert, basilic",
+"par": "kg",
+"prix": 12.5,
+"rayon": "Viandes et poissons › Poissons › Saumon et truite",
+"url": "https://www.picard.fr/produits/carpaccio-de-saumon-marine-au-citron-vert-et-au-basilic-000000000000074323.html"
+},
+"000000000000074330": {
+"format": "la boîte de 200 g",
+"kilo": 90.85,
+"nom": "2 queues homard canadien crues MSC",
+"par": "kg",
+"prix": 18.17,
+"rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
+"url": "https://www.picard.fr/produits/2-queues-homard-msc-canadien-000000000000074330.html"
+},
 "000000000000074359": {
 "format": "la boîte de 400 g",
 "kilo": 21.22,
@@ -6247,6 +6927,15 @@
 "prix": 10.89,
 "rayon": "Viandes et poissons › Fruits de mer › Crevettes, langoustes, autres crustacés",
 "url": "https://www.picard.fr/produits/queue-gambas-crues-decortiquees-asc-000000000000074410.html"
+},
+"000000000000074420": {
+"format": "la boîte de 370 g",
+"kilo": 13.48,
+"nom": "12 bâtonnets de colin d'Alaska chips MSC",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Viandes et poissons › Poissons › Poissons panés, meunières",
+"url": "https://www.picard.fr/produits/12-bat-colin-chips-msc-000000000000074420.html"
 },
 "000000000000074482": {
 "format": "la boîte de 250 g",
@@ -6385,10 +7074,10 @@
 },
 "000000000000074771": {
 "format": "la boîte de 190 g",
-"kilo": 33.63,
+"kilo": 35.73,
 "nom": "2 filets de cabillaud meunière MSC, sans arête",
 "par": "kg",
-"prix": 6.39,
+"prix": 6.79,
 "rayon": "Viandes et poissons › Poissons › Poissons BIO et labellisés",
 "url": "https://www.picard.fr/produits/2-filets-cabillaud-meuniere-msc-sans-arete-000000000000074771.html"
 },
@@ -6590,6 +7279,15 @@
 "rayon": "Légumes et fruits › Légumes cuisinés › Poêlées de légumes",
 "url": "https://www.picard.fr/produits/poelee-legumes-grilles-courgette-aubergine-000000000000075770.html"
 },
+"000000000000075960": {
+"format": "le sachet de 450 g",
+"kilo": 14.66,
+"nom": "Poêlée marron, pomme, figue",
+"par": "kg",
+"prix": 6.6,
+"rayon": "Légumes et fruits › Légumes cuisinés › Poêlées de légumes",
+"url": "https://www.picard.fr/produits/poelee-marron-pomme-figue-000000000000075960.html"
+},
 "000000000000076076": {
 "format": "le pot de 110 g",
 "kilo": 22.72,
@@ -6601,10 +7299,10 @@
 },
 "000000000000079272": {
 "format": "la boîte de 400 g",
-"kilo": 21.22,
+"kilo": 21.72,
 "nom": "Merlu blanc du Cap façon fish and chips MSC",
 "par": "kg",
-"prix": 8.49,
+"prix": 8.69,
 "rayon": "Viandes et poissons › Poissons › Poissons panés, meunières",
 "url": "https://www.picard.fr/produits/merlu-bl-fish-chips-msc-000000000000079272.html"
 },
@@ -6824,6 +7522,15 @@
 "rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
 "url": "https://www.picard.fr/produits/cheesecake-citron-000000000000082029.html"
 },
+"000000000000082038": {
+"format": "la pièce de 800 g",
+"kilo": 12.48,
+"nom": "Galette des rois frangipane",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Desserts › Pâtisseries › Galettes",
+"url": "https://www.picard.fr/produits/galette-rois-frangipane-8-parts-000000000000082038.html"
+},
 "000000000000082054": {
 "format": "la boîte de 310 g",
 "kilo": 24.19,
@@ -6913,6 +7620,15 @@
 "prix": 1.99,
 "rayon": "Pains et viennoiseries › Pains › Petits pains",
 "url": "https://www.picard.fr/produits/6-petits-pains-multigraines-000000000000082152.html"
+},
+"000000000000082161": {
+"format": "le sachet de 450 g",
+"kilo": 5.97,
+"nom": "Pain tranché céréales bio",
+"par": "kg",
+"prix": 2.69,
+"rayon": "Pains et viennoiseries › Pains › Pains BIO",
+"url": "https://www.picard.fr/produits/pain-tranche-cereales-bio-000000000000082161.html"
 },
 "000000000000082165": {
 "format": "la boîte de 80 g",
@@ -7015,10 +7731,10 @@
 },
 "000000000000082217": {
 "format": "la boîte de 750 g",
-"kilo": 22.93,
+"kilo": 21.32,
 "nom": "Rainbow cake, gâteau arc-en-ciel, 6 parts",
 "par": "kg",
-"prix": 17.2,
+"prix": 15.99,
 "rayon": "Desserts › Pâtisseries › Desserts pâtissiers",
 "url": "https://www.picard.fr/produits/rainbow-cake-gateau-arc-ciel-6-parts-000000000000082217.html"
 },
@@ -7067,15 +7783,6 @@
 "rayon": "Glaces et sorbets › Marques › Le marchand de glaces",
 "url": "https://www.picard.fr/produits/2-mini-pots-cafe-170g-000000000000082245.html"
 },
-"000000000000082250": {
-"format": "la boîte de 310 g",
-"kilo": 33.87,
-"nom": "9 mini-coupes pâtissières",
-"par": "kg",
-"prix": 10.5,
-"rayon": "Desserts › Pâtisseries › Macarons, mignardises",
-"url": "https://www.picard.fr/produits/9-mini-coupes-patissieres-000000000000082250.html"
-},
 "000000000000082255": {
 "format": "la boîte de 240 g",
 "kilo": 12.45,
@@ -7112,6 +7819,15 @@
 "rayon": "Cuisine du monde › Types de plat › Desserts du monde",
 "url": "https://www.picard.fr/produits/mini-churros-fourre-cacao-000000000000082262.html"
 },
+"000000000000082271": {
+"format": "la pièce de 400 g",
+"kilo": 24.97,
+"nom": "Galette des rois chocolat et noisette, 4 à 6 parts",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Desserts › Pâtisseries › Galettes",
+"url": "https://www.picard.fr/produits/galette-des-rois-chocolat-noisette-000000000000082271.html"
+},
 "000000000000082272": {
 "format": "la boîte de 168 g",
 "kilo": 47.02,
@@ -7139,6 +7855,15 @@
 "rayon": "Pains et viennoiseries › Pains › Baguette",
 "url": "https://www.picard.fr/produits/2-petites-baguettes-280g-000000000000082299.html"
 },
+"000000000000082300": {
+"format": "le sachet de 170 g",
+"kilo": 15.0,
+"nom": "20 mini blinis, cuits",
+"par": "kg",
+"prix": 2.55,
+"rayon": "Pains et viennoiseries › Pains › Petits pains",
+"url": "https://www.picard.fr/produits/20-mini-blinis-170g-000000000000082300.html"
+},
 "000000000000082301": {
 "format": "le sachet de 260 g",
 "kilo": 6.92,
@@ -7147,15 +7872,6 @@
 "prix": 1.8,
 "rayon": "Pains et viennoiseries › Pains › Pains BIO",
 "url": "https://www.picard.fr/produits/2-p.baguettes-cereale-bio-000000000000082301.html"
-},
-"000000000000082312": {
-"format": "la boîte de 144 g",
-"kilo": 40.27,
-"nom": "12 macarons pâtissiers opéra noisette citron pomme",
-"par": "kg",
-"prix": 5.8,
-"rayon": "Desserts › Pâtisseries › Macarons, mignardises",
-"url": "https://www.picard.fr/produits/12-macarons-recette-patis-000000000000082312.html"
 },
 "000000000000082319": {
 "format": "la boîte de 240 g",
@@ -7201,15 +7917,6 @@
 "prix": 2.6,
 "rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
 "url": "https://www.picard.fr/produits/1-fondant-chocolat-praline-000000000000082387.html"
-},
-"000000000000082390": {
-"format": "la boîte de 450 g",
-"kilo": 17.75,
-"nom": "Fondant choco noisette vegan, 6 parts",
-"par": "kg",
-"prix": 7.99,
-"rayon": "Desserts › Pâtisseries › Cakes, moelleux",
-"url": "https://www.picard.fr/produits/fondant-au-chocolat-et-aux-noisettes-vegan-000000000000082390.html"
 },
 "000000000000082392": {
 "format": "la boîte de 130 g",
@@ -7272,7 +7979,7 @@
 "par": "kg",
 "prix": 4.9,
 "rayon": "Pains et viennoiseries › Viennoiseries",
-"url": "https://www.picard.fr/produits/4-scones-240g-000000000000082406.html"
+"url": "https://www.picard.fr/produits/4-scones-000000000000082406.html"
 },
 "000000000000082407": {
 "format": "la boîte de 110 g",
@@ -7375,10 +8082,10 @@
 },
 "000000000000082437": {
 "format": "la boîte de 75 g",
-"kilo": 53.2,
-"nom": "Bûchette au chocolat et à la noisette, 1 part",
+"kilo": 46.66,
+"nom": "1 bûchette au chocolat et à la noisette",
 "par": "kg",
-"prix": 3.99,
+"prix": 3.5,
 "rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
 "url": "https://www.picard.fr/produits/buchette-au-chocolat-et-a-la-noisette-000000000000082437.html"
 },
@@ -7408,6 +8115,15 @@
 "prix": 2.99,
 "rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
 "url": "https://www.picard.fr/produits/cookie-vibes-chocolat-blanc-framboise-matcha-000000000000082452.html"
+},
+"000000000000082455": {
+"format": "la boîte de 60 g",
+"kilo": 49.83,
+"nom": "Maritozzo, brioche à la crème fouettée",
+"par": "kg",
+"prix": 2.99,
+"rayon": "Desserts › Pâtisseries › Spécialités régionales",
+"url": "https://www.picard.fr/produits/maritozzo-brioche-creme-fouettee-000000000000082455.html"
 },
 "000000000000082460": {
 "format": "la boîte de 300 g",
@@ -7627,10 +8343,10 @@
 },
 "000000000000082638": {
 "format": "la boîte de 140 g",
-"kilo": 71.35,
+"kilo": 49.92,
 "nom": "10 pions gourmands framb vanille / mangue-passion",
 "par": "kg",
-"prix": 9.99,
+"prix": 6.99,
 "rayon": "Desserts › Pâtisseries › Macarons, mignardises",
 "url": "https://www.picard.fr/produits/10-pions-gourmand-mignardises-000000000000082638.html"
 },
@@ -7655,7 +8371,7 @@
 "000000000000082650": {
 "format": "la pièce de 540 g",
 "kilo": 25.9,
-"nom": "Galette cookies, 6 parts",
+"nom": "Galette cookies, 6 parts, à cuire",
 "par": "kg",
 "prix": 13.99,
 "rayon": "Desserts › Pâtisseries › Galettes",
@@ -7696,15 +8412,6 @@
 "prix": 4.25,
 "rayon": "Pains et viennoiseries › Viennoiseries › Brioches",
 "url": "https://www.picard.fr/produits/6-brioches-pepites-choco-000000000000082751.html"
-},
-"000000000000082753": {
-"format": "le sachet de 130 g",
-"kilo": 38.38,
-"nom": "6 mini-donuts",
-"par": "kg",
-"prix": 4.99,
-"rayon": "Pains et viennoiseries › Viennoiseries › Crêpes, pancakes, gaufres",
-"url": "https://www.picard.fr/produits/6-minis-donuts-halloween-000000000000082753.html"
 },
 "000000000000082756": {
 "format": "le sachet de 160 g",
@@ -7815,13 +8522,22 @@
 "url": "https://www.picard.fr/produits/2-millefeuilles-saumon-fume-000000000000083085.html"
 },
 "000000000000083291": {
-"format": "la boîte de 180 g",
+"format": "le sachet de 180 g",
 "kilo": 48.88,
 "nom": "12 coquilles Saint-Jacques apéritives",
 "par": "kg",
 "prix": 8.8,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/12-coquilles-saint-jacques-aperitives-000000000000083291.html"
+},
+"000000000000083530": {
+"format": "la boîte de 200 g",
+"kilo": 37.5,
+"nom": "2 pastillas au poulet, bloc de foie gras de canard, fruits secs",
+"par": "kg",
+"prix": 7.5,
+"rayon": "Pizzas et tartes › Tartes salées › Feuilletés",
+"url": "https://www.picard.fr/produits/2-pastillas-poulet-bloc-foie-gras-canard-000000000000083530.html"
 },
 "000000000000083811": {
 "format": "la boîte de 400 g",
@@ -7831,15 +8547,6 @@
 "prix": 4.8,
 "rayon": "Pizzas et tartes › Pizzas › Pizzas créatives",
 "url": "https://www.picard.fr/produits/pizza-chevre-miel-noix-000000000000083811.html"
-},
-"000000000000083895": {
-"format": "la boîte de 140 g",
-"kilo": 64.21,
-"nom": "20 canapés apéritifs",
-"par": "kg",
-"prix": 8.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
-"url": "https://www.picard.fr/produits/20-canapes-aperitifs-000000000000083895.html"
 },
 "000000000000084020": {
 "format": "le bac de 380 g",
@@ -7907,7 +8614,7 @@
 "000000000000084028": {
 "format": "le bac de 380 g",
 "kilo": 14.73,
-"nom": "Sorbet Le citron",
+"nom": "Sorbet Le citron Pure Sélection",
 "par": "kg",
 "prix": 5.6,
 "rayon": "Glaces et sorbets › Marques › Pure sélection",
@@ -7939,6 +8646,15 @@
 "prix": 4.6,
 "rayon": "Glaces et sorbets › Marques › Fou de",
 "url": "https://www.picard.fr/produits/creme-glacee-chocolat-avec-pepites-chocolat-000000000000084055.html"
+},
+"000000000000084087": {
+"format": "le pot de 378 g",
+"kilo": 16.93,
+"nom": "Sorbet abricot royal du Roussillon, La Belle Aude",
+"par": "kg",
+"prix": 6.4,
+"rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
+"url": "https://www.picard.fr/produits/abricot-royal-roussillon-belle-aude-000000000000084087.html"
 },
 "000000000000084095": {
 "format": "le bac de 650 g",
@@ -7993,6 +8709,15 @@
 "prix": 4.3,
 "rayon": "Glaces et sorbets › Types, Formats › Crèmes glacées",
 "url": "https://www.picard.fr/produits/creme-glacee-noix-coco-000000000000084104.html"
+},
+"000000000000084105": {
+"format": "le bac de 650 g",
+"kilo": 6.76,
+"nom": "Sorbet pomme verte",
+"par": "kg",
+"prix": 4.4,
+"rayon": "Glaces et sorbets › Marques › Fou de",
+"url": "https://www.picard.fr/produits/sorbet-pomme-verte-000000000000084105.html"
 },
 "000000000000084116": {
 "format": "le bac de 550 g",
@@ -8075,15 +8800,6 @@
 "rayon": "Glaces et sorbets › Marques › Fou de",
 "url": "https://www.picard.fr/produits/creme-glacee-chocolat-noisette-000000000000084162.html"
 },
-"000000000000084163": {
-"format": "le bac de 600 g",
-"kilo": 7.66,
-"nom": "Sorbet Mangue-noix de coco",
-"par": "kg",
-"prix": 4.6,
-"rayon": "Glaces et sorbets › Marques › Fou de",
-"url": "https://www.picard.fr/produits/sorbet-mangue-noix-coco-000000000000084163.html"
-},
 "000000000000084174": {
 "format": "le pot de 406 g",
 "kilo": 16.74,
@@ -8128,6 +8844,15 @@
 "prix": 6.4,
 "rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
 "url": "https://www.picard.fr/produits/creme-glacee-noisette-pralinee-belle-aude-000000000000084186.html"
+},
+"000000000000084187": {
+"format": "la boîte de 460 g",
+"kilo": 21.71,
+"nom": "Bûche glacée façon citron meringuée, 8 parts",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/buche-glacee-citron-meringuee-000000000000084187.html"
 },
 "000000000000084217": {
 "format": "le pot de 104 g",
@@ -8282,15 +9007,6 @@
 "rayon": "Glaces et sorbets › Marques › Délices d'un instant",
 "url": "https://www.picard.fr/produits/cookie-glace-000000000000084301.html"
 },
-"000000000000084302": {
-"format": "la boîte de 80 g",
-"kilo": 36.12,
-"nom": "2 mochis glacés cacao coeur coulant / cookie",
-"par": "kg",
-"prix": 2.89,
-"rayon": "Desserts › Desserts glacés › Mochis",
-"url": "https://www.picard.fr/produits/2-mochis-glaces-cacao-cookie-000000000000084302.html"
-},
 "000000000000084303": {
 "format": "bâtonnet de 64 g",
 "kilo": 31.09,
@@ -8303,7 +9019,7 @@
 "000000000000084304": {
 "format": "bâtonnet de 62 g",
 "kilo": 32.09,
-"nom": "1 bâtonnet glace fraise basilic",
+"nom": "1 bâtonnet fraise basilic",
 "par": "kg",
 "prix": 1.99,
 "rayon": "Glaces et sorbets › Marques › Délices d'un instant",
@@ -8434,15 +9150,6 @@
 "prix": 4.99,
 "rayon": "Glaces et sorbets › Marques › Magnum",
 "url": "https://www.picard.fr/produits/6-mini-magnum-classic-amande-000000000000084352.html"
-},
-"000000000000084353": {
-"format": "la boîte de 300 g",
-"kilo": 16.3,
-"nom": "4 Magnum White Almond",
-"par": "kg",
-"prix": 4.89,
-"rayon": "Glaces et sorbets › Marques › Magnum",
-"url": "https://www.picard.fr/produits/4-magnum-white-almond-000000000000084353.html"
 },
 "000000000000084354": {
 "format": "la boîte de 300 g",
@@ -8588,15 +9295,6 @@
 "rayon": "Glaces et sorbets › Types, Formats › Bâtonnets de glace, barres glacées",
 "url": "https://www.picard.fr/produits/4-batonnets-speculoos-000000000000084435.html"
 },
-"000000000000084450": {
-"format": "le pot de 195 g",
-"kilo": 15.33,
-"nom": "Sorbet fruit du dragon citron vert",
-"par": "kg",
-"prix": 2.99,
-"rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
-"url": "https://www.picard.fr/produits/sorbet-fruit-du-dragon-citron-vert-000000000000084450.html"
-},
 "000000000000084451": {
 "format": "le bac de 380 g",
 "kilo": 14.73,
@@ -8640,7 +9338,7 @@
 "par": "kg",
 "prix": 2.99,
 "rayon": "Glaces et sorbets › Types, Formats › Glaces pour enfants",
-"url": "https://www.picard.fr/produits/6-mini-bat-fraise-orange-000000000000084460.html"
+"url": "https://www.picard.fr/produits/6-mini-batonnets-fraise-orange-000000000000084460.html"
 },
 "000000000000084468": {
 "format": "la boîte de 508 g",
@@ -8696,15 +9394,6 @@
 "rayon": "Glaces et sorbets › Marques › Snickers",
 "url": "https://www.picard.fr/produits/1-snickers-glace-000000000000084507.html"
 },
-"000000000000084508": {
-"format": "le pot de 100 g",
-"kilo": 39.9,
-"nom": "Banana' choc bananes enrobées chocolat noir",
-"par": "kg",
-"prix": 3.99,
-"rayon": "Glaces et sorbets › Parfums › Fruits exotiques",
-"url": "https://www.picard.fr/produits/bananes-enrobees-chocolat-noir-000000000000084508.html"
-},
 "000000000000084509": {
 "format": "la boîte 110 g",
 "kilo": 16.36,
@@ -8749,15 +9438,6 @@
 "prix": 3.99,
 "rayon": "Glaces et sorbets › Parfums › Fruits exotiques",
 "url": "https://www.picard.fr/produits/ananas-enrobes-chocolat-blanc-000000000000084516.html"
-},
-"000000000000084517": {
-"format": "la boîte de 290 g",
-"kilo": 12.41,
-"nom": "5 bâtonnets myrtille, hibiscus",
-"par": "kg",
-"prix": 3.6,
-"rayon": "Glaces et sorbets › Types, Formats › Bâtonnets de glace, barres glacées",
-"url": "https://www.picard.fr/produits/5-batonnets-glaces-myrtille-hibiscus-000000000000084517.html"
 },
 "000000000000084519": {
 "format": "le pot de 100 g",
@@ -8822,15 +9502,6 @@
 "rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
 "url": "https://www.picard.fr/produits/4-mini-pots-original-collection-000000000000084534.html"
 },
-"000000000000084535": {
-"format": "le bac de 367 g",
-"kilo": 10.87,
-"nom": "Vanille de Madagascar",
-"par": "kg",
-"prix": 3.99,
-"rayon": "Glaces et sorbets › Types, Formats › Crèmes glacées",
-"url": "https://www.picard.fr/produits/vanille-carte-or-000000000000084535.html"
-},
 "000000000000084538": {
 "format": "la boîte de 276 g",
 "kilo": 19.89,
@@ -8885,6 +9556,15 @@
 "rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
 "url": "https://www.picard.fr/produits/buche-glacee-vanille-chocolat-000000000000084551.html"
 },
+"000000000000084552": {
+"format": "la boîte de 139 g",
+"kilo": 28.7,
+"nom": "2 bûchettes glacées chocolat, caramel",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
+"url": "https://www.picard.fr/produits/2-buchettes-glacees-chocolat-caramel-000000000000084552.html"
+},
 "000000000000084553": {
 "format": "la boîte de 139 g",
 "kilo": 28.7,
@@ -8921,6 +9601,15 @@
 "rayon": "Glaces et sorbets › Types, Formats › Bâtonnets de glace, barres glacées",
 "url": "https://www.picard.fr/produits/4-batonnets-nuii-pistache-000000000000084557.html"
 },
+"000000000000084558": {
+"format": "la boîte de 282 g",
+"kilo": 12.41,
+"nom": "6 bâtonnets Oasis so Fruiz",
+"par": "kg",
+"prix": 3.5,
+"rayon": "Glaces et sorbets › Types, Formats › Bâtonnets de glace, barres glacées",
+"url": "https://www.picard.fr/produits/6-batonnets-oasis-so-fruiz-000000000000084558.html"
+},
 "000000000000084560": {
 "format": "la boîte de 120 g",
 "kilo": 36.66,
@@ -8929,6 +9618,15 @@
 "prix": 4.4,
 "rayon": "Desserts › Desserts glacés › Desserts glacés individuels",
 "url": "https://www.picard.fr/produits/2-monstres-halloween-glaces-000000000000084560.html"
+},
+"000000000000084561": {
+"format": "le pot de 388 g",
+"kilo": 17.52,
+"nom": "Crème glacée brookie & cream, Ben and Jerry's",
+"par": "kg",
+"prix": 6.8,
+"rayon": "Glaces et sorbets › Marques › Glaces Ben & Jerry's",
+"url": "https://www.picard.fr/produits/pot-brookies-cream-b-j-000000000000084561.html"
 },
 "000000000000084562": {
 "format": "la boîte de 252 g",
@@ -8973,7 +9671,7 @@
 "par": "kg",
 "prix": 1.99,
 "rayon": "Glaces et sorbets › Marques › Délices d'un instant",
-"url": "https://www.picard.fr/produits/1-bat-citron-yuzu-menthe-000000000000084567.html"
+"url": "https://www.picard.fr/produits/batonnet-citron-yuzu-menthe-000000000000084567.html"
 },
 "000000000000084568": {
 "format": "la boîte de 275 g",
@@ -9019,15 +9717,6 @@
 "prix": 2.9,
 "rayon": "Glaces et sorbets › Marques › Magnum",
 "url": "https://www.picard.fr/produits/1-batonnet-magnum-amande-000000000000084574.html"
-},
-"000000000000084575": {
-"format": "l'étui de 251 g",
-"kilo": 31.83,
-"nom": "4 mini-pots Les glaces insolites par Joyca",
-"par": "kg",
-"prix": 7.99,
-"rayon": "Glaces et sorbets › Types, Formats › Pots de glace",
-"url": "https://www.picard.fr/produits/4-petits-pots-collab-j-000000000000084575.html"
 },
 "000000000000084576": {
 "format": "le pot de 110 g",
@@ -9130,10 +9819,10 @@
 },
 "000000000000084602": {
 "format": "la boîte de 570 g",
-"kilo": 35.07,
+"kilo": 31.56,
 "nom": "Bûche glacée cartes fruitées, 8 parts",
 "par": "kg",
-"prix": 19.99,
+"prix": 17.99,
 "rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
 "url": "https://www.picard.fr/produits/buche-glacee-sorbet-plein-fruit-000000000000084602.html"
 },
@@ -9145,15 +9834,6 @@
 "prix": 4.99,
 "rayon": "Desserts › Desserts glacés › Desserts glacés individuels",
 "url": "https://www.picard.fr/produits/2-oursons-glaces-guimauves-000000000000084605.html"
-},
-"000000000000084607": {
-"format": "la boîte de 500 g",
-"kilo": 57.98,
-"nom": "Bûche pâtissière façon chocolat Dubaï, 8 parts",
-"par": "kg",
-"prix": 28.99,
-"rayon": "Desserts › Pâtisseries › Bûches et bûchettes",
-"url": "https://www.picard.fr/produits/buche-patissiere-chocolat-dubai-000000000000084607.html"
 },
 "000000000000084608": {
 "format": "la boîte de 540 g",
@@ -9199,24 +9879,6 @@
 "prix": 5.9,
 "rayon": "Glaces et sorbets › Marques › Magnum",
 "url": "https://www.picard.fr/produits/4-cones-magnum-mangue-et-chocolat-blanc-000000000000084628.html"
-},
-"000000000000084630": {
-"format": "la boîte de 540 g",
-"kilo": 55.53,
-"nom": "Bûche glacée Neige enchantée, 8 parts",
-"par": "kg",
-"prix": 29.99,
-"rayon": "Glaces et sorbets › Types, Formats › Bûches glacées",
-"url": "https://www.picard.fr/produits/buche-glacee-neige-enchantee-000000000000084630.html"
-},
-"000000000000084631": {
-"format": "la boîte de 168 g",
-"kilo": 38.39,
-"nom": "Bonbon White chocolate & cookies",
-"par": "kg",
-"prix": 6.45,
-"rayon": "Glaces et sorbets › Marques › Magnum",
-"url": "https://www.picard.fr/produits/bonbon-white-chocolate-et-cookies-000000000000084631.html"
 },
 "000000000000084635": {
 "format": "la boîte de 480 g",
@@ -9335,6 +9997,24 @@
 "rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
 "url": "https://www.picard.fr/produits/torsades-feuilletees-olives-000000000000085018.html"
 },
+"000000000000085036": {
+"format": "la boîte de 130 g",
+"kilo": 61.46,
+"nom": "14 mendiants chocolat noir",
+"par": "kg",
+"prix": 7.99,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/14-mendiants-chocolat-noir-000000000000085036.html"
+},
+"000000000000085037": {
+"format": "la boîte de 175 g",
+"kilo": 22.8,
+"nom": "Biscuits étoile cannelle",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/biscuits-etoile-cannelle-000000000000085037.html"
+},
 "000000000000085040": {
 "format": "bouteille de 42 cl",
 "kilo": 5.23,
@@ -9355,10 +10035,10 @@
 },
 "000000000000085064": {
 "format": "le sachet de 250 g",
-"kilo": 20.76,
+"kilo": 19.96,
 "nom": "Guimauves nuages",
 "par": "kg",
-"prix": 5.19,
+"prix": 4.99,
 "rayon": "Épicerie › Épicerie sucrée › Confiseries",
 "url": "https://www.picard.fr/produits/guimauves-nuages-000000000000085064.html"
 },
@@ -9720,6 +10400,15 @@
 "rayon": "Épicerie › Épicerie sucrée › Biscuits",
 "url": "https://www.picard.fr/produits/mini-gaufrettes-000000000000085288.html"
 },
+"000000000000085304": {
+"format": "la sucette de 18 g",
+"kilo": 110.55,
+"nom": "Sucette renne au chocolat au lait",
+"par": "kg",
+"prix": 1.99,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/sucette-renne-chocolat-000000000000085304.html"
+},
 "000000000000085324": {
 "format": "le pot de 210 g",
 "kilo": 14.23,
@@ -9771,6 +10460,15 @@
 "prix": 3.99,
 "rayon": "Épicerie › Épicerie salée › Épicerie fine",
 "url": "https://www.picard.fr/produits/rillettes-de-canard-000000000000085360.html"
+},
+"000000000000085377": {
+"format": "la boîte de 100 g",
+"kilo": 27.5,
+"nom": "Mini panettone chocolat",
+"par": "kg",
+"prix": 2.75,
+"rayon": "Épicerie › Épicerie sucrée",
+"url": "https://www.picard.fr/produits/mini-panettone-chocolat-000000000000085377.html"
 },
 "000000000000085384": {
 "format": "la boîte",
@@ -9876,7 +10574,7 @@
 "par": "kg",
 "prix": 18.99,
 "rayon": "Épicerie › Épicerie salée › Épicerie fine",
-"url": "https://www.picard.fr/produits/fg-entier-eleveurs-reunis-000000000000085450.html"
+"url": "https://www.picard.fr/produits/foie-gras-entier-terroir-eleveurs-reunis-000000000000085450.html"
 },
 "000000000000085452": {
 "format": "bouteille de 360 g",
@@ -9957,15 +10655,6 @@
 "rayon": "Épicerie › Épicerie sucrée › Biscuits",
 "url": "https://www.picard.fr/produits/6-mini-lunette-fraise-bio-000000000000085484.html"
 },
-"000000000000085490": {
-"format": "le sachet de 150 g",
-"kilo": 17.33,
-"nom": "Mini gressins goût pizza",
-"par": "kg",
-"prix": 2.6,
-"rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
-"url": "https://www.picard.fr/produits/mini-gressins-pizza-000000000000085490.html"
-},
 "000000000000085491": {
 "format": "la boîte de 90 g",
 "kilo": 16.11,
@@ -9990,7 +10679,7 @@
 "nom": "Sauce soja sucrée, Les deux Pagodes",
 "par": "l",
 "prix": 1.89,
-"rayon": "Épicerie › Épicerie salée",
+"rayon": "Épicerie › Épicerie salée › Condiments",
 "url": "https://www.picard.fr/produits/sauce-soja-sucree-000000000000085494.html"
 },
 "000000000000085495": {
@@ -9999,7 +10688,7 @@
 "nom": "Sauce soja salée, Les deux Pagodes",
 "par": "l",
 "prix": 1.89,
-"rayon": "Épicerie › Épicerie salée",
+"rayon": "Épicerie › Épicerie salée › Condiments",
 "url": "https://www.picard.fr/produits/sauce-soja-salee-000000000000085495.html"
 },
 "000000000000085497": {
@@ -10029,6 +10718,15 @@
 "rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
 "url": "https://www.picard.fr/produits/chips-manioc-sweet-chili-000000000000085500.html"
 },
+"000000000000085501": {
+"format": "bouteille de 75 cl",
+"kilo": 6.52,
+"nom": "Cidre Brut IGP Bretagne bio",
+"par": "l",
+"prix": 4.89,
+"rayon": "Épicerie › Vins, Champagnes › Cidres et bières",
+"url": "https://www.picard.fr/produits/cidre-brut-igp-bretagne-000000000000085501.html"
+},
 "000000000000085502": {
 "format": "bouteille de 33 cl",
 "kilo": 7.12,
@@ -10046,6 +10744,15 @@
 "prix": 2.15,
 "rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
 "url": "https://www.picard.fr/produits/chips-ondulees-150g-000000000000085503.html"
+},
+"000000000000085505": {
+"format": "le sachet de 35 g",
+"kilo": 35.71,
+"nom": "Truffes au chocolat",
+"par": "kg",
+"prix": 1.25,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/truffes-au-chocolat-000000000000085505.html"
 },
 "000000000000085506": {
 "format": "bouteille de 33 cl",
@@ -10209,6 +10916,15 @@
 "rayon": "Épicerie › Épicerie sucrée › Biscuits",
 "url": "https://www.picard.fr/produits/cookies-pepites-chocolat-000000000000085580.html"
 },
+"000000000000085588": {
+"format": "la boîte de 150 g",
+"kilo": 99.93,
+"nom": "8 marrons glacés",
+"par": "kg",
+"prix": 14.99,
+"rayon": "Épicerie › Épicerie sucrée › Confiseries",
+"url": "https://www.picard.fr/produits/marrons-glaces-000000000000085588.html"
+},
 "000000000000085590": {
 "format": "la boîte de 120 g",
 "kilo": 24.91,
@@ -10333,6 +11049,15 @@
 "rayon": "Épicerie › Épicerie sucrée › Boissons sans alcool",
 "url": "https://www.picard.fr/produits/bouteille-badoit-1l-000000000000085684.html"
 },
+"000000000000085695": {
+"format": "la boîte de 100 g",
+"kilo": 27.5,
+"nom": "Mini-panettone",
+"par": "kg",
+"prix": 2.75,
+"rayon": "Épicerie › Épicerie sucrée › Biscuits",
+"url": "https://www.picard.fr/produits/mini-panettone-000000000000085695.html"
+},
 "000000000000085710": {
 "format": "la boîte de 65 g",
 "kilo": 41.53,
@@ -10359,6 +11084,15 @@
 "prix": 2.8,
 "rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
 "url": "https://www.picard.fr/produits/gaufrette-apero-maroilles-000000000000085730.html"
+},
+"000000000000085734": {
+"format": "le sachet de 100 g",
+"kilo": 49.9,
+"nom": "Noix de cajou à la truffe d?été 1,1% aromatisées",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Épicerie › Épicerie salée › Gâteaux apéritif",
+"url": "https://www.picard.fr/produits/noix-de-cajou-a-la-truffe-d%3Fete-11-aromatisees-000000000000085734.html"
 },
 "000000000000085736": {
 "format": "le sachet de 1 kg",
@@ -10449,6 +11183,15 @@
 "prix": 8.99,
 "rayon": "Épicerie › Vins, Champagnes › Vins",
 "url": "https://www.picard.fr/produits/aop-cote-provence-bio-000000000000085782.html"
+},
+"000000000000085861": {
+"format": "la pièce de 140 g",
+"kilo": 28.5,
+"nom": "Pain d'épices, pur miel, 14 mini-tranches",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Épicerie › Épicerie sucrée",
+"url": "https://www.picard.fr/produits/pain-d-epices-000000000000085861.html"
 },
 "000000000000085866": {
 "format": "le pot de 210 g",
@@ -10663,6 +11406,15 @@
 "prix": 5.75,
 "rayon": "Plats cuisinés › Gammes › Bons petits plats",
 "url": "https://www.picard.fr/produits/parmentier-boeuf-charolais-000000000000086079.html"
+},
+"000000000000086082": {
+"format": "le sachet de 200 g",
+"kilo": 22.5,
+"nom": "Sauce à la truffe blanche d'été 1% aromatisée",
+"par": "kg",
+"prix": 4.5,
+"rayon": "Légumes et fruits › Légumes cuisinés › Sauces pour légumes",
+"url": "https://www.picard.fr/produits/sauce-truffe-brumale-1-tuber-brumale-000000000000086082.html"
 },
 "000000000000086099": {
 "format": "la boîte de 340 g",
@@ -10925,6 +11677,15 @@
 "rayon": "Plats cuisinés › Gammes › Plus d'équilibre",
 "url": "https://www.picard.fr/produits/aiguillettes-poulet-miel-epices-000000000000086248.html"
 },
+"000000000000086261": {
+"format": "l'étui de 152 g",
+"kilo": 28.28,
+"nom": "12 mini gyoza Cuisine Evasion",
+"par": "kg",
+"prix": 4.3,
+"rayon": "Cuisine du monde › Pays › Plats japonais",
+"url": "https://www.picard.fr/produits/12-mini-gyoza-000000000000086261.html"
+},
 "000000000000086267": {
 "format": "la boîte de 160 g",
 "kilo": 27.43,
@@ -10988,6 +11749,15 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Couscous, pâtes, risottos",
 "url": "https://www.picard.fr/produits/linguine-pesto-rosso-000000000000086339.html"
 },
+"000000000000086351": {
+"format": "le sachet de 800 g",
+"kilo": 24.98,
+"nom": "Lotte du Cap, crevettes et Saint- Jacques",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/lotte-du-cap-crevettes-et-saint-jacques-sauce-au-riesling-000000000000086351.html"
+},
 "000000000000086357": {
 "format": "la boîte de 350 g",
 "kilo": 15.71,
@@ -10995,7 +11765,7 @@
 "par": "kg",
 "prix": 5.5,
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats cuisinés végétariens",
-"url": "https://www.picard.fr/produits/truffade-de-l-aubrac-350g-000000000000086357.html"
+"url": "https://www.picard.fr/produits/truffade-de-l-aubrac-000000000000086357.html"
 },
 "000000000000086360": {
 "format": "le sachet de 500 g",
@@ -11015,14 +11785,14 @@
 "rayon": "Plats cuisinés › Gammes › Formule Express",
 "url": "https://www.picard.fr/produits/poulet-mini-farfalles-sauce-3-fromages-000000000000086397.html"
 },
-"000000000000086403": {
-"format": "la boîte de 110 g",
-"kilo": 40.9,
-"nom": "6 beignets de crevette ASC",
+"000000000000086409": {
+"format": "le sachet de 800 g",
+"kilo": 24.98,
+"nom": "Pintade sauce au crémant d'Alsace et figues noires",
 "par": "kg",
-"prix": 4.5,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs exotiques, tapas",
-"url": "https://www.picard.fr/produits/6-beignets-crevette-asc-000000000000086403.html"
+"prix": 19.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Viandes, volailles cuisinées",
+"url": "https://www.picard.fr/produits/pintade-figues-000000000000086409.html"
 },
 "000000000000086410": {
 "format": "la boîte de 350 g",
@@ -11032,15 +11802,6 @@
 "prix": 5.7,
 "rayon": "Cuisine du monde › Pays › Plats thaïlandais",
 "url": "https://www.picard.fr/produits/pad-thai-000000000000086410.html"
-},
-"000000000000086411": {
-"format": "barquette de 350 g",
-"kilo": 19.97,
-"nom": "Pintade sce Monbazillac noisette",
-"par": "kg",
-"prix": 6.99,
-"rayon": "Plats cuisinés › Formats › Plats individuels",
-"url": "https://www.picard.fr/produits/pintade-sauce-monbazillac-000000000000086411.html"
 },
 "000000000000086413": {
 "format": "papillote de 300 g",
@@ -11121,7 +11882,7 @@
 "par": "kg",
 "prix": 2.99,
 "rayon": "Viandes et poissons › Poissons › Sauces et condiments pour poissons",
-"url": "https://www.picard.fr/produits/sauce-aux-crustaces-200g-000000000000086444.html"
+"url": "https://www.picard.fr/produits/sauce-aux-crustaces-000000000000086444.html"
 },
 "000000000000086456": {
 "format": "le sachet de 340 g",
@@ -11292,7 +12053,7 @@
 "par": "kg",
 "prix": 1.99,
 "rayon": "Desserts › Pâtisseries › Pâtisseries individuelles",
-"url": "https://www.picard.fr/produits/2loukoumades-a-la-grecque-000000000000086487.html"
+"url": "https://www.picard.fr/produits/2-loukoumades-a-la-grecque-000000000000086487.html"
 },
 "000000000000086489": {
 "format": "la boîte de 350 g",
@@ -11366,6 +12127,15 @@
 "rayon": "Cuisine du monde › Pays › Plats Méditerranéens",
 "url": "https://www.picard.fr/produits/kebab-bowl-000000000000086498.html"
 },
+"000000000000086499": {
+"format": "barquette de 300 g",
+"kilo": 15.0,
+"nom": "Ravioli aux asperges, noix de cajou et citron",
+"par": "kg",
+"prix": 4.5,
+"rayon": "Plats cuisinés › Formats › Plats individuels",
+"url": "https://www.picard.fr/produits/ravioli-asperges-000000000000086499.html"
+},
 "000000000000086501": {
 "format": "le bol de 350 g",
 "kilo": 13.97,
@@ -11374,6 +12144,15 @@
 "prix": 4.89,
 "rayon": "Plats cuisinés",
 "url": "https://www.picard.fr/produits/buddha-bowl-sate-tbtv-000000000000086501.html"
+},
+"000000000000086504": {
+"format": "le sachet de 700 g",
+"kilo": 19.85,
+"nom": "Risotto Saint-Jacques crevettes, sce Chardonnay",
+"par": "kg",
+"prix": 13.9,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Couscous, pâtes, risottos",
+"url": "https://www.picard.fr/produits/risotto-saint-jacques-crevette-000000000000086504.html"
 },
 "000000000000086507": {
 "format": "le sachet de 800 g",
@@ -11400,7 +12179,16 @@
 "par": "kg",
 "prix": 4.99,
 "rayon": "Plats cuisinés › Types de plats cuisinés › Plats du monde",
-"url": "https://www.picard.fr/produits/chicken-curry-blati-350g-000000000000086512.html"
+"url": "https://www.picard.fr/produits/chicken-curry-balti-000000000000086512.html"
+},
+"000000000000086513": {
+"format": "la boîte de 120 g",
+"kilo": 41.58,
+"nom": "8 tostadas sce salsa,cheddar,haricot rouge,tomate",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Cuisine du monde › Pays › Plats Amérique Latine",
+"url": "https://www.picard.fr/produits/8-tostadas-120g-000000000000086513.html"
 },
 "000000000000086517": {
 "format": "la boîte de 240 g",
@@ -11474,6 +12262,15 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Viandes, volailles cuisinées",
 "url": "https://www.picard.fr/produits/bouchees-poulet-karaage-000000000000086536.html"
 },
+"000000000000086539": {
+"format": "la boîte de 150 g",
+"kilo": 32.0,
+"nom": "Hot-dog façon Sonoran saucisse, légumes, sce salsa",
+"par": "kg",
+"prix": 4.8,
+"rayon": "Cuisine du monde › Pays › Plats Amérique Latine",
+"url": "https://www.picard.fr/produits/hot-dog-sonoran-150g-000000000000086539.html"
+},
 "000000000000086540": {
 "format": "barquette de 350 g",
 "kilo": 15.97,
@@ -11510,6 +12307,15 @@
 "rayon": "Cuisine du monde › Types de plat › Bouchées, Brochettes",
 "url": "https://www.picard.fr/produits/4-bao-halloween-legumes-000000000000086547.html"
 },
+"000000000000086549": {
+"format": "la boîte de 450 g",
+"kilo": 44.42,
+"nom": "Ris de veau sauce aux morilles et Porto",
+"par": "kg",
+"prix": 19.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Viandes, volailles cuisinées",
+"url": "https://www.picard.fr/produits/ris-de-veau-sauce-morilles-porto-000000000000086549.html"
+},
 "000000000000086550": {
 "format": "le sachet de 400 g",
 "kilo": 8.75,
@@ -11544,7 +12350,7 @@
 "par": "kg",
 "prix": 5.5,
 "rayon": "Plats cuisinés › Types de plats cuisinés › Gratins, parmentiers, lasagnes",
-"url": "https://www.picard.fr/produits/gratin-spaetzle-munster-000000000000086557.html"
+"url": "https://www.picard.fr/produits/gratin-de-spaetzle-au-munster-000000000000086557.html"
 },
 "000000000000086565": {
 "format": "barquette de 300 g",
@@ -11590,6 +12396,15 @@
 "prix": 4.5,
 "rayon": "Cuisine du monde › Pays › Plats japonais",
 "url": "https://www.picard.fr/produits/tonyu-udon%2Fbouillon-ce-000000000000086576.html"
+},
+"000000000000086580": {
+"format": "le plat de 850 g",
+"kilo": 41.16,
+"nom": "Noix de St-Jacques, cabillaud, crevettes",
+"par": "kg",
+"prix": 34.99,
+"rayon": "Plats cuisinés › Types de plats cuisinés › Plats de fêtes",
+"url": "https://www.picard.fr/produits/noix-de-saint-jacques-cabillaud-crevettes-sauce-au-sauternes-000000000000086580.html"
 },
 "000000000000086582": {
 "format": "papillote de 300 g",
@@ -11643,7 +12458,7 @@
 "par": "kg",
 "prix": 4.75,
 "rayon": "Plats cuisinés › Gammes › Plus d'équilibre",
-"url": "https://www.picard.fr/produits/maquereau-sce-provencale-000000000000086609.html"
+"url": "https://www.picard.fr/produits/filets-de-maquereau-sauce-a-la-provencale-000000000000086609.html"
 },
 "000000000000086611": {
 "format": "le bol de 350 g",
@@ -11681,6 +12496,24 @@
 "rayon": "Cuisine du monde › Types de plat › Soupes du monde",
 "url": "https://www.picard.fr/produits/soupe-pho-000000000000086628.html"
 },
+"000000000000086633": {
+"format": "le sachet de 800 g",
+"kilo": 37.48,
+"nom": "Crevettes, St-Jacques, homard sauce au Chardonnay",
+"par": "kg",
+"prix": 29.99,
+"rayon": "Viandes et poissons › Fruits de mer › Fruits de mer cuisinés et panés",
+"url": "https://www.picard.fr/produits/crevettes-saint-jacques-et-homard-sauce-au-chardonnay-000000000000086633.html"
+},
+"000000000000086634": {
+"format": "la boîte de 800 g",
+"kilo": 31.23,
+"nom": "Civet de cerf sauce Grand Veneur aux groseilles",
+"par": "kg",
+"prix": 24.99,
+"rayon": "Viandes et poissons › Viandes › Viandes cuisinées",
+"url": "https://www.picard.fr/produits/civet-de-cerf-sauce-grand-veneur-aux-groseilles-000000000000086634.html"
+},
 "000000000000086637": {
 "format": "le sachet de 800 g",
 "kilo": 19.98,
@@ -11707,15 +12540,6 @@
 "prix": 3.35,
 "rayon": "Plats cuisinés › Formats › Plats individuels",
 "url": "https://www.picard.fr/produits/lasagnes-vegetariennes-fe-000000000000086642.html"
-},
-"000000000000086643": {
-"format": "la boîte de 170 g",
-"kilo": 29.35,
-"nom": "2 rouleaux de Printemps au poulet",
-"par": "kg",
-"prix": 4.99,
-"rayon": "Cuisine du monde › Pays › Plats vietnamiens",
-"url": "https://www.picard.fr/produits/2-rouleaux-printps-poulet-000000000000086643.html"
 },
 "000000000000086653": {
 "format": "le sachet de 100 g",
@@ -11924,6 +12748,15 @@
 "rayon": "Légumes et fruits › Légumes › Petits pois, carottes",
 "url": "https://www.picard.fr/produits/carottes-sans-residu-de-pesticides-000000000000087029.html"
 },
+"000000000000087030": {
+"format": "le sachet de 1 kg",
+"kilo": 2.75,
+"nom": "Choux-fleurs fleurettes sans résidu de pesticides",
+"par": "kg",
+"prix": 2.75,
+"rayon": "Légumes et fruits › Légumes › Choux, Brocolis",
+"url": "https://www.picard.fr/produits/choux-fleurs-sans-residu-000000000000087030.html"
+},
 "000000000000087033": {
 "format": "le sachet de 300 g",
 "kilo": 17.66,
@@ -11932,15 +12765,6 @@
 "prix": 5.3,
 "rayon": "Légumes et fruits › Légumes › Légumes BIO",
 "url": "https://www.picard.fr/produits/melange-champignon-bio-000000000000087033.html"
-},
-"000000000000087035": {
-"format": "le sachet de 600 g",
-"kilo": 4.5,
-"nom": "Mélange de légumes anciens bio, France",
-"par": "kg",
-"prix": 2.7,
-"rayon": "Légumes et fruits › Légumes › Mélanges de légumes",
-"url": "https://www.picard.fr/produits/melange-de-legumes-anciens-bio-000000000000087035.html"
 },
 "000000000000087038": {
 "format": "le sachet de 600 g",
@@ -11969,6 +12793,24 @@
 "rayon": "Légumes et fruits",
 "url": "https://www.picard.fr/produits/450g-brunoise-champignons-000000000000087041.html"
 },
+"000000000000087042": {
+"format": "le sachet de 300 g",
+"kilo": 26.63,
+"nom": "Chanterelles des forêts des Landes de Gascogne",
+"par": "kg",
+"prix": 7.99,
+"rayon": "Légumes et fruits › Légumes › Champignons",
+"url": "https://www.picard.fr/produits/chanterelles-des-forets-des-landes-de-gascogne-000000000000087042.html"
+},
+"000000000000087045": {
+"format": "le sachet de 200 g",
+"kilo": 19.95,
+"nom": "Sauce au vin jaune",
+"par": "kg",
+"prix": 3.99,
+"rayon": "Viandes et poissons › Viandes › Sauces et condiments pour viandes",
+"url": "https://www.picard.fr/produits/sauce-au-vin-jaune-000000000000087045.html"
+},
 "000000000000087056": {
 "format": "le sachet de 450 g",
 "kilo": 8.0,
@@ -11996,6 +12838,15 @@
 "rayon": "Plats cuisinés › Types de plats cuisinés › Couscous, pâtes, risottos",
 "url": "https://www.picard.fr/produits/fusilli-pesto-rosso-450g-000000000000087067.html"
 },
+"000000000000087084": {
+"format": "le sachet de 450 g",
+"kilo": 11.08,
+"nom": "Pommes duchesse à la patate douce",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
+"url": "https://www.picard.fr/produits/pommes-duchesse-patate-douce-000000000000087084.html"
+},
 "000000000000087085": {
 "format": "le sachet de 750 g",
 "kilo": 15.32,
@@ -12003,16 +12854,7 @@
 "par": "kg",
 "prix": 11.49,
 "rayon": "Légumes et fruits › Légumes",
-"url": "https://www.picard.fr/produits/marrons-entiers-750g-000000000000087085.html"
-},
-"000000000000087087": {
-"format": "la boîte de 180 g",
-"kilo": 19.44,
-"nom": "2 choux végétariens légumes, champignons",
-"par": "kg",
-"prix": 3.5,
-"rayon": "Légumes et fruits › Légumes cuisinés › Accompagnements",
-"url": "https://www.picard.fr/produits/2-choux-vegetariens-000000000000087087.html"
+"url": "https://www.picard.fr/produits/marrons-entiers-000000000000087085.html"
 },
 "000000000000087090": {
 "format": "la boîte de 240 g",
@@ -12022,15 +12864,6 @@
 "prix": 4.99,
 "rayon": "Légumes et fruits › Légumes cuisinés › Accompagnements",
 "url": "https://www.picard.fr/produits/6-fagots-de-legumes-000000000000087090.html"
-},
-"000000000000087101": {
-"format": "le bol de 210 g",
-"kilo": 10.95,
-"nom": "Mini gaspacho concombre, courgette, petit pois",
-"par": "kg",
-"prix": 2.3,
-"rayon": "Légumes et fruits › Légumes cuisinés › Soupes, potages et veloutés",
-"url": "https://www.picard.fr/produits/mini-gaspacho-concombre-courgette-petit-pois-menthe-000000000000087101.html"
 },
 "000000000000087102": {
 "format": "le sachet de 1 kg",
@@ -12048,7 +12881,7 @@
 "par": "kg",
 "prix": 4.99,
 "rayon": "Légumes et fruits › Légumes cuisinés › Poêlées de légumes",
-"url": "https://www.picard.fr/produits/poelee-pomme-de-terre-champignon-pois-gourmand-marron-000000000000087115.html"
+"url": "https://www.picard.fr/produits/poelee-pomme-de-terre-champignon-marron-000000000000087115.html"
 },
 "000000000000087122": {
 "format": "le sachet de 600 g",
@@ -12341,7 +13174,7 @@
 "000000000000087407": {
 "format": "la boîte de 450 g",
 "kilo": 12.22,
-"nom": "Ecrasé de pomme de terre, façon sarladaise, cèpes",
+"nom": "Ecrasé de pomme de terre façon sarladaise, cèpes",
 "par": "kg",
 "prix": 5.5,
 "rayon": "Légumes et fruits › Féculents › Pommes de terre, frites",
@@ -12367,12 +13200,21 @@
 },
 "000000000000087415": {
 "format": "la boîte de 360 g",
-"kilo": 15.27,
-"nom": "6 sapins pomme de terre",
+"kilo": 16.63,
+"nom": "6 sapins de pomme de terre",
 "par": "kg",
-"prix": 5.5,
+"prix": 5.99,
 "rayon": "Légumes et fruits › Légumes cuisinés › Accompagnements",
 "url": "https://www.picard.fr/produits/6-sapins-pomme-de-terre-000000000000087415.html"
+},
+"000000000000087417": {
+"format": "la boîte de 200 g",
+"kilo": 14.0,
+"nom": "Gratin pomme de terre,champigons forestiers",
+"par": "kg",
+"prix": 2.8,
+"rayon": "Légumes et fruits › Légumes cuisinés › Gratins",
+"url": "https://www.picard.fr/produits/gratin-pommes-de-terre-champignons-000000000000087417.html"
 },
 "000000000000087420": {
 "format": "le sachet de 600 g",
@@ -12634,6 +13476,15 @@
 "prix": 1.95,
 "rayon": "Légumes et fruits › Légumes › Potirons, navets, potimarrons",
 "url": "https://www.picard.fr/produits/navets-en-morceaux-sans-residu-de-pesticides-000000000000087602.html"
+},
+"000000000000087610": {
+"format": "la boîte de 450 g",
+"kilo": 11.08,
+"nom": "Purée patate douce,marron, agrume, poivre Sichuan",
+"par": "kg",
+"prix": 4.99,
+"rayon": "Légumes et fruits › Légumes cuisinés › Purées",
+"url": "https://www.picard.fr/produits/puree-patate-douce-marron-agrume-poivre-de-sichuan-000000000000087610.html"
 },
 "000000000000087643": {
 "format": "le sachet de 600 g",
@@ -12932,6 +13783,15 @@
 "rayon": "Viandes et poissons › Volailles › Volailles panées",
 "url": "https://www.picard.fr/produits/escalope-poulet-pane-550-g-000000000000088050.html"
 },
+"000000000000088064": {
+"format": "la boîte de 700 g",
+"kilo": 35.7,
+"nom": "Rôti de magret de canard au piment d'Espelette",
+"par": "kg",
+"prix": 24.99,
+"rayon": "Viandes et poissons › Volailles › Canard",
+"url": "https://www.picard.fr/produits/roti-canard-sud-ouest-piment-espelette-000000000000088064.html"
+},
 "000000000000088139": {
 "format": "le sachet de 360 g",
 "kilo": 22.19,
@@ -12998,11 +13858,11 @@
 "000000000000088250": {
 "format": "la boîte de 500 g",
 "kilo": 17.98,
-"nom": "Ribs à la mexicaine",
+"nom": "Ribs à la mexicaine à cuire, 2 pièces",
 "par": "kg",
 "prix": 8.99,
 "rayon": "Viandes et poissons › Barbecue",
-"url": "https://www.picard.fr/produits/ribs-a-la-mexicaine-500g-000000000000088250.html"
+"url": "https://www.picard.fr/produits/ribs-a-la-mexicaine-000000000000088250.html"
 },
 "000000000000088263": {
 "format": "la boîte de 320 g",
@@ -13076,6 +13936,24 @@
 "rayon": "Viandes et poissons › Volailles › Poulet et dinde",
 "url": "https://www.picard.fr/produits/dinde-farcie-farce-marrons-cepes-000000000000088337.html"
 },
+"000000000000088338": {
+"format": "la boîte de 420 g",
+"kilo": 26.16,
+"nom": "2 cuisses de pintade farcies",
+"par": "kg",
+"prix": 10.99,
+"rayon": "Viandes et poissons › Volailles › Pintade",
+"url": "https://www.picard.fr/produits/2-cuisses-de-pintade-000000000000088338.html"
+},
+"000000000000088379": {
+"format": "le sachet de 600 g",
+"kilo": 13.31,
+"nom": "6 cordons bleus de poulet",
+"par": "kg",
+"prix": 7.99,
+"rayon": "Viandes et poissons › Volailles › Volailles panées",
+"url": "https://www.picard.fr/produits/6-cordons-bleus-poulet-000000000000088379.html"
+},
 "000000000000088405": {
 "format": "le sachet de 400 g",
 "kilo": 13.97,
@@ -13121,6 +13999,15 @@
 "rayon": "Viandes et poissons › Volailles › Volailles panées",
 "url": "https://www.picard.fr/produits/hauts-de-cuisses-de-poulet-000000000000088420.html"
 },
+"000000000000088428": {
+"format": "barquette de 320 g",
+"kilo": 24.37,
+"nom": "2 cailles farcies aux pommes et aux raisins",
+"par": "kg",
+"prix": 7.8,
+"rayon": "Viandes et poissons › Volailles › Volailles cuisinées",
+"url": "https://www.picard.fr/produits/2-cailles-farcies-farce-pommes-raisins-000000000000088428.html"
+},
 "000000000000088430": {
 "format": "le sachet de 300 g",
 "kilo": 17.33,
@@ -13156,6 +14043,15 @@
 "prix": 30.99,
 "rayon": "Apéritifs et entrées › Entrées › Entrées Foie gras",
 "url": "https://www.picard.fr/produits/l-originel-foie-gras-canard-entier-sud-ouest-000000000000088478.html"
+},
+"000000000000088479": {
+"format": "l'étui de 100 g",
+"kilo": 99.9,
+"nom": "Le Croquant. Bloc foie gras de canard Sud-ouest",
+"par": "kg",
+"prix": 9.99,
+"rayon": "Apéritifs et entrées › Entrées › Entrées Foie gras",
+"url": "https://www.picard.fr/produits/le-croquant-000000000000088479.html"
 },
 "000000000000089006": {
 "format": "le sachet de 600 g",
@@ -13237,6 +14133,15 @@
 "prix": 4.99,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/30-mini-feuilletes-saveurs-soleil-000000000000089060.html"
+},
+"000000000000089063": {
+"format": "la boîte de 108 g",
+"kilo": 64.72,
+"nom": "9 boutons de rose apéritifs",
+"par": "kg",
+"prix": 6.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
+"url": "https://www.picard.fr/produits/9-boutons-rose-aperitifs-000000000000089063.html"
 },
 "000000000000089080": {
 "format": "la boîte de 300 g",
@@ -13418,15 +14323,6 @@
 "rayon": "Apéritifs et entrées › Apéritifs › Pains surprises",
 "url": "https://www.picard.fr/produits/pain-surprise-polaire-000000000000089166.html"
 },
-"000000000000089167": {
-"format": "la boîte de 150 g",
-"kilo": 56.66,
-"nom": "16 petits fours",
-"par": "kg",
-"prix": 8.5,
-"rayon": "Apéritifs et entrées › Apéritifs › Verrines, canapés",
-"url": "https://www.picard.fr/produits/16-petits-fours-000000000000089167.html"
-},
 "000000000000089169": {
 "format": "la boîte de 150 g",
 "kilo": 53.26,
@@ -13553,15 +14449,6 @@
 "rayon": "Pizzas et tartes › Tartes salées › Feuilletés",
 "url": "https://www.picard.fr/produits/2-chaussons-tomate-mozzarella-000000000000089264.html"
 },
-"000000000000089267": {
-"format": "la boîte de 245 g",
-"kilo": 15.46,
-"nom": "Mini-cake chorizo tomate cerise confite",
-"par": "kg",
-"prix": 3.79,
-"rayon": "Apéritifs et entrées › Apéritifs › Cakes, feuilletés",
-"url": "https://www.picard.fr/produits/mini-cake-chorizo-tomate-000000000000089267.html"
-},
 "000000000000089274": {
 "format": "le sachet de 240 g",
 "kilo": 32.5,
@@ -13589,15 +14476,6 @@
 "rayon": "Pizzas et tartes › Tartes salées › Tartes individuelles",
 "url": "https://www.picard.fr/produits/2-pissaladieres-300g-000000000000089277.html"
 },
-"000000000000089293": {
-"format": "le bol de 300 g",
-"kilo": 15.0,
-"nom": "Salade radiatori thon",
-"par": "kg",
-"prix": 4.5,
-"rayon": "Apéritifs et entrées › Entrées › Entrées froides",
-"url": "https://www.picard.fr/produits/salade-radiatori-thon-leg-000000000000089293.html"
-},
 "000000000000089305": {
 "format": "la boîte de 300 g",
 "kilo": 16.63,
@@ -13616,15 +14494,6 @@
 "rayon": "Apéritifs et entrées › Entrées › Cassolettes, coquilles et escargots",
 "url": "https://www.picard.fr/produits/2-cassolettes-au-bar-a-la-crevette-a-l-ecrevisse-et-aux-petits-legumes-000000000000089319.html"
 },
-"000000000000089321": {
-"format": "la boîte de 750 g",
-"kilo": 13.32,
-"nom": "Fried snacks, assortiment de bouchées panées",
-"par": "kg",
-"prix": 9.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/americain-box-party-000000000000089321.html"
-},
 "000000000000089322": {
 "format": "la boîte de 290 g",
 "kilo": 13.62,
@@ -13633,15 +14502,6 @@
 "prix": 3.95,
 "rayon": "Pizzas et tartes › Tartes salées › Tartes à partager",
 "url": "https://www.picard.fr/produits/tarte-fine-boeuf-cheddar-000000000000089322.html"
-},
-"000000000000089327": {
-"format": "la boîte de 220 g",
-"kilo": 36.31,
-"nom": "2 cassolettes aux noix de Saint-Jacques",
-"par": "kg",
-"prix": 7.99,
-"rayon": "Apéritifs et entrées › Entrées › Cassolettes, coquilles et escargots",
-"url": "https://www.picard.fr/produits/2-cassol-st-jacq%2Fmuscadet-000000000000089327.html"
 },
 "000000000000089335": {
 "format": "la boîte de 175 g",
@@ -13742,15 +14602,6 @@
 "rayon": "Pizzas et tartes › Pizzas › Pizzas traditionnelles",
 "url": "https://www.picard.fr/produits/pizza-funghi-e-tartufo-000000000000089421.html"
 },
-"000000000000089422": {
-"format": "le sachet de 240 g",
-"kilo": 16.62,
-"nom": "Corn dogs pops, bille de saucisse",
-"par": "kg",
-"prix": 3.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/corn-dogs-pops-240g-000000000000089422.html"
-},
 "000000000000089423": {
 "format": "la boîte de 400 g",
 "kilo": 12.0,
@@ -13805,14 +14656,14 @@
 "rayon": "Cuisine du monde › Pays › Plats Méditerranéens",
 "url": "https://www.picard.fr/produits/chapati-sauce-mechouia-000000000000089432.html"
 },
-"000000000000089434": {
-"format": "la boîte de 160 g",
-"kilo": 49.93,
-"nom": "2 dômes crustacés légumes croquants",
+"000000000000089437": {
+"format": "la boîte de 220 g",
+"kilo": 45.4,
+"nom": "2 cassolettes lotte crevettes, Saint Jacques",
 "par": "kg",
-"prix": 7.99,
-"rayon": "Apéritifs et entrées › Entrées › Entrées froides",
-"url": "https://www.picard.fr/produits/2-domes-crustaces-000000000000089434.html"
+"prix": 9.99,
+"rayon": "Apéritifs et entrées › Entrées › Cassolettes, coquilles et escargots",
+"url": "https://www.picard.fr/produits/2-cassolettes-lotte-crevette-000000000000089437.html"
 },
 "000000000000089439": {
 "format": "la boîte de 400 g",
@@ -13831,15 +14682,6 @@
 "prix": 4.8,
 "rayon": "Pizzas et tartes › Pizzas › Pizzas végétariennes",
 "url": "https://www.picard.fr/produits/pizza-houmous-sce-framb-000000000000089440.html"
-},
-"000000000000089442": {
-"format": "le sachet de 200 g",
-"kilo": 17.5,
-"nom": "Mini-galettes au sarrasin",
-"par": "kg",
-"prix": 3.5,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/mini-galettes-sarrasin-000000000000089442.html"
 },
 "000000000000089445": {
 "format": "la boîte de 120 g",
@@ -13911,7 +14753,7 @@
 "par": "kg",
 "prix": 3.5,
 "rayon": "Pizzas et tartes › Pizzas",
-"url": "https://www.picard.fr/produits/pizza-panini-210g-000000000000089465.html"
+"url": "https://www.picard.fr/produits/pizza-panini-000000000000089465.html"
 },
 "000000000000089473": {
 "format": "la boîte de 100 g",
@@ -13992,7 +14834,7 @@
 "par": "kg",
 "prix": 18.99,
 "rayon": "Viandes et poissons › Fruits de mer › Escargots",
-"url": "https://www.picard.fr/produits/escargots-b%2Fg-x36-000000000000089511.html"
+"url": "https://www.picard.fr/produits/36-escargots-belle-grosseur-000000000000089511.html"
 },
 "000000000000089512": {
 "format": "la boîte de 85 g",
@@ -14093,15 +14935,6 @@
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
 "url": "https://www.picard.fr/produits/8-mini-coeurs-aperitifs-st-valentin-000000000000089541.html"
 },
-"000000000000089552": {
-"format": "barquette de 300 g",
-"kilo": 6.66,
-"nom": "Curry de légumes et pois chiches, duo de riz",
-"par": "kg",
-"prix": 2.0,
-"rayon": "Plats cuisinés › Gammes › Formule Express",
-"url": "https://www.picard.fr/produits/curry-leg%2Fpois-chiches-fe-000000000000089552.html"
-},
 "000000000000089555": {
 "format": "la boîte de 160 g",
 "kilo": 17.5,
@@ -14137,6 +14970,15 @@
 "prix": 5.99,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/6-mises-en-bouches-festives-000000000000089597.html"
+},
+"000000000000089600": {
+"format": "la boîte de 88 g",
+"kilo": 102.15,
+"nom": "8 bouchées au homard sauce façon thermidor",
+"par": "kg",
+"prix": 8.99,
+"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs froids",
+"url": "https://www.picard.fr/produits/8-bouchees-au-homard-000000000000089600.html"
 },
 "000000000000089605": {
 "format": "la boîte de 260 g",
@@ -14210,15 +15052,6 @@
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/8-mini-focaccias-thym-000000000000089707.html"
 },
-"000000000000089708": {
-"format": "la boîte de 270 g",
-"kilo": 22.18,
-"nom": "15 mini-quiches",
-"par": "kg",
-"prix": 5.99,
-"rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
-"url": "https://www.picard.fr/produits/15-mini-quiches-000000000000089708.html"
-},
 "000000000000089710": {
 "format": "la boîte de 142 g",
 "kilo": 61.26,
@@ -14239,10 +15072,10 @@
 },
 "000000000000089714": {
 "format": "la boîte de 121 g",
-"kilo": 53.71,
+"kilo": 57.76,
 "nom": "9 croustilles apéritives aux noix de St-Jacques",
 "par": "kg",
-"prix": 6.5,
+"prix": 6.99,
 "rayon": "Apéritifs et entrées › Apéritifs › Apéritifs chauds",
 "url": "https://www.picard.fr/produits/9-croustilles-aperitives-noix-st-jacques-000000000000089714.html"
 },
@@ -14291,6 +15124,15 @@
 "rayon": "Plats cuisinés › Gammes › Formule Express",
 "url": "https://www.picard.fr/produits/hachis-parmentier-individuel-000000000000089781.html"
 },
+"000000000000089782": {
+"format": "la boîte de 300 g",
+"kilo": 12.33,
+"nom": "Bâtonnets panés à la mozzarella",
+"par": "kg",
+"prix": 3.7,
+"rayon": "Apéritifs et entrées › Apéritifs",
+"url": "https://www.picard.fr/produits/batonnets-panes-mozzarella-000000000000089782.html"
+},
 "000000000000089790": {
 "format": "la boîte de 310 g",
 "kilo": 22.54,
@@ -14327,15 +15169,6 @@
 "rayon": "Plats cuisinés › Gammes › Esprit de famille",
 "url": "https://www.picard.fr/produits/paella-de-la-mer-int-000000000000200168.html"
 },
-"000000000000200170": {
-"format": "le sachet de 440 g",
-"kilo": 12.5,
-"nom": "5 croissants aux amandes",
-"par": "kg",
-"prix": 5.5,
-"rayon": "Pains et viennoiseries › Viennoiseries › Croissants et pains au chocolat",
-"url": "https://www.picard.fr/produits/5-croissants-amandes-int-000000000000200170.html"
-},
 "000000000000400001": {
 "format": "la boîte de 140 g",
 "kilo": 32.85,
@@ -14364,6 +15197,6 @@
 "url": "https://www.picard.fr/produits/douceurs-de-france-000000000000400041.html"
 }
 },
-"releve": "2026-11-09",
+"releve": "2026-11-16",
 "source": "picard.fr"
 }
